@@ -1,0 +1,1253 @@
+,customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,tenure,age,earnings
+0,9,Mala,Lind,Female,97,1973-03-10,Business Systems Development Analyst,Argiculture,Affluent Customer,N,Yes,8,48,2353.1099999999997
+1,10,Fiorenze,Birdall,Female,49,1988-10-11,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,20,33,3358.28
+2,14,Rayshell,Kitteman,Female,85,1983-03-25,Account Executive,Financial Services,Affluent Customer,N,No,6,38,1713.9
+3,19,Sorcha,Keyson,Female,76,2001-04-15,Geological Engineer,Manufacturing,High Net Worth,N,No,1,20,1736.45
+4,24,Kim,Skpsey,Female,55,1977-12-03,Research Assistant I,Argiculture,Mass Customer,N,Yes,15,44,3689.35
+5,26,Trixi,Ginnelly,Female,12,1978-06-10,Editor,Financial Services,Mass Customer,N,Yes,16,43,268.2399999999999
+6,29,Mona,Sancraft,Female,62,1968-06-22,Safety Technician III,Manufacturing,Mass Customer,N,No,19,53,6175.299999999999
+7,31,Star,Praton,Female,3,1962-11-24,Staff Accountant III,Telecommunications,High Net Worth,N,Yes,14,59,426.10999999999996
+8,32,Marion,Vanichkin,Female,17,1995-04-20,Legal Assistant,Manufacturing,Affluent Customer,N,No,4,26,2823.12
+9,35,Margaretha,Strettle,Female,40,1963-09-28,Information Systems Manager,Health,High Net Worth,N,Yes,16,58,3706.5099999999998
+10,37,Laurie,Dwerryhouse,Female,46,1985-12-22,Social Worker,Health,High Net Worth,N,No,16,36,6338.49
+11,38,Cordi,Merman,Female,37,1955-10-29,Senior Cost Accountant,Financial Services,Affluent Customer,N,No,20,66,2025.34
+12,40,Tomasine,Jerche,Female,91,1981-10-27,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,N,No,14,40,3272.7
+13,42,Chiquita,Durnall,Female,24,1977-03-28,Accountant III,Manufacturing,Mass Customer,N,No,18,44,427.03999999999996
+14,43,Indira,Belt,Female,38,1983-03-01,Director of Sales,Retail,Mass Customer,N,No,5,38,3619.95
+15,53,Agnella,Gocke,Female,22,1954-04-18,Software Test Engineer II,Financial Services,Mass Customer,N,No,16,67,2950.0699999999997
+16,58,Dalenna,Pinnock,Female,26,1967-07-04,Office Assistant III,Financial Services,Affluent Customer,N,Yes,17,54,3501.37
+17,61,Kacey,Rowbottom,Female,47,1959-11-29,Help Desk Operator,Property,High Net Worth,N,No,13,62,4254.24
+18,63,Ebony,Zini,Female,58,1965-07-03,Senior Quality Engineer,Retail,Mass Customer,N,Yes,16,56,2190.05
+19,75,Dollie,Sealy,Female,28,1978-07-15,VP Product Management,Property,Mass Customer,N,No,19,43,4979.94
+20,76,Rea,Hasser,Female,20,1978-01-23,Statistician II,Retail,High Net Worth,N,Yes,18,43,2868.16
+21,79,Tybi,Silliman,Female,76,1968-10-02,Account Executive,Manufacturing,Mass Customer,N,No,18,53,1860.29
+22,82,Gleda,Cokely,Female,93,1965-06-28,Software Test Engineer III,Property,High Net Worth,N,No,19,56,2924.37
+23,88,Malynda,Tumber,Female,41,1966-02-03,Help Desk Operator,Property,High Net Worth,N,Yes,7,55,2534.3300000000004
+24,92,Jodee,Judkins,Female,98,1980-09-11,Recruiting Manager,Health,Mass Customer,N,No,12,41,2967.4399999999996
+25,95,Nomi,Mallinder,Female,67,1960-12-25,Software Engineer III,Manufacturing,Affluent Customer,N,Yes,8,61,3050.8099999999995
+26,98,Allianora,Babalola,Female,19,1956-03-17,Safety Technician IV,Health,Mass Customer,N,No,7,65,1620.7500000000002
+27,103,Ethyl,Runham,Female,49,1997-04-21,Product Engineer,Financial Services,Affluent Customer,N,Yes,4,24,895.4499999999999
+28,104,Odille,Panketh,Female,40,1978-06-06,Automation Specialist II,Health,Mass Customer,N,Yes,9,43,3112.8000000000006
+29,105,Maribeth,Pristnor,Female,25,2001-09-17,Recruiting Manager,Manufacturing,Mass Customer,N,No,1,20,3475.04
+30,107,Pris,Stallebrass,Female,97,1990-07-01,Nurse Practicioner,Financial Services,Mass Customer,N,Yes,9,31,2343.9700000000003
+31,112,Shena,Parren,Female,88,1975-08-12,Marketing Manager,Retail,High Net Worth,N,No,12,46,5742.19
+32,114,Sunny,Swindells,Female,10,1985-10-23,Teacher,Entertainment,Affluent Customer,N,No,8,36,2195.26
+33,117,Nance,Suttling,Female,75,1982-02-23,Marketing Manager,Manufacturing,Mass Customer,N,No,15,39,6917.34
+34,123,Almeta,Kalinsky,Female,85,1988-12-03,Analyst Programmer,Financial Services,High Net Worth,N,No,15,33,3245.75
+35,124,Kath,Cunney,Female,27,1995-05-03,Administrative Assistant II,Health,High Net Worth,N,Yes,5,26,4054.25
+36,125,Darrelle,Antoniewski,Female,94,1960-03-17,Computer Systems Analyst II,Property,Mass Customer,N,No,16,61,3345.01
+37,127,Merrili,Whitear,Female,81,1974-12-03,Compensation Analyst,Financial Services,Mass Customer,N,No,19,47,3993.71
+38,131,Jana,Renyard,Female,57,1964-10-16,Administrative Officer,Retail,High Net Worth,N,No,8,57,5494.91
+39,132,Celesta,Willavoys,Female,5,1963-07-07,Web Designer I,Manufacturing,Mass Customer,N,Yes,9,58,2780.7200000000003
+40,134,Merna,McCulloch,Female,34,1997-08-01,Legal Assistant,Telecommunications,Affluent Customer,N,Yes,5,24,2946.42
+41,135,Rosalia,Sigart,Female,18,1975-01-18,Internal Auditor,IT,Mass Customer,N,No,3,46,4549.5
+42,147,Rea,Pattrick,Female,32,1973-12-06,Analog Circuit Design manager,Health,Mass Customer,N,Yes,10,48,5034.16
+43,149,Drucy,Kausche,Female,41,1995-01-31,Research Nurse,Health,Mass Customer,N,Yes,1,26,1680.6599999999999
+44,152,Stephana,Cardew,Female,5,1981-03-03,Compensation Analyst,Financial Services,Mass Customer,N,No,16,40,1966.88
+45,153,Lorilyn,Walshe,Female,73,1977-07-28,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,12,44,5522.509999999999
+46,156,Shayla,Rimmington,Female,23,1979-09-09,Cost Accountant,Financial Services,Mass Customer,N,Yes,11,42,3095.3699999999994
+47,163,Kessia,Helder,Female,58,1976-09-06,Librarian,Entertainment,High Net Worth,N,Yes,14,45,1101.28
+48,164,Aarika,Van Vuuren,Female,55,1999-08-07,Senior Editor,Retail,Affluent Customer,N,Yes,1,22,786.1400000000001
+49,171,Halli,Davidoff,Female,62,1970-12-04,Assistant Manager,Manufacturing,Mass Customer,N,No,10,51,4833.14
+50,173,Ebba,Hanselmann,Female,99,1997-01-02,General Manager,Health,Affluent Customer,N,No,1,24,6549.509999999999
+51,174,Catie,Tosspell,Female,93,1989-11-26,Food Chemist,Health,Mass Customer,N,No,12,32,7628.24
+52,177,Ondrea,Pablos,Female,25,1989-11-09,Professor,Financial Services,High Net Worth,N,No,4,32,4108.599999999999
+53,180,Trisha,Neasham,Female,16,1971-09-17,Web Designer III,Argiculture,Affluent Customer,N,No,14,50,4065.35
+54,181,Pavla,Braunle,Female,49,1982-11-21,Senior Editor,Manufacturing,Mass Customer,N,No,9,39,2365.24
+55,183,Dannie,Hissie,Female,7,1997-08-05,Geologist III,Retail,Affluent Customer,N,No,3,24,3187.84
+56,186,Mireielle,Jeppe,Female,46,1974-05-06,Software Test Engineer I,Financial Services,Mass Customer,N,No,3,47,2166.17
+57,188,Audry,Seine,Female,54,1975-06-22,Safety Technician II,Property,High Net Worth,N,Yes,13,46,2658.87
+58,190,Hayley,Girardengo,Female,42,1979-02-04,Registered Nurse,Health,Affluent Customer,N,No,10,42,704.2800000000002
+59,192,Goldi,Osler,Female,2,1978-11-19,Junior Executive,Health,Mass Customer,N,Yes,8,43,1519.4700000000003
+60,194,Ursala,Ferrai,Female,4,1974-11-16,Web Developer III,Financial Services,Affluent Customer,N,No,10,47,2608.28
+61,195,Talyah,Rylatt,Female,34,1958-11-14,Project Manager,Manufacturing,Mass Customer,N,No,6,63,9633.41
+62,198,Vanya,Gumb,Female,82,1981-11-29,Assistant Media Planner,Entertainment,Mass Customer,N,No,16,40,6631.87
+63,199,Verla,Alven,Female,61,1978-02-13,Junior Executive,Health,Mass Customer,N,Yes,21,43,2650.53
+64,202,Audie,Pillinger,Female,38,1963-06-24,Librarian,Entertainment,Affluent Customer,N,Yes,16,58,1295.91
+65,212,Nanice,Ellse,Female,21,2001-11-19,Desktop Support Technician,IT,Affluent Customer,N,No,1,20,1790.41
+66,215,Debera,Foxworthy,Female,37,1974-06-24,Assistant Professor,Retail,High Net Worth,N,Yes,18,47,3889.3900000000003
+67,216,Cinderella,Parcall,Female,12,1995-01-12,Quality Engineer,Financial Services,High Net Worth,N,Yes,7,26,2152.05
+68,218,Stefa,Dunnan,Female,37,1993-08-06,Administrative Officer,Property,High Net Worth,N,Yes,8,28,1476.17
+69,220,Jeniffer,Apark,Female,79,1954-05-10,Electrical Engineer,Manufacturing,High Net Worth,N,No,9,67,4304.11
+70,221,Mara,Bloore,Female,14,1980-03-10,Tax Accountant,Manufacturing,Mass Customer,N,No,14,41,3865.6800000000003
+71,225,Brittaney,Pring,Female,84,1977-03-11,Pharmacist,Health,Affluent Customer,N,No,13,44,1587.5500000000002
+72,228,Lucia,Pickervance,Female,59,1986-05-25,Systems Administrator II,Manufacturing,High Net Worth,N,No,12,35,3719.75
+73,230,Maegan,Scyone,Female,74,1954-06-24,Internal Auditor,Property,High Net Worth,N,No,11,67,5319.63
+74,232,Zaria,Koeppke,Female,94,1987-11-11,Professor,Retail,Mass Customer,N,No,12,34,3157.59
+75,234,Mead,Alpes,Female,71,1969-08-12,Chief Design Engineer,Retail,High Net Worth,N,No,12,52,5763.129999999999
+76,235,Leona,Phateplace,Female,30,1976-12-26,Social Worker,Health,Mass Customer,N,No,15,45,4685.82
+77,243,Barbara,Croxley,Female,94,1976-09-02,Teacher,Manufacturing,High Net Worth,N,Yes,14,45,2193.55
+78,245,Noell,Grahlmans,Female,6,2001-09-26,Associate Professor,Financial Services,Affluent Customer,N,No,1,20,2213.0199999999995
+79,246,Binny,Whight,Female,63,1991-02-28,Technical Writer,Manufacturing,High Net Worth,N,No,9,30,3174.16
+80,247,Kristal,Joysey,Female,62,1983-05-06,Staff Accountant II,Financial Services,High Net Worth,N,Yes,13,38,4913.16
+81,248,Inger,Eskell,Female,76,1978-04-15,Clinical Specialist,Health,Affluent Customer,N,Yes,12,43,3193.3199999999997
+82,252,Anthea,Ruskin,Female,39,1983-01-24,Account Coordinator,Property,Mass Customer,N,Yes,13,38,2597.64
+83,253,Amalee,Choak,Female,82,1997-05-11,Food Chemist,Health,Mass Customer,N,Yes,1,24,1191.29
+84,254,Barbie,Rubi,Female,98,1961-09-22,Information Systems Manager,Retail,Mass Customer,N,No,14,60,6780.95
+85,255,Keeley,Kruger,Female,2,1954-01-15,Desktop Support Technician,IT,Mass Customer,N,No,5,67,6813.82
+86,256,Linell,Beadle,Female,16,1975-05-07,Director of Sales,Health,High Net Worth,N,Yes,21,46,1728.6599999999999
+87,258,Othella,Keher,Female,24,1992-05-03,Administrative Officer,Manufacturing,High Net Worth,N,No,9,29,1642.58
+88,259,Venita,Dymick,Female,70,1983-07-22,Senior Developer,Health,High Net Worth,N,Yes,3,38,2124.65
+89,260,Farand,Marriner,Female,47,1979-08-30,Senior Quality Engineer,Health,High Net Worth,N,Yes,22,42,3381.41
+90,263,Tonia,Leigh,Female,89,1985-11-19,Dental Hygienist,Health,High Net Worth,N,No,7,36,3476.94
+91,266,Lelia,Garatty,Female,69,1989-07-19,Account Executive,Retail,Affluent Customer,N,No,18,32,1742.83
+92,268,Kacie,Kidston,Female,60,1978-10-18,Chemical Engineer,Manufacturing,Mass Customer,N,No,10,43,2713.19
+93,271,Doll,Burtwell,Female,51,1991-02-13,Financial Advisor,Financial Services,Mass Customer,N,No,4,30,1026.2700000000002
+94,272,Arlie,Crean,Female,22,1987-06-06,Product Engineer,Retail,Mass Customer,N,Yes,1,34,3842.0699999999997
+95,274,Tessi,Hesse,Female,66,1976-09-15,Social Worker,Health,Mass Customer,N,Yes,14,45,790.0600000000001
+96,279,Tamera,Hinckes,Female,0,1981-09-09,Web Designer I,Manufacturing,Mass Customer,N,No,11,40,2455.93
+97,281,Jeanette,Sizzey,Female,51,1972-12-27,Cost Accountant,Financial Services,High Net Worth,N,Yes,8,49,2233.67
+98,283,Sari,Noye,Female,34,1991-02-04,Assistant Manager,Retail,Mass Customer,N,No,2,30,4792.789999999999
+99,285,Julee,Janovsky,Female,3,1977-11-19,Community Outreach Specialist,Manufacturing,Mass Customer,N,No,12,44,2626.74
+100,287,Hannie,Wodham,Female,41,1985-05-06,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,4,36,1408.91
+101,289,Modestia,Lithgow,Female,43,1970-04-12,Clinical Specialist,Health,High Net Worth,N,No,10,51,3924.11
+102,291,Aime,Burston,Female,63,1971-10-22,Assistant Media Planner,Entertainment,Mass Customer,N,No,4,50,605.01
+103,297,Cecile,MacLise,Female,33,1959-04-27,Electrical Engineer,Manufacturing,High Net Worth,N,No,16,62,3599.1800000000003
+104,299,Corabelle,Hartnell,Female,80,1956-09-15,Budget/Accounting Analyst I,Financial Services,Mass Customer,N,Yes,7,65,6897.920000000001
+105,301,Hildy,Bilbrook,Female,54,1980-10-10,Developer IV,Manufacturing,High Net Worth,N,No,19,41,89.71000000000001
+106,303,Shane,Smetoun,Female,59,1974-08-15,Assistant Professor,Argiculture,Mass Customer,N,Yes,14,47,3247.08
+107,305,Cris,Chellam,Female,1,1974-03-17,Financial Analyst,Financial Services,Mass Customer,N,No,11,47,2229.2799999999997
+108,309,Maurizia,Ligerton,Female,53,1974-10-02,Clinical Specialist,Health,Mass Customer,N,Yes,21,47,2208.58
+109,310,Myranda,Clowser,Female,0,1985-02-13,Account Coordinator,Financial Services,Mass Customer,N,Yes,18,36,4744.19
+110,311,Jaimie,Halms,Female,86,1957-08-16,Internal Auditor,Health,High Net Worth,N,No,12,64,4054.4800000000005
+111,314,Catie,Advani,Female,27,1962-08-25,Marketing Assistant,Retail,High Net Worth,N,Yes,5,59,3200.15
+112,315,Lisa,Odlin,Female,67,1958-04-16,Chief Design Engineer,Manufacturing,Affluent Customer,N,No,12,63,2200.11
+113,316,Genni,Larway,Female,72,1976-06-01,Environmental Specialist,Manufacturing,Mass Customer,N,Yes,10,45,2158.71
+114,317,Elicia,Dahler,Female,26,1974-02-10,Automation Specialist II,Entertainment,Mass Customer,N,Yes,14,47,2766.2700000000004
+115,318,Libbie,Castelin,Female,21,1969-05-19,Programmer III,Retail,Affluent Customer,N,Yes,18,52,3632.1800000000003
+116,322,De,Denington,Female,19,1977-03-10,Research Associate,Financial Services,Mass Customer,N,Yes,11,44,10336.77
+117,323,Celka,Goodrich,Female,54,1973-06-04,Senior Developer,Health,Mass Customer,N,Yes,7,48,2020.73
+118,325,Anthia,Ghilardini,Female,98,1971-09-26,Computer Systems Analyst I,Financial Services,Affluent Customer,N,Yes,17,50,4465.08
+119,326,Guenna,Spensly,Female,74,1980-02-16,Help Desk Operator,Financial Services,Mass Customer,N,No,6,41,1201.2499999999998
+120,327,Cris,Richfield,Female,10,1968-07-24,Design Engineer,Health,Mass Customer,N,No,12,53,3498.63
+121,328,Bernice,Kings,Female,87,1991-04-11,Senior Developer,Manufacturing,Mass Customer,N,No,12,30,2357.8
+122,332,Liza,Trouel,Female,23,1978-08-19,Registered Nurse,Health,High Net Worth,N,No,14,43,239.35000000000002
+123,333,Debbi,Doohey,Female,25,1965-06-20,Sales Associate,Financial Services,Affluent Customer,N,Yes,8,56,3186.7200000000003
+124,334,Fredi,Iannuzzelli,Female,71,1999-05-20,Financial Advisor,Financial Services,Affluent Customer,N,Yes,3,22,2127.59
+125,337,Shaylah,Urquhart,Female,67,1979-10-08,Statistician IV,Argiculture,High Net Worth,N,Yes,12,42,3388.8199999999997
+126,339,Nanny,Casero,Female,56,1980-01-11,Human Resources Manager,Health,Mass Customer,N,No,12,41,4327.24
+127,343,Nicole,Johananoff,Female,76,1957-08-14,Recruiter,Property,Affluent Customer,N,No,13,64,5193.5599999999995
+128,345,Tish,Oleksiak,Female,74,1989-02-03,Senior Sales Associate,Health,High Net Worth,N,Yes,17,32,3971.46
+129,349,Vinnie,Usherwood,Female,35,1981-04-15,Computer Systems Analyst IV,Manufacturing,High Net Worth,N,No,4,40,1669.26
+130,350,Carmela,Jesper,Female,47,1977-12-09,Clinical Specialist,Health,Mass Customer,N,Yes,9,44,1008.7100000000003
+131,354,Mavra,Donavan,Female,87,1980-11-26,Legal Assistant,Property,Mass Customer,N,No,9,41,3101.72
+132,355,Stacy,Gullane,Female,97,1979-06-01,Database Administrator II,Retail,Mass Customer,N,Yes,3,42,2662.75
+133,359,Dulcine,Gauson,Female,2,1958-11-28,Legal Assistant,Manufacturing,Affluent Customer,N,Yes,6,63,2921.7599999999998
+134,360,Atalanta,Starbucke,Female,64,1956-04-02,Staff Scientist,Property,Mass Customer,N,Yes,19,65,5070.23
+135,361,Stephana,Minero,Female,59,1999-03-27,Software Engineer IV,Health,Mass Customer,N,Yes,2,22,3428.15
+136,362,Jamima,Pirolini,Female,47,1974-11-17,Software Engineer IV,Financial Services,High Net Worth,N,Yes,18,47,463.02
+137,363,Sabrina,Caddy,Female,82,1988-03-04,Project Manager,Retail,Mass Customer,N,Yes,7,33,9458.17
+138,364,Leontyne,Simpkiss,Female,96,1976-09-30,Database Administrator III,Financial Services,Affluent Customer,N,No,11,45,3329.9700000000003
+139,365,Romona,Capitano,Female,98,1976-06-27,VP Quality Control,Property,High Net Worth,N,No,15,45,4724.04
+140,366,Constance,Ucchino,Female,7,1954-01-08,Librarian,Entertainment,High Net Worth,N,No,19,67,2692.7
+141,367,Katrinka,Sturrock,Female,93,1985-02-17,Programmer II,Manufacturing,Mass Customer,N,Yes,12,36,2022.2000000000003
+142,372,Moina,Thumim,Female,19,1987-08-13,Graphic Designer,Property,Affluent Customer,N,Yes,4,34,2598.13
+143,373,Eva,Colenutt,Female,95,2000-08-26,Structural Analysis Engineer,Health,High Net Worth,N,Yes,1,21,1103.43
+144,376,Marena,Brunotti,Female,60,1966-10-24,Financial Advisor,Financial Services,Mass Customer,N,Yes,19,55,368.1700000000001
+145,378,Raquela,Yuille,Female,98,1974-05-04,Senior Developer,Retail,Mass Customer,N,No,17,47,3236.3199999999997
+146,380,Teriann,Birdsey,Female,66,1956-05-15,Structural Engineer,Property,Mass Customer,N,No,17,65,6196.16
+147,386,Ethelyn,Pincott,Female,63,1990-10-27,Senior Quality Engineer,Argiculture,Mass Customer,N,No,5,31,2415.9700000000003
+148,389,Dorene,Scrivner,Female,97,1975-04-27,Help Desk Operator,Entertainment,Affluent Customer,N,Yes,17,46,2123.26
+149,394,Roanne,Cowthard,Female,70,1977-06-06,Legal Assistant,Health,High Net Worth,N,Yes,16,44,5445.46
+150,396,Peria,Iscowitz,Female,98,1967-01-25,Systems Administrator III,Telecommunications,High Net Worth,N,Yes,16,54,4647.13
+151,397,Nerissa,Foote,Female,86,1981-09-02,Paralegal,Financial Services,Affluent Customer,N,Yes,5,40,2618.0
+152,400,Sibeal,Fellow,Female,86,1962-05-19,Financial Analyst,Financial Services,Mass Customer,N,No,5,59,2688.92
+153,401,Halette,Helling,Female,56,1986-12-11,Assistant Professor,Retail,Mass Customer,N,No,15,35,3643.0299999999997
+154,406,Rhona,Spilsburie,Female,58,1987-06-16,Financial Analyst,Financial Services,High Net Worth,N,No,12,34,3445.0099999999998
+155,409,Tatiania,O'Kane,Female,84,1978-01-23,Executive Secretary,Health,Mass Customer,N,Yes,13,43,2267.84
+156,411,Cathyleen,Bern,Female,84,1977-03-31,Director of Sales,Financial Services,High Net Worth,N,No,12,44,2553.8300000000004
+157,415,Conchita,Jeans,Female,20,1955-05-31,Senior Financial Analyst,Financial Services,Affluent Customer,N,Yes,18,66,1490.77
+158,417,Fernandina,Brambley,Female,37,1971-02-17,Biostatistician IV,Argiculture,Mass Customer,N,No,15,50,3807.6400000000003
+159,419,Chrissie,Bernardini,Female,34,1981-01-26,VP Marketing,Manufacturing,Affluent Customer,N,No,17,40,5027.37
+160,421,Tish,Netti,Female,26,1999-03-19,Sales Representative,Retail,Mass Customer,N,Yes,2,22,3952.15
+161,425,Michaeline,Bordman,Female,60,1953-11-19,Sales Representative,Retail,Mass Customer,N,Yes,20,68,7388.6
+162,426,Emlyn,Anstice,Female,10,1972-06-02,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,8,49,5302.9
+163,428,Freida,Everil,Female,0,1977-05-03,Structural Engineer,Health,High Net Worth,N,Yes,14,44,3355.1099999999997
+164,429,Berny,Bold,Female,7,1978-07-30,Community Outreach Specialist,IT,High Net Worth,N,Yes,21,43,3652.26
+165,430,Janice,Himsworth,Female,46,1973-04-26,Paralegal,Financial Services,High Net Worth,N,Yes,11,48,5625.17
+166,440,Sheena,O'Duggan,Female,46,1977-12-16,Business Systems Development Analyst,Telecommunications,Mass Customer,N,No,10,44,2481.1899999999996
+167,441,Felicle,Beneze,Female,74,1974-03-08,Analyst Programmer,IT,Mass Customer,N,No,11,47,1750.76
+168,444,Britteny,Falconer-Taylor,Female,32,1967-02-24,Staff Scientist,Manufacturing,Mass Customer,N,Yes,8,54,3807.4599999999996
+169,446,Marilee,Oosthout de Vree,Female,73,1978-07-02,Tax Accountant,IT,Affluent Customer,N,Yes,4,43,5363.3
+170,447,Brittany,Peasey,Female,98,2001-11-06,Help Desk Technician,Argiculture,Mass Customer,N,Yes,1,20,2690.73
+171,448,Robin,Crack,Female,34,1995-04-26,Software Engineer III,IT,High Net Worth,N,No,3,26,2413.08
+172,449,Shana,Fortesquieu,Female,74,1974-09-24,VP Product Management,Manufacturing,High Net Worth,N,Yes,6,47,3292.4
+173,450,Myrlene,Rothwell,Female,5,1975-04-02,Structural Analysis Engineer,Entertainment,Mass Customer,N,Yes,18,46,3178.3
+174,452,Natalee,Bamford,Female,22,1959-08-11,Account Coordinator,Property,Mass Customer,N,Yes,5,62,1561.59
+175,457,Querida,Danilchev,Female,70,1980-12-14,Recruiting Manager,Financial Services,High Net Worth,N,Yes,17,41,3680.3399999999997
+176,459,Bel,Cheeke,Female,88,1986-08-04,Civil Engineer,Manufacturing,Mass Customer,N,Yes,13,35,2402.4
+177,461,Jsandye,Melendez,Female,19,1979-10-09,Social Worker,Health,Mass Customer,N,Yes,14,42,5722.38
+178,463,Allis,Blanche,Female,9,1962-03-30,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,20,59,3829.7
+179,465,Alina,Wilsey,Female,54,1976-03-27,Developer III,Financial Services,Affluent Customer,N,Yes,14,45,3488.7900000000004
+180,468,Valeria,Ladyman,Female,11,1974-01-19,Software Test Engineer I,Property,High Net Worth,N,Yes,8,47,4063.5899999999997
+181,471,Libby,Wardesworth,Female,82,1956-01-01,GIS Technical Architect,Financial Services,Affluent Customer,N,No,14,65,3918.1099999999997
+182,472,Kippy,Jessel,Female,38,1990-11-16,Internal Auditor,Financial Services,Mass Customer,N,Yes,8,31,3309.79
+183,474,Consolata,Clacson,Female,86,1983-01-15,Geologist IV,Entertainment,Affluent Customer,N,No,18,38,1520.73
+184,477,Cheri,Hazeman,Female,32,1960-11-26,Media Manager II,Financial Services,High Net Worth,N,Yes,13,61,3375.06
+185,481,Marcella,Manzell,Female,68,1990-04-12,Programmer IV,Argiculture,Mass Customer,N,No,8,31,1617.21
+186,485,Ulrika,Steagall,Female,23,1974-11-08,Statistician III,Manufacturing,High Net Worth,N,No,20,47,2715.28
+187,486,Prudi,Edon,Female,0,1955-12-30,Technical Writer,Manufacturing,Affluent Customer,N,Yes,15,66,4915.7699999999995
+188,487,Elayne,Braiden,Female,70,1979-09-19,Food Chemist,Health,Mass Customer,N,No,10,42,687.5100000000001
+189,488,Domini,Ghelerdini,Female,24,1980-07-11,Help Desk Operator,Property,Mass Customer,N,Yes,10,41,1172.1
+190,489,Tresa,Reeks,Female,18,1971-05-31,Senior Editor,Retail,Mass Customer,N,Yes,4,50,2073.68
+191,490,Lida,Boynton,Female,44,1992-06-15,Environmental Tech,Argiculture,Mass Customer,N,No,6,29,4593.01
+192,493,Tommie,Banbridge,Female,83,1960-09-13,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,5,61,151.93999999999997
+193,496,Korry,Cosgrove,Female,25,1976-01-28,Engineer II,Financial Services,Affluent Customer,N,Yes,11,45,1310.77
+194,498,Emmalee,Sketcher,Female,58,1978-04-30,VP Sales,Manufacturing,High Net Worth,N,Yes,10,43,4982.410000000001
+195,502,Rica,Raveau,Female,39,1970-12-24,Teacher,Manufacturing,Mass Customer,N,No,18,51,2508.8100000000004
+196,506,Brett,Scrancher,Female,43,1985-02-14,Health Coach II,Retail,Mass Customer,N,No,21,36,6985.24
+197,508,Abagail,Tordiffe,Female,94,1971-01-18,Project Manager,Property,Mass Customer,N,Yes,11,50,2587.54
+198,511,Theo,Tolmie,Female,92,1982-12-02,Dental Hygienist,Health,High Net Worth,N,No,10,39,2782.8799999999997
+199,515,Winna,Verny,Female,55,1989-09-04,Help Desk Operator,IT,High Net Worth,N,No,8,32,5916.69
+200,517,Iona,Fidgeon,Female,73,1985-08-20,Chief Design Engineer,Property,Mass Customer,N,Yes,3,36,2632.16
+201,520,Jazmin,Neumann,Female,66,1964-08-09,VP Quality Control,Financial Services,Affluent Customer,N,Yes,15,57,819.2600000000001
+202,521,Peri,Hovie,Female,29,1978-12-19,Help Desk Operator,Health,High Net Worth,N,No,16,43,624.9000000000001
+203,523,Elberta,Tixall,Female,44,1974-11-24,Senior Financial Analyst,Financial Services,Affluent Customer,N,Yes,16,47,2795.7700000000004
+204,524,Florence,Held,Female,16,1962-09-09,Nurse,Retail,Mass Customer,N,No,11,59,2024.53
+205,527,Lorilyn,Topaz,Female,81,1990-10-19,VP Quality Control,Financial Services,Mass Customer,N,Yes,9,31,1694.76
+206,528,Gayel,Downs,Female,10,1979-06-06,Registered Nurse,Health,Mass Customer,N,No,4,42,4175.150000000001
+207,531,Modesty,Fletcher,Female,94,1993-08-26,Senior Cost Accountant,Financial Services,High Net Worth,N,No,1,28,1761.46
+208,532,Row,Mawditt,Female,25,1961-01-14,Community Outreach Specialist,Financial Services,Affluent Customer,N,No,19,60,2963.81
+209,536,Jannelle,Leist,Female,64,1959-04-07,Recruiting Manager,Manufacturing,Affluent Customer,N,No,16,62,2832.0599999999995
+210,537,Raine,Sneezum,Female,16,1989-03-26,Structural Engineer,Entertainment,High Net Worth,N,No,7,32,825.73
+211,538,Millicent,Wiffler,Female,33,1956-10-21,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,5,65,6447.15
+212,540,Tresa,Dy,Female,80,2001-04-28,Chemical Engineer,Manufacturing,Mass Customer,N,No,1,20,1821.0300000000002
+213,542,Berri,McManamen,Female,78,1967-01-14,Accountant III,Manufacturing,Mass Customer,N,No,18,54,2098.52
+214,545,Alecia,Crosse,Female,43,1978-06-04,Project Manager,Health,Mass Customer,N,Yes,18,43,5665.789999999999
+215,546,Jorie,Pigott,Female,80,1981-02-24,Information Systems Manager,Health,Mass Customer,N,Yes,12,40,4449.53
+216,547,Andee,Robjant,Female,22,1996-05-14,Sales Associate,Health,Mass Customer,N,No,5,25,2901.1899999999996
+217,551,Florence,Muldoon,Female,8,1987-08-10,Structural Engineer,Financial Services,High Net Worth,N,No,9,34,2850.0
+218,553,Charlean,Fantone,Female,62,1979-05-12,Senior Sales Associate,Argiculture,Affluent Customer,N,Yes,7,42,2566.27
+219,554,Esmaria,Dobbison,Female,33,1955-05-06,Graphic Designer,Health,Mass Customer,N,Yes,7,66,1670.6699999999998
+220,559,Erma,Vyel,Female,39,1988-03-05,Payment Adjustment Coordinator,Retail,High Net Worth,N,Yes,16,33,1824.48
+221,560,Dorree,Sanja,Female,1,1953-10-11,Social Worker,Health,Affluent Customer,N,No,8,68,3583.46
+222,564,Nettie,Iddy,Female,7,1983-11-07,Operator,Retail,High Net Worth,N,No,7,38,2143.39
+223,566,Datha,McPheat,Female,66,1978-12-09,Systems Administrator I,Financial Services,High Net Worth,N,Yes,9,43,2145.56
+224,571,Ramonda,McKellar,Female,30,1958-02-15,Assistant Media Planner,Entertainment,Mass Customer,N,No,6,63,2284.98
+225,579,Cathlene,Bellas,Female,89,1974-06-11,Software Engineer II,Health,Mass Customer,N,No,12,47,4204.6
+226,581,Brenna,Dacks,Female,32,1969-05-22,Computer Systems Analyst IV,Financial Services,Mass Customer,N,Yes,16,52,2223.5499999999997
+227,584,Fiona,Clines,Female,10,1995-09-15,Tax Accountant,Manufacturing,Affluent Customer,N,Yes,19,26,1270.2099999999998
+228,585,Tiphany,Bonnier,Female,66,1978-04-20,Pharmacist,Health,Mass Customer,N,Yes,10,43,2174.5
+229,586,Jayme,Baunton,Female,63,1999-03-15,Chief Design Engineer,Manufacturing,Mass Customer,N,No,4,22,2562.4700000000003
+230,590,Ddene,Burleton,Female,85,1988-09-09,Assistant Professor,Health,Mass Customer,N,Yes,11,33,6119.6
+231,596,Sue,Chapelhow,Female,9,1968-10-20,Recruiter,Property,Affluent Customer,N,No,13,53,3836.34
+232,597,Cassandra,Aucoate,Female,6,1954-12-10,Recruiter,Manufacturing,Mass Customer,N,No,6,67,1830.3900000000003
+233,603,Alidia,Durrett,Female,28,1987-04-18,Marketing Assistant,Financial Services,Affluent Customer,N,No,11,34,3148.1
+234,604,Mella,Petrovsky,Female,72,1998-02-10,Help Desk Operator,IT,Affluent Customer,N,No,3,23,4661.959999999999
+235,606,Filia,Rosson,Female,62,1989-07-16,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,2,32,2488.5299999999997
+236,607,Adelaida,Redmond,Female,55,1976-08-10,Dental Hygienist,Health,Mass Customer,N,No,15,45,7137.62
+237,608,Alisun,Heinecke,Female,55,1980-01-08,Accounting Assistant I,Retail,High Net Worth,N,Yes,12,41,4050.11
+238,609,Margalit,Dorwood,Female,32,2000-11-06,Computer Systems Analyst II,Health,Mass Customer,N,No,1,21,2168.73
+239,613,Carolann,O'Hallagan,Female,4,1989-11-14,Analyst Programmer,Property,High Net Worth,N,No,17,32,2098.59
+240,615,Rebeca,Martonfi,Female,93,1956-05-11,Human Resources Assistant I,Property,Mass Customer,N,No,19,65,3620.88
+241,617,Idell,Cole,Female,81,1960-08-01,Director of Sales,Property,Mass Customer,N,No,15,61,2313.43
+242,620,Willy,Langley,Female,54,1973-03-26,Financial Analyst,Financial Services,Mass Customer,N,Yes,5,48,1981.2999999999997
+243,625,Abra,Probets,Female,33,1974-11-27,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,7,47,2326.08
+244,628,Mallissa,Gillespie,Female,14,1981-10-24,Actuary,Financial Services,Mass Customer,N,No,13,40,1313.8600000000001
+245,631,Ortensia,Dronsfield,Female,33,1966-09-14,Computer Systems Analyst I,Health,Affluent Customer,N,No,17,55,1767.3899999999999
+246,634,Melonie,Zisneros,Female,35,1978-01-30,Speech Pathologist,Manufacturing,Mass Customer,N,No,15,43,2853.18
+247,637,Mercy,Wilsone,Female,60,1976-09-23,Health Coach I,Health,High Net Worth,N,No,13,45,5402.47
+248,643,Carolee,Butters,Female,48,1982-12-29,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,10,39,2308.04
+249,646,Rowena,Parchment,Female,3,1973-07-22,Human Resources Manager,Manufacturing,Affluent Customer,N,No,13,48,2533.4099999999994
+250,649,Krissie,Dinan,Female,23,1974-12-07,Legal Assistant,Financial Services,Mass Customer,N,Yes,10,47,263.5399999999999
+251,651,Minni,Deegin,Female,76,1973-10-24,Tax Accountant,Health,Affluent Customer,N,No,13,48,3473.32
+252,652,Edee,Stoker,Female,62,1996-11-24,Staff Scientist,Financial Services,High Net Worth,N,Yes,1,25,2488.9000000000005
+253,654,Noelani,Andreuzzi,Female,2,1993-05-19,Administrative Officer,Manufacturing,Affluent Customer,N,No,5,28,1374.9
+254,656,Marty,Lebreton,Female,80,1978-11-17,Automation Specialist III,Manufacturing,High Net Worth,N,Yes,8,43,3749.56
+255,661,Cinderella,Haslen,Female,35,1988-05-07,Sales Associate,IT,High Net Worth,N,No,14,33,3308.0899999999997
+256,662,Bonnibelle,Imos,Female,41,1967-07-04,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,5,54,3873.0
+257,666,Anselma,Ricardon,Female,82,1983-11-01,Social Worker,Health,High Net Worth,N,Yes,15,38,2459.7599999999998
+258,667,Nicoline,Samwayes,Female,62,1994-03-19,Payment Adjustment Coordinator,Manufacturing,High Net Worth,N,Yes,3,27,3802.78
+259,668,Ebony,Threadgall,Female,61,1966-08-26,Junior Executive,Health,Mass Customer,N,No,7,55,4375.9800000000005
+260,670,Janifer,Pountain,Female,75,1992-11-09,Business Systems Development Analyst,Retail,Affluent Customer,N,No,8,29,1542.17
+261,675,Sharl,Wiggin,Female,37,1976-12-19,Administrative Assistant I,Financial Services,Mass Customer,N,Yes,17,45,1396.6200000000003
+262,678,Ambur,Symcoxe,Female,57,1995-08-31,Accounting Assistant II,IT,High Net Worth,N,No,2,26,1606.99
+263,679,Yolande,Whild,Female,29,1974-10-21,Registered Nurse,Health,Mass Customer,N,No,12,47,3551.2400000000002
+264,681,Jobyna,Elgey,Female,55,1978-09-18,VP Product Management,Manufacturing,Mass Customer,N,Yes,17,43,2244.1899999999996
+265,686,Hallie,Le feaver,Female,60,1954-07-17,GIS Technical Architect,Argiculture,High Net Worth,N,Yes,5,67,2073.8100000000004
+266,694,Lilith,Lanning,Female,66,1968-12-28,Media Manager III,Health,Mass Customer,N,No,13,53,2400.83
+267,698,Ellette,Fahy,Female,90,1996-07-20,Human Resources Manager,Manufacturing,High Net Worth,N,Yes,1,25,1295.96
+268,699,Mirabella,Richter,Female,16,1972-08-04,Account Representative IV,IT,Affluent Customer,N,Yes,16,49,976.24
+269,704,Lindsay,Acaster,Female,49,1998-12-08,Research Nurse,Health,Mass Customer,N,No,4,23,4034.46
+270,708,Idalina,Wilcot,Female,31,1987-02-15,Safety Technician II,IT,Mass Customer,N,Yes,10,34,2145.83
+271,709,Holly,Cavil,Female,83,1979-12-11,Accountant III,Financial Services,Mass Customer,N,Yes,5,42,3243.2999999999997
+272,716,Trescha,Preshous,Female,31,1979-11-09,Social Worker,Health,Mass Customer,N,No,11,42,3777.5299999999997
+273,718,Cathe,Lorriman,Female,38,1978-02-18,Engineer I,Manufacturing,Mass Customer,N,Yes,7,43,2164.08
+274,723,Madelina,Marte,Female,41,1963-08-20,Food Chemist,Health,Mass Customer,N,Yes,6,58,3489.9599999999996
+275,726,Norma,Blackbourn,Female,69,1978-02-10,Information Systems Manager,Health,Mass Customer,N,Yes,10,43,2965.7599999999998
+276,729,Ammamaria,Standbridge,Female,30,1973-10-23,Analog Circuit Design manager,Health,Affluent Customer,N,No,11,48,8953.17
+277,732,Bonita,Gethins,Female,71,1967-01-21,Actuary,Financial Services,Mass Customer,N,No,5,54,3269.12
+278,748,Linet,Postill,Female,51,1981-04-21,VP Marketing,Financial Services,High Net Worth,N,No,7,40,3516.0
+279,751,Amie,Dufty,Female,41,2001-10-31,Business Systems Development Analyst,Financial Services,Affluent Customer,N,No,1,20,96.62
+280,753,Josy,St. Quentin,Female,82,1970-03-07,Food Chemist,Health,Affluent Customer,Y,Yes,6,51,7727.17
+281,754,Patsy,Beefon,Female,15,1979-07-28,Senior Financial Analyst,Financial Services,Mass Customer,N,No,14,42,93.00999999999999
+282,756,Carin,Lauthian,Female,65,1974-09-25,Computer Systems Analyst IV,Manufacturing,Mass Customer,N,Yes,16,47,2121.61
+283,763,Benita,Cuffley,Female,95,1987-11-05,Computer Systems Analyst IV,Manufacturing,Affluent Customer,N,No,12,34,3894.51
+284,768,Alexia,Wolford,Female,5,1974-01-14,Web Developer IV,Argiculture,Affluent Customer,N,Yes,21,47,5580.570000000001
+285,770,Zara,Maccaddie,Female,10,1984-02-05,Software Consultant,IT,High Net Worth,N,Yes,13,37,4457.4800000000005
+286,772,Lorianna,Vidyapin,Female,12,1998-12-26,Community Outreach Specialist,Entertainment,Mass Customer,N,No,4,23,4423.8
+287,774,Phelia,Perotti,Female,79,1998-11-27,Operator,Manufacturing,High Net Worth,N,No,1,23,144.26
+288,779,Maddy,Larrat,Female,1,1992-02-10,Staff Accountant III,Health,High Net Worth,N,No,7,29,1186.4099999999999
+289,782,Bevvy,Siegertsz,Female,30,1976-08-29,Geological Engineer,Manufacturing,Mass Customer,N,No,17,45,3627.1699999999996
+290,785,Anthea,Guesford,Female,48,1979-08-26,Assistant Professor,Manufacturing,Mass Customer,N,Yes,18,42,1813.12
+291,789,Gabrielle,Giraudot,Female,69,1978-04-28,Geological Engineer,Manufacturing,Affluent Customer,N,Yes,14,43,2892.7599999999998
+292,791,Tootsie,Hurt,Female,3,1968-09-29,Professor,Manufacturing,Mass Customer,N,Yes,14,53,3819.0
+293,793,Kissie,Delong,Female,97,1989-01-30,Actuary,Financial Services,High Net Worth,N,Yes,9,32,4778.329999999999
+294,795,Cassy,Awdry,Female,35,1973-08-20,Environmental Tech,Financial Services,High Net Worth,N,No,18,48,2785.9800000000005
+295,796,Ira,Lamlin,Female,8,1997-05-27,Financial Analyst,Financial Services,Mass Customer,N,No,2,24,3815.93
+296,797,Meridel,Rawet,Female,51,1973-10-20,Internal Auditor,Financial Services,Mass Customer,N,No,19,48,2277.96
+297,798,Dorita,Blackburne,Female,22,1988-05-20,Teacher,Financial Services,High Net Worth,N,No,5,33,1691.8100000000002
+298,802,Ailyn,Carberry,Female,50,1986-02-20,Financial Analyst,Financial Services,Mass Customer,N,No,3,35,2893.2
+299,803,Nina,Murcutt,Female,96,1999-11-11,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,3,22,1746.5500000000002
+300,805,Jorrie,Hanhardt,Female,48,1960-04-19,Electrical Engineer,Manufacturing,Mass Customer,N,No,10,61,2795.75
+301,809,Nevsa,Washtell,Female,83,1977-10-23,Biostatistician III,Health,Mass Customer,N,No,18,44,492.7399999999999
+302,810,Fawnia,Bartrum,Female,24,1998-04-04,Software Test Engineer IV,Health,Mass Customer,N,Yes,1,23,945.1599999999999
+303,813,Lisette,Nesbit,Female,12,1962-03-21,Account Representative III,Health,Mass Customer,N,No,14,59,1633.61
+304,816,Donni,Boor,Female,71,1957-01-10,Product Engineer,Manufacturing,Mass Customer,N,No,15,64,945.8499999999998
+305,818,Beverie,Bosanko,Female,17,1973-12-21,Chemical Engineer,Manufacturing,Mass Customer,N,No,11,48,3028.8399999999997
+306,822,Ardis,Tomlett,Female,67,1974-10-23,Sales Associate,Health,High Net Worth,N,No,17,47,802.26
+307,823,Stesha,Morecombe,Female,91,1990-02-17,Internal Auditor,Manufacturing,Affluent Customer,N,No,9,31,5811.3
+308,824,Fleurette,Whardley,Female,97,1977-02-27,Financial Advisor,Financial Services,Affluent Customer,N,Yes,12,44,4137.780000000001
+309,836,Clemence,Vautre,Female,33,1990-04-02,Actuary,Financial Services,Mass Customer,N,Yes,9,31,1768.44
+310,845,Koressa,Maris,Female,51,1973-12-24,Associate Professor,Manufacturing,Mass Customer,N,No,3,48,1314.03
+311,847,Kelci,Morrison,Female,66,1991-05-26,Chief Design Engineer,Retail,High Net Worth,N,No,9,30,2521.58
+312,853,Nolana,Rotter,Female,26,1981-10-04,Media Manager I,Retail,Mass Customer,N,Yes,16,40,7263.66
+313,855,Bennie,Llywarch,Female,74,1974-10-26,General Manager,Retail,High Net Worth,N,Yes,16,47,3050.76
+314,858,Barby,Charlwood,Female,79,1980-06-02,Internal Auditor,Financial Services,High Net Worth,N,Yes,9,41,2708.6000000000004
+315,859,Devinne,Tommeo,Female,53,1978-08-02,Geologist I,Financial Services,Affluent Customer,N,Yes,7,43,2289.06
+316,861,Rebekah,Dmych,Female,73,1977-05-24,Senior Financial Analyst,Financial Services,High Net Worth,N,No,17,44,1009.34
+317,863,Kessiah,Logg,Female,19,1961-09-10,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,5,60,703.6199999999999
+318,865,Germain,De la Harpe,Female,73,1965-04-12,Desktop Support Technician,Telecommunications,Mass Customer,N,No,19,56,4261.0
+319,868,Effie,Duddy,Female,84,1979-07-18,VP Accounting,Financial Services,Mass Customer,N,Yes,11,42,5534.83
+320,872,Suki,Ivachyov,Female,47,1971-04-28,Structural Engineer,IT,Mass Customer,N,No,13,50,75.48000000000002
+321,877,Didi,Milne,Female,92,1988-05-13,Accounting Assistant III,Financial Services,Mass Customer,N,Yes,3,33,4918.87
+322,886,Dawna,McCullen,Female,53,1974-11-15,Accounting Assistant III,Health,Mass Customer,N,No,11,47,4067.6500000000005
+323,888,Chickie,Gulleford,Female,62,1963-11-10,Accountant IV,Manufacturing,Mass Customer,N,No,10,58,2278.7000000000003
+324,890,Tony,Cordsen,Female,55,1974-02-01,Dental Hygienist,Health,Mass Customer,N,Yes,15,47,1561.06
+325,894,Catie,Kibbey,Female,13,1970-12-18,Desktop Support Technician,Financial Services,High Net Worth,N,Yes,9,51,3564.27
+326,897,Pris,Fance,Female,25,1969-01-11,Account Executive,Manufacturing,Mass Customer,N,No,11,52,4080.8399999999997
+327,898,Reyna,Braizier,Female,53,1977-08-28,General Manager,Financial Services,Affluent Customer,N,No,16,44,179.44
+328,899,Teodora,Lawling,Female,42,1963-08-05,Business Systems Development Analyst,Health,Affluent Customer,N,Yes,12,58,1274.48
+329,902,Selene,Vasiltsov,Female,37,1989-07-26,Staff Scientist,Retail,Mass Customer,N,No,18,32,6003.05
+330,905,Dorian,Drinkel,Female,41,1978-02-11,Safety Technician II,Manufacturing,Affluent Customer,N,No,12,43,3553.2799999999997
+331,915,Austina,Orrice,Female,17,1984-09-07,Budget/Accounting Analyst IV,Entertainment,Mass Customer,N,No,7,37,1260.1299999999999
+332,921,Gretchen,Seneschal,Female,77,1979-12-19,Help Desk Technician,Manufacturing,Mass Customer,N,No,7,42,6285.75
+333,922,Bekki,Ralston,Female,52,1972-10-10,Operator,Financial Services,Mass Customer,N,No,19,49,41.129999999999995
+334,930,Evelina,Dinan,Female,86,1971-11-10,Executive Secretary,Retail,Mass Customer,N,Yes,8,50,150.89
+335,931,Katrina,Sappson,Female,59,1999-08-07,Design Engineer,Manufacturing,Affluent Customer,N,Yes,1,22,2890.0600000000004
+336,933,Melany,L'oiseau,Female,75,1996-05-19,Help Desk Operator,Retail,Mass Customer,N,Yes,5,25,2817.63
+337,940,Marnia,Claesens,Female,3,1987-06-16,Administrative Officer,Manufacturing,Mass Customer,N,No,9,34,3256.1400000000003
+338,942,Shirley,Brook,Female,31,1974-02-07,Director of Sales,Financial Services,Mass Customer,N,Yes,14,47,1859.17
+339,946,Bettina,Farrer,Female,16,1961-07-17,Research Associate,Manufacturing,High Net Worth,N,No,12,60,6305.6
+340,947,Hyacinth,Naldrett,Female,43,1986-03-10,Pharmacist,Health,Mass Customer,N,No,10,35,2981.5200000000004
+341,952,Marina,Andresen,Female,34,1971-06-13,VP Sales,Financial Services,Affluent Customer,N,Yes,6,50,3569.98
+342,955,Teresina,Gibbie,Female,78,1989-10-01,Research Nurse,Health,Mass Customer,N,Yes,9,32,1429.36
+343,957,Jamima,Gannan,Female,80,1994-08-20,Automation Specialist I,Manufacturing,Affluent Customer,N,Yes,7,27,2632.09
+344,961,Rosamund,Shelton,Female,73,1986-08-10,Assistant Manager,Financial Services,Mass Customer,N,No,6,35,1035.3100000000002
+345,964,Rhetta,Grellier,Female,35,1994-01-24,Assistant Professor,Financial Services,High Net Worth,N,No,6,27,2018.6
+346,965,Meggie,Whitchurch,Female,86,1997-06-18,Structural Engineer,Retail,High Net Worth,N,Yes,5,24,3867.74
+347,966,Krystyna,Linning,Female,70,1978-11-05,Speech Pathologist,Retail,High Net Worth,N,Yes,5,43,527.74
+348,967,April,Causon,Female,44,1999-10-04,Sales Associate,Manufacturing,Affluent Customer,N,Yes,1,22,3798.3500000000004
+349,969,Jo,Mallinar,Female,20,1978-09-19,Health Coach IV,Health,High Net Worth,N,Yes,18,43,2793.0499999999997
+350,970,Kellyann,Hawton,Female,2,1980-06-26,VP Accounting,Financial Services,High Net Worth,N,Yes,14,41,2840.8100000000004
+351,972,Dena,Crewdson,Female,81,1981-07-23,Project Manager,Retail,Mass Customer,N,Yes,10,40,2158.9999999999995
+352,973,Annabella,Hebron,Female,46,1979-08-02,Data Coordiator,Health,High Net Worth,N,No,15,42,6639.849999999999
+353,979,Kayla,Falkingham,Female,42,1959-12-25,Budget/Accounting Analyst I,Manufacturing,High Net Worth,N,No,12,62,3756.9100000000003
+354,980,Max,Gronaver,Female,19,1978-01-23,Registered Nurse,Health,Mass Customer,N,No,8,43,2640.55
+355,985,Aryn,O'Halloran,Female,29,1970-09-30,Help Desk Operator,Retail,High Net Worth,N,No,15,51,1690.91
+356,988,Andree,Simonato,Female,35,1981-01-15,Director of Sales,Manufacturing,High Net Worth,N,No,7,40,243.94
+357,989,Caralie,Morfett,Female,43,1982-05-24,Project Manager,Financial Services,Mass Customer,N,No,17,39,3380.3399999999997
+358,990,Melissa,Purple,Female,56,1976-04-13,Administrative Officer,Manufacturing,Mass Customer,N,Yes,14,45,2353.4900000000002
+359,991,Lenna,Coales,Female,11,1991-11-29,Financial Analyst,Financial Services,Mass Customer,N,Yes,10,30,2655.6000000000004
+360,993,Reine,Semken,Female,71,1977-02-18,Account Coordinator,Argiculture,High Net Worth,N,No,17,44,2738.8900000000003
+361,994,Rhetta,Kupker,Female,62,1977-11-14,Librarian,Entertainment,Affluent Customer,N,Yes,5,44,2069.64
+362,998,Petunia,Dufton,Female,66,1965-12-13,Speech Pathologist,Manufacturing,Affluent Customer,N,Yes,5,56,585.45
+363,1000,Paulie,Castelot,Female,44,1978-08-07,Compensation Analyst,Financial Services,Mass Customer,N,No,11,43,5383.48
+364,1003,Mariann,O'Geaney,Female,35,1968-02-03,Paralegal,Financial Services,High Net Worth,N,No,18,53,5300.38
+365,1005,Kalila,Birtwistle,Female,94,1967-09-15,Design Engineer,IT,High Net Worth,N,Yes,8,54,4365.25
+366,1009,Nolie,Orring,Female,16,1957-05-09,Research Associate,Manufacturing,High Net Worth,N,Yes,13,64,2370.7799999999997
+367,1011,Cymbre,Janos,Female,42,1985-07-19,Occupational Therapist,Health,High Net Worth,N,Yes,10,36,1399.44
+368,1013,Corissa,Zienkiewicz,Female,53,1976-09-06,Physical Therapy Assistant,Retail,High Net Worth,N,No,17,45,2463.79
+369,1017,Jacquenette,Pluthero,Female,88,1979-01-09,Assistant Media Planner,Entertainment,High Net Worth,N,No,16,42,2858.8900000000003
+370,1022,Suzann,Wilks,Female,56,1990-03-04,Assistant Manager,Financial Services,Affluent Customer,N,Yes,14,31,6444.49
+371,1024,Rhodia,D'Onise,Female,17,1992-06-05,Social Worker,Health,High Net Worth,N,Yes,2,29,4560.5599999999995
+372,1030,Nariko,Dummigan,Female,9,1962-05-05,Food Chemist,Health,Mass Customer,N,No,5,59,4698.6
+373,1035,Kara-lynn,Doddridge,Female,77,1976-11-02,Operator,Retail,Affluent Customer,N,Yes,5,45,485.4600000000001
+374,1036,Randene,Ingle,Female,6,1969-11-28,Paralegal,Financial Services,Mass Customer,N,Yes,12,52,3787.0
+375,1037,Sissie,Rielly,Female,95,1956-08-08,Human Resources Assistant II,Financial Services,Mass Customer,N,No,10,65,2368.44
+376,1040,Jacenta,Wedlock,Female,78,1975-03-04,Food Chemist,Health,High Net Worth,N,No,9,46,1768.4300000000003
+377,1050,Marjie,Ghion,Female,7,1973-07-29,Software Consultant,Telecommunications,Mass Customer,N,Yes,15,48,2535.63
+378,1051,Xylia,Lange,Female,34,1977-09-29,Help Desk Technician,Property,High Net Worth,N,Yes,14,44,1294.6899999999998
+379,1052,Dela,Flannigan,Female,31,1986-02-02,Junior Executive,Financial Services,High Net Worth,N,No,3,35,3260.3199999999997
+380,1055,Danell,Rose,Female,30,1988-06-08,Data Coordiator,Manufacturing,Mass Customer,N,No,12,33,343.24
+381,1057,Laryssa,Durdle,Female,73,1969-04-06,Registered Nurse,Health,Mass Customer,N,No,5,52,2488.8
+382,1058,Gretel,Gionettitti,Female,37,1987-10-24,Research Assistant IV,Retail,Affluent Customer,N,Yes,4,34,759.5700000000002
+383,1059,Chantal,Plante,Female,68,1968-02-16,Account Representative III,Entertainment,High Net Worth,N,Yes,6,53,1618.8300000000002
+384,1060,Vanda,Boadby,Female,88,1961-11-23,Associate Professor,Argiculture,Affluent Customer,N,Yes,13,60,2475.2799999999997
+385,1067,Berri,Cotillard,Female,13,1965-05-17,Engineer IV,Financial Services,Mass Customer,N,Yes,13,56,741.97
+386,1080,Monah,Talbot,Female,70,1999-12-26,Speech Pathologist,Property,Mass Customer,N,Yes,2,22,1857.62
+387,1081,Marga,Cradduck,Female,25,1985-10-21,Social Worker,Health,Mass Customer,N,No,16,36,3227.89
+388,1084,Serena,Jagson,Female,54,1994-05-18,Accounting Assistant I,Retail,Affluent Customer,N,No,8,27,6580.56
+389,1087,Lian,Madrell,Female,39,1979-09-18,Financial Analyst,Financial Services,Mass Customer,N,Yes,8,42,1521.5700000000002
+390,1089,Korney,Hess,Female,90,1988-09-17,Product Engineer,Property,Affluent Customer,N,No,12,33,2349.29
+391,1092,Katlin,Creddon,Female,56,1935-08-22,VP Quality Control,Retail,Mass Customer,N,No,5,86,1245.27
+392,1095,Emelda,Gerler,Female,2,1958-08-29,Project Manager,Health,Mass Customer,N,No,6,63,4498.34
+393,1097,Gwenora,Grabbam,Female,71,1968-01-31,Engineer II,Financial Services,Mass Customer,N,Yes,18,53,666.7899999999998
+394,1098,Maure,Crow,Female,99,1989-02-01,Administrative Assistant IV,Financial Services,Mass Customer,N,Yes,12,32,3879.14
+395,1102,Stephana,Puzey,Female,16,1976-08-17,Recruiting Manager,Manufacturing,Affluent Customer,N,No,15,45,5025.4400000000005
+396,1103,Glynnis,Sailor,Female,76,1978-01-30,Financial Advisor,Financial Services,High Net Worth,N,Yes,20,43,7367.88
+397,1104,Jewelle,Pincott,Female,82,1959-12-31,Programmer III,Retail,Mass Customer,N,No,8,62,2568.9700000000003
+398,1106,Sibyl,Bigmore,Female,2,1962-12-17,Software Consultant,Retail,Mass Customer,N,No,15,59,5691.610000000001
+399,1107,Maridel,Whitby,Female,70,1974-07-17,Social Worker,Health,High Net Worth,N,No,18,47,1843.57
+400,1108,Ginnie,Farriar,Female,86,1962-03-06,Dental Hygienist,Health,Mass Customer,N,No,17,59,1338.61
+401,1114,Evonne,Southan,Female,96,1976-06-03,Structural Engineer,Retail,Mass Customer,N,No,14,45,1774.12
+402,1116,Tori,Coche,Female,59,1974-06-26,Assistant Manager,Health,Mass Customer,N,Yes,16,47,4053.92
+403,1118,Colline,Coulman,Female,95,1975-12-19,Sales Representative,Retail,Mass Customer,N,Yes,9,46,1858.9699999999998
+404,1120,Jacquelyn,Rowlinson,Female,87,1980-08-31,Web Developer IV,Retail,Affluent Customer,N,No,12,41,912.9400000000002
+405,1121,Dione,Raithby,Female,30,1984-01-21,Registered Nurse,Health,Mass Customer,N,Yes,3,37,327.07000000000016
+406,1127,Elly,Ormshaw,Female,30,1991-02-27,Physical Therapy Assistant,Financial Services,Mass Customer,N,No,8,30,2285.05
+407,1128,Kirsten,Longman,Female,47,1992-04-12,Financial Advisor,Financial Services,Mass Customer,N,Yes,8,29,3388.35
+408,1132,Coriss,Darkott,Female,99,1985-08-01,Actuary,Financial Services,Affluent Customer,N,Yes,9,36,3203.16
+409,1135,Mireielle,Avrasin,Female,60,1980-05-03,Software Engineer IV,Financial Services,Mass Customer,N,Yes,11,41,1758.9800000000002
+410,1138,Elli,Loxdale,Female,77,1991-09-21,Statistician I,Retail,Mass Customer,N,Yes,5,30,5174.44
+411,1150,Bernelle,Warwick,Female,64,1975-09-26,Information Systems Manager,Financial Services,Mass Customer,N,Yes,13,46,6308.28
+412,1151,Brena,Amburgy,Female,27,1965-04-06,VP Product Management,Argiculture,High Net Worth,N,Yes,19,56,3449.31
+413,1153,Mirilla,Lothlorien,Female,53,1995-01-17,Desktop Support Technician,Health,Mass Customer,N,Yes,3,26,2501.78
+414,1155,Janetta,Hartrick,Female,73,1994-01-15,VP Marketing,Property,Mass Customer,N,Yes,9,27,2332.45
+415,1156,Breena,Risebrow,Female,22,1997-10-16,Marketing Assistant,Argiculture,Mass Customer,N,Yes,1,24,2559.66
+416,1160,Trisha,Nisuis,Female,98,1965-04-08,Speech Pathologist,IT,Affluent Customer,N,No,10,56,684.5199999999999
+417,1161,Sibylle,Cutsforth,Female,86,1977-01-14,Senior Quality Engineer,Retail,Mass Customer,N,No,15,44,2669.74
+418,1164,Gilligan,Mowat,Female,97,1977-01-09,Food Chemist,Health,Mass Customer,N,Yes,17,44,346.88999999999993
+419,1165,Fanni,Wakelin,Female,58,1993-06-23,Administrative Assistant IV,Financial Services,High Net Worth,N,No,2,28,3286.3500000000004
+420,1166,Fannie,Devil,Female,40,1972-12-05,Quality Control Specialist,Health,Affluent Customer,N,No,8,49,2539.71
+421,1167,Elberta,Crickett,Female,20,1996-06-03,Software Test Engineer III,Health,Mass Customer,N,No,4,25,2641.9300000000003
+422,1169,Kessiah,Corden,Female,33,1967-08-09,Actuary,Financial Services,Mass Customer,N,Yes,13,54,4318.2
+423,1170,Lari,Rotte,Female,62,1964-11-30,Assistant Professor,IT,Mass Customer,N,Yes,4,57,3351.7
+424,1173,Gertie,Chaim,Female,58,1978-03-02,Statistician IV,Retail,High Net Worth,N,No,16,43,348.6199999999999
+425,1177,Bobbette,Pozzi,Female,47,1953-08-31,Food Chemist,Health,Affluent Customer,N,Yes,6,68,2447.0499999999997
+426,1180,Gaye,Quickenden,Female,48,1975-08-17,Account Representative I,Financial Services,Affluent Customer,N,No,10,46,2305.11
+427,1181,Brita,Plant,Female,2,1978-06-06,Tax Accountant,Argiculture,Mass Customer,N,No,8,43,4513.0599999999995
+428,1182,Carolann,Ottiwill,Female,84,1975-01-11,Data Coordiator,IT,Mass Customer,N,Yes,7,46,3597.45
+429,1184,Auberta,Teodori,Female,89,1968-10-07,Social Worker,Health,Mass Customer,N,No,13,53,4314.89
+430,1190,Sib,Gilby,Female,67,1968-09-07,Assistant Professor,Financial Services,Affluent Customer,N,Yes,10,53,2008.23
+431,1192,Hollyanne,McCarter,Female,31,1969-12-12,VP Quality Control,Manufacturing,Mass Customer,N,No,16,52,1397.3799999999999
+432,1194,Audry,Scurrey,Female,69,1992-03-25,Junior Executive,Telecommunications,Affluent Customer,N,No,3,29,4148.57
+433,1195,Ally,Folliott,Female,0,1978-03-22,VP Marketing,Telecommunications,Mass Customer,N,No,18,43,3463.8100000000004
+434,1196,Phillie,Bradforth,Female,23,1998-03-19,Research Nurse,Health,Mass Customer,N,No,2,23,1455.3799999999999
+435,1197,Isobel,Lampett,Female,44,1997-10-16,Professor,Financial Services,High Net Worth,N,Yes,5,24,1559.1300000000006
+436,1198,Alina,Rickson,Female,73,1973-09-30,Sales Representative,Retail,High Net Worth,N,No,7,48,2323.92
+437,1200,Hedda,Lathom,Female,38,1974-04-30,Librarian,Entertainment,High Net Worth,N,No,18,47,2844.9
+438,1203,Claresta,Carnier,Female,38,1988-05-06,Technical Writer,Health,Affluent Customer,N,No,22,33,830.2399999999999
+439,1204,Trudy,Huffy,Female,12,1971-03-24,Senior Developer,Manufacturing,Affluent Customer,N,Yes,16,50,110.56
+440,1206,Lucina,Metcalf,Female,13,1978-05-07,Paralegal,Financial Services,Mass Customer,N,No,13,43,889.72
+441,1207,Mabel,Marousek,Female,30,1997-09-25,Engineer IV,Health,Mass Customer,N,No,1,24,1108.1999999999998
+442,1208,Lira,Durn,Female,23,1983-12-26,Budget/Accounting Analyst IV,Financial Services,Mass Customer,N,No,15,38,3238.37
+443,1212,Cindy,Freeborn,Female,28,1968-10-24,Legal Assistant,Property,Affluent Customer,N,No,13,53,2331.63
+444,1215,Dyann,Turbard,Female,79,1967-02-26,VP Quality Control,Manufacturing,Mass Customer,N,No,11,54,3118.9800000000005
+445,1216,Frank,Vallerine,Female,15,1959-06-25,Software Test Engineer I,Telecommunications,Affluent Customer,N,Yes,10,62,2156.72
+446,1217,Dulcinea,Janssen,Female,67,1968-08-19,Structural Engineer,Manufacturing,High Net Worth,N,No,16,53,3270.61
+447,1222,Barbey,Ville,Female,83,1970-11-01,Account Executive,Property,Mass Customer,N,No,19,51,667.99
+448,1224,Aundrea,Reisenberg,Female,9,1977-04-04,Junior Executive,Manufacturing,Mass Customer,N,No,16,44,4250.74
+449,1226,Constantia,Sirr,Female,32,1981-03-16,Director of Sales,Health,Mass Customer,N,Yes,13,40,937.4400000000005
+450,1227,Carlina,Pencot,Female,63,1989-09-30,Software Engineer I,IT,Affluent Customer,N,Yes,12,32,4101.860000000001
+451,1228,Marti,Bisterfeld,Female,43,1962-04-27,Senior Cost Accountant,Financial Services,Affluent Customer,N,No,6,59,922.34
+452,1231,Aloisia,Shawel,Female,94,1973-07-28,Social Worker,Health,Affluent Customer,N,No,18,48,1718.6100000000001
+453,1235,Sharon,Cranage,Female,24,1969-02-28,Dental Hygienist,Health,Mass Customer,N,No,9,52,3476.16
+454,1237,Junia,Humerstone,Female,6,1969-12-31,Research Nurse,Health,High Net Worth,N,No,16,52,5731.25
+455,1240,Pen,Earey,Female,64,1965-05-13,Sales Associate,Manufacturing,Mass Customer,N,Yes,19,56,3015.0499999999997
+456,1241,Lolly,Junkison,Female,23,1986-03-22,Pharmacist,Health,Affluent Customer,N,Yes,11,35,1844.56
+457,1247,Hildagarde,Eyrl,Female,15,1960-10-05,Geologist I,Entertainment,Affluent Customer,N,No,11,61,2848.9400000000005
+458,1250,Jacklyn,Kewley,Female,42,2001-11-02,Help Desk Technician,Manufacturing,Mass Customer,N,No,1,20,6093.26
+459,1259,Emmi,Dymock,Female,23,1973-11-24,Assistant Professor,Financial Services,Mass Customer,N,No,9,48,3342.13
+460,1261,Candice,Lohde,Female,61,1971-02-16,Legal Assistant,Manufacturing,Mass Customer,N,No,4,50,1584.5
+461,1271,Jo-anne,Pringer,Female,71,1994-07-11,Accounting Assistant II,Telecommunications,Mass Customer,N,Yes,6,27,950.1199999999999
+462,1275,Francisca,Whittek,Female,70,1966-01-10,General Manager,Health,Mass Customer,N,Yes,8,55,1540.0799999999997
+463,1278,Betsy,Schruurs,Female,14,1998-11-15,Pharmacist,Health,Affluent Customer,N,No,2,23,721.51
+464,1283,Tory,Minnette,Female,43,1994-08-23,Clinical Specialist,Health,Mass Customer,N,No,1,27,1012.1
+465,1286,Mina,Clawley,Female,83,1975-06-28,Senior Quality Engineer,Manufacturing,High Net Worth,N,Yes,16,46,2415.24
+466,1288,Abra,Cuardall,Female,51,1979-10-07,Desktop Support Technician,Financial Services,Affluent Customer,N,Yes,18,42,1524.5800000000002
+467,1296,Essy,Vondrak,Female,61,1989-03-11,Paralegal,Financial Services,Affluent Customer,N,Yes,9,32,2793.27
+468,1300,Sisely,Strelitzer,Female,0,1991-03-10,Physical Therapy Assistant,Financial Services,Affluent Customer,N,Yes,9,30,6148.62
+469,1302,Ericka,Eggers,Female,29,1998-05-03,Biostatistician I,Financial Services,Affluent Customer,N,Yes,2,23,5336.7300000000005
+470,1307,Emlyn,Musgrave,Female,73,1970-09-06,Dental Hygienist,Health,High Net Worth,N,Yes,10,51,4526.73
+471,1311,Sharona,Cunah,Female,89,1984-10-06,VP Accounting,Financial Services,Mass Customer,N,Yes,13,37,2188.45
+472,1312,Magda,Baugh,Female,96,1994-07-16,Food Chemist,Health,Affluent Customer,N,No,8,27,1292.6000000000001
+473,1314,De,Eilhart,Female,25,1970-02-23,Clinical Specialist,Health,Mass Customer,N,Yes,6,51,2894.17
+474,1318,Barbe,Assender,Female,10,1966-08-17,Senior Developer,Financial Services,Mass Customer,N,Yes,4,55,3500.74
+475,1321,Bree,Domenge,Female,29,1994-07-05,Editor,Argiculture,Affluent Customer,N,No,8,27,2398.25
+476,1322,Kathye,Christie,Female,37,2001-10-16,Data Coordiator,Financial Services,Mass Customer,N,Yes,1,20,4008.84
+477,1324,Randie,Arnowitz,Female,88,1978-02-22,Web Designer III,Manufacturing,Mass Customer,N,No,11,43,2443.26
+478,1327,Sarita,Khosa,Female,57,1995-11-25,Director of Sales,Property,Affluent Customer,N,No,6,26,2848.5
+479,1334,Cicily,Jenks,Female,72,1998-10-23,Senior Financial Analyst,Financial Services,Mass Customer,N,No,4,23,719.98
+480,1337,Damara,Wheatland,Female,15,1988-03-08,Structural Engineer,Health,Mass Customer,N,No,10,33,3417.42
+481,1339,Mariam,Guiel,Female,82,1978-12-09,Editor,IT,High Net Worth,N,No,14,43,4713.219999999999
+482,1344,Renelle,Tutin,Female,20,1995-11-02,Tax Accountant,Manufacturing,Mass Customer,N,No,4,26,628.5699999999999
+483,1347,Leisha,Signoret,Female,14,1977-12-16,Help Desk Operator,Manufacturing,Mass Customer,N,Yes,14,44,3745.36
+484,1353,Phebe,Dockwra,Female,1,1980-03-31,Clinical Specialist,Health,Mass Customer,N,Yes,11,41,2789.25
+485,1354,Karee,Hyman,Female,0,2000-10-15,Analyst Programmer,Financial Services,Affluent Customer,N,No,2,21,2464.54
+486,1359,Estrella,Carwithen,Female,54,1993-02-24,Help Desk Technician,Retail,Mass Customer,N,No,6,28,1550.8200000000002
+487,1362,Giuditta,Dearlove,Female,20,1973-02-20,Account Executive,Manufacturing,Affluent Customer,N,Yes,15,48,1736.45
+488,1367,Fredrika,Danielkiewicz,Female,63,1973-06-29,Internal Auditor,Retail,Mass Customer,N,No,18,48,2760.28
+489,1369,Ilka,Allabush,Female,51,1994-05-08,Civil Engineer,Manufacturing,Mass Customer,N,Yes,6,27,2503.4700000000003
+490,1370,Chastity,Martinat,Female,44,1986-10-23,Computer Systems Analyst IV,Property,Mass Customer,N,No,18,35,839.2700000000002
+491,1371,Aretha,Joscelyn,Female,39,1959-08-02,Design Engineer,Retail,Mass Customer,N,Yes,13,62,1270.9399999999998
+492,1379,Lou,Drews,Female,63,1989-06-16,Legal Assistant,Financial Services,Mass Customer,N,Yes,7,32,4337.3099999999995
+493,1380,Lavina,Clavey,Female,99,1998-09-30,Financial Analyst,Financial Services,Mass Customer,N,No,3,23,2550.9400000000005
+494,1383,Coriss,Casarino,Female,81,1957-10-29,Software Consultant,IT,Affluent Customer,N,No,8,64,3357.8899999999994
+495,1384,Marcile,Carren,Female,48,1998-09-09,Quality Control Specialist,Manufacturing,Mass Customer,N,No,2,23,3307.4800000000005
+496,1385,Melesa,Priddy,Female,39,1957-08-17,Cost Accountant,Financial Services,Mass Customer,N,No,16,64,2624.5699999999997
+497,1386,Mufinella,Kalvin,Female,71,1967-06-12,Help Desk Technician,Retail,Mass Customer,N,Yes,12,54,2724.7200000000003
+498,1387,Natalee,Comport,Female,33,1977-07-11,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,4,44,641.64
+499,1390,Christyna,Feldberg,Female,74,2000-01-25,Accounting Assistant I,Retail,High Net Worth,N,Yes,1,21,3474.54
+500,1391,Winni,Cana,Female,62,1976-08-05,Marketing Assistant,Retail,High Net Worth,N,No,12,45,2283.8299999999995
+501,1392,Marris,Waison,Female,28,2000-01-15,Human Resources Manager,Financial Services,Mass Customer,N,No,1,21,3196.27
+502,1398,Anderea,Pulteneye,Female,11,1966-11-29,Project Manager,Manufacturing,Mass Customer,N,No,17,55,5649.83
+503,1399,Kaye,Clulow,Female,84,1967-09-08,Staff Scientist,Manufacturing,Mass Customer,N,No,15,54,2234.62
+504,1400,Rikki,Eytel,Female,51,1982-05-23,Senior Developer,Manufacturing,Affluent Customer,N,Yes,7,39,4939.11
+505,1403,Germana,McFadin,Female,18,1980-12-01,Geologist II,Retail,Mass Customer,N,No,16,41,685.4300000000001
+506,1405,Kylie,Spriggin,Female,52,1958-04-05,VP Product Management,Manufacturing,High Net Worth,N,Yes,11,63,2281.9900000000002
+507,1407,Tamarah,Sobtka,Female,43,1980-10-04,Structural Analysis Engineer,Manufacturing,Mass Customer,N,Yes,9,41,3796.53
+508,1410,Althea,Macvey,Female,10,1997-01-22,Marketing Manager,Retail,High Net Worth,N,Yes,6,24,5597.11
+509,1411,Katrina,Coltart,Female,24,1994-05-04,Registered Nurse,Health,Mass Customer,N,Yes,5,27,4268.32
+510,1413,Vi,Lauga,Female,47,1998-04-24,Administrative Assistant II,Financial Services,Mass Customer,N,No,3,23,3277.86
+511,1414,Allison,Clowton,Female,57,1980-02-29,Help Desk Technician,Retail,Mass Customer,N,Yes,10,41,630.21
+512,1415,Merilyn,Dikle,Female,68,1998-12-14,Executive Secretary,Property,High Net Worth,N,Yes,3,23,3062.5200000000004
+513,1418,Valaria,Hugh,Female,80,1976-11-29,Senior Sales Associate,IT,Affluent Customer,N,Yes,21,45,1983.9700000000003
+514,1420,Minni,Hanner,Female,14,1959-10-12,Dental Hygienist,Health,Mass Customer,N,No,11,62,2121.64
+515,1421,Mallorie,Gouth,Female,74,1956-04-14,Senior Editor,Property,Mass Customer,N,No,20,65,2529.62
+516,1423,Tiphanie,Klossek,Female,51,1959-06-17,Project Manager,Manufacturing,Mass Customer,N,No,19,62,3233.09
+517,1426,Allyn,Carswell,Female,72,1956-08-23,Financial Advisor,Financial Services,Mass Customer,N,No,17,65,3867.34
+518,1428,Morissa,Ozintsev,Female,93,1998-11-15,Sales Representative,Retail,High Net Worth,N,No,1,23,5508.8
+519,1430,Kalli,Pigeram,Female,86,1999-07-24,Biostatistician I,Manufacturing,Mass Customer,N,Yes,3,22,1917.0099999999998
+520,1433,Marya,Szwandt,Female,15,1958-09-25,Account Coordinator,IT,Mass Customer,N,No,20,63,1908.57
+521,1438,Winifred,MacRonald,Female,27,1975-11-01,Social Worker,Health,Mass Customer,N,Yes,14,46,5503.889999999999
+522,1440,Consuela,O'Logan,Female,19,1965-11-22,Human Resources Manager,Financial Services,High Net Worth,N,Yes,12,56,6362.469999999999
+523,1445,Bettine,Yoselevitch,Female,57,1973-03-29,Web Designer II,IT,Affluent Customer,N,No,18,48,3423.12
+524,1450,Floris,Dunkerley,Female,23,1964-01-24,Statistician I,Manufacturing,Affluent Customer,N,No,6,57,2959.59
+525,1451,Courtney,Meas,Female,32,1977-02-01,Junior Executive,Argiculture,Mass Customer,N,Yes,16,44,4060.31
+526,1465,Wilona,Osgood,Female,53,1971-02-18,Mechanical Systems Engineer,Financial Services,Mass Customer,N,Yes,5,50,1429.5
+527,1466,Cyndia,Gull,Female,62,1998-01-05,Cost Accountant,Financial Services,High Net Worth,N,Yes,2,23,978.4200000000001
+528,1468,Adaline,Hayles,Female,37,1978-01-10,Financial Advisor,Financial Services,Mass Customer,N,No,22,43,3450.06
+529,1472,Demeter,Robbeke,Female,3,1964-03-03,Environmental Specialist,Financial Services,Mass Customer,N,No,17,57,5011.4
+530,1481,Ellissa,Stanney,Female,93,1976-06-26,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,14,45,2551.0499999999997
+531,1483,Beth,Daile,Female,55,1971-12-11,Senior Quality Engineer,Telecommunications,Mass Customer,N,Yes,14,50,4273.54
+532,1490,Lusa,Hargerie,Female,36,1970-01-03,Cost Accountant,Financial Services,Mass Customer,N,Yes,6,51,2182.9800000000005
+533,1491,Agneta,Swiggs,Female,96,1997-08-03,Senior Sales Associate,Health,Mass Customer,N,Yes,4,24,1591.3300000000002
+534,1493,Lisabeth,Fundell,Female,51,1987-08-12,Engineer II,Argiculture,High Net Worth,N,No,22,34,6117.05
+535,1495,Charmion,Dobsons,Female,4,1989-08-14,Physical Therapy Assistant,Health,High Net Worth,N,Yes,8,32,575.1500000000001
+536,1496,Cordie,Disbrow,Female,22,1998-05-02,Human Resources Manager,IT,Affluent Customer,N,No,3,23,3181.1600000000003
+537,1497,Karole,Grinin,Female,70,1973-11-08,Marketing Assistant,Retail,High Net Worth,N,No,14,48,3022.99
+538,1501,Shelby,Trayhorn,Female,74,1973-07-31,Account Executive,Property,Mass Customer,N,Yes,14,48,1636.3700000000001
+539,1502,Margalit,Handrick,Female,52,1990-03-26,Design Engineer,Financial Services,Affluent Customer,N,Yes,11,31,6209.679999999999
+540,1524,Bonni,Drakers,Female,7,1975-04-29,Administrative Officer,Financial Services,Mass Customer,N,Yes,16,46,2724.5199999999995
+541,1525,Philis,Whittam,Female,43,1966-07-15,Database Administrator III,Financial Services,High Net Worth,N,No,5,55,1909.17
+542,1529,Tansy,Beltzner,Female,0,1986-10-21,Media Manager III,Financial Services,High Net Worth,N,Yes,5,35,199.0999999999999
+543,1531,Evaleen,Pusey,Female,20,1966-03-17,Administrative Assistant III,Financial Services,Mass Customer,N,Yes,13,55,3839.18
+544,1532,Marty,Wiggall,Female,27,1972-10-26,VP Accounting,Financial Services,Mass Customer,N,Yes,10,49,2827.66
+545,1533,Sonia,Rous,Female,59,1977-07-02,Social Worker,Health,Affluent Customer,N,Yes,8,44,3968.52
+546,1534,Rosabelle,Hollington,Female,74,1998-11-30,Human Resources Assistant I,Manufacturing,Mass Customer,N,No,4,23,3244.32
+547,1536,Tiffany,Fanshaw,Female,28,1979-10-04,Software Consultant,Financial Services,Affluent Customer,N,Yes,15,42,2018.04
+548,1540,Ilene,Agett,Female,53,1962-03-17,Mechanical Systems Engineer,Property,Mass Customer,N,Yes,19,59,1939.3600000000001
+549,1541,Dynah,Grimes,Female,7,1954-12-28,Structural Engineer,Argiculture,Mass Customer,N,Yes,13,67,3324.89
+550,1546,Natalya,Moscone,Female,22,1956-10-28,Compensation Analyst,Financial Services,Mass Customer,N,Yes,8,65,2501.87
+551,1550,Nell,MacCafferky,Female,3,1986-09-12,Programmer Analyst II,IT,Mass Customer,N,Yes,12,35,3172.63
+552,1551,Joell,Balfe,Female,37,1975-05-30,Computer Systems Analyst I,Entertainment,Affluent Customer,N,No,17,46,5171.89
+553,1553,Vanna,Matts,Female,68,1956-05-31,Administrative Assistant IV,Retail,High Net Worth,N,No,7,65,2002.85
+554,1564,Sascha,Tander,Female,42,1964-02-27,Geologist III,Retail,Mass Customer,N,No,16,57,493.17
+555,1568,Bellanca,Strutz,Female,78,1980-05-23,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,9,41,3870.4799999999996
+556,1570,Phil,Dodle,Female,70,1995-11-20,Staff Accountant III,Entertainment,Mass Customer,N,No,17,26,5321.3
+557,1573,Aurea,Reubens,Female,48,1994-07-05,Web Designer I,Property,Mass Customer,N,Yes,4,27,2236.76
+558,1575,Phaidra,Jindacek,Female,82,1989-03-13,Design Engineer,Retail,Mass Customer,N,No,17,32,1050.28
+559,1577,Diannne,Teager,Female,87,1976-09-08,Automation Specialist I,Manufacturing,High Net Worth,N,No,10,45,3677.0
+560,1579,Madelaine,Siegertsz,Female,40,1978-01-27,Desktop Support Technician,Financial Services,Affluent Customer,N,Yes,17,43,8102.620000000001
+561,1581,Melessa,Delyth,Female,26,1974-04-13,Recruiter,Argiculture,Mass Customer,N,No,13,47,2944.09
+562,1586,Madelena,Risson,Female,47,1985-12-27,Physical Therapy Assistant,Manufacturing,High Net Worth,N,No,15,36,4154.0199999999995
+563,1590,Crystie,Fontanet,Female,8,1965-12-09,Assistant Manager,Retail,Mass Customer,N,No,14,56,2248.0399999999995
+564,1593,Tommy,Kupisz,Female,69,1979-10-11,Tax Accountant,IT,Mass Customer,N,No,17,42,3818.36
+565,1595,Kora,Paoli,Female,15,1976-02-21,Senior Financial Analyst,Financial Services,High Net Worth,N,Yes,11,45,4891.75
+566,1600,Priscella,Stathers,Female,20,1985-05-21,Senior Financial Analyst,Financial Services,High Net Worth,N,No,2,36,2924.4300000000003
+567,1601,Nita,McCarthy,Female,45,1993-02-11,Desktop Support Technician,Manufacturing,Affluent Customer,N,No,1,28,2317.27
+568,1607,Tiffani,Van Castele,Female,39,1988-01-22,Marketing Assistant,Retail,Mass Customer,N,Yes,15,33,1681.02
+569,1617,Jannelle,Ort,Female,97,1978-07-06,Compensation Analyst,Financial Services,Affluent Customer,N,No,10,43,2977.1900000000005
+570,1621,Sibley,Eliyahu,Female,10,1974-09-09,Social Worker,Health,Mass Customer,N,No,22,47,1162.2399999999998
+571,1623,Katy,Taffee,Female,29,1997-12-24,Software Test Engineer III,Entertainment,High Net Worth,N,Yes,2,24,3362.5500000000006
+572,1626,Fanchon,Fist,Female,82,1979-04-19,VP Accounting,Financial Services,Mass Customer,N,No,14,42,1326.1499999999999
+573,1630,Sonni,Lindstedt,Female,63,1984-09-16,Professor,Manufacturing,Mass Customer,N,No,16,37,1915.23
+574,1633,Ashia,Muzzi,Female,16,1964-07-08,Mechanical Systems Engineer,Property,High Net Worth,N,Yes,14,57,2548.92
+575,1634,Jordana,Beach,Female,20,1970-08-31,Director of Sales,Manufacturing,Affluent Customer,N,No,12,51,1537.06
+576,1635,Indira,Robotham,Female,36,1971-09-02,Safety Technician IV,Financial Services,Mass Customer,N,No,7,50,1319.52
+577,1636,Karly,Ackenhead,Female,65,1980-05-12,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,5,41,3274.29
+578,1646,Emmye,Flacke,Female,39,1994-06-20,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,1,27,4487.52
+579,1648,Prissie,Dyde,Female,22,1981-06-09,VP Accounting,Financial Services,Mass Customer,N,No,8,40,2124.93
+580,1652,Ulrikaumeko,Heffernon,Female,53,1981-09-24,Operator,Manufacturing,High Net Worth,N,Yes,7,40,2662.3900000000003
+581,1654,Melli,Sperwell,Female,67,1989-03-05,Professor,IT,High Net Worth,N,Yes,9,32,1179.6100000000001
+582,1658,Selina,Clow,Female,17,1993-12-05,Sales Representative,Retail,Mass Customer,N,Yes,5,28,1469.9599999999998
+583,1659,Olva,Sheehy,Female,75,1989-11-14,Software Consultant,Property,High Net Worth,N,Yes,13,32,3461.08
+584,1661,Meggy,Delgadillo,Female,21,1979-06-02,Administrative Assistant IV,Health,Affluent Customer,N,No,10,42,5880.33
+585,1662,Xenia,Willmett,Female,40,1956-04-01,Electrical Engineer,Manufacturing,High Net Worth,N,No,11,65,1718.1200000000003
+586,1663,Analiese,Grimsditch,Female,68,1978-01-30,VP Quality Control,Property,High Net Worth,N,Yes,9,43,2991.5200000000004
+587,1668,Aurlie,Bolter,Female,75,1965-06-13,Financial Advisor,Financial Services,Mass Customer,N,No,8,56,2901.9700000000003
+588,1670,Gisella,Ravens,Female,30,1978-08-12,Web Designer II,Retail,Mass Customer,N,No,19,43,5073.96
+589,1671,Nerty,Renak,Female,69,1957-01-23,Account Executive,Property,Mass Customer,N,Yes,14,64,1221.85
+590,1672,Sharla,Creebo,Female,21,1963-04-27,Design Engineer,IT,Affluent Customer,N,Yes,9,58,5905.780000000001
+591,1673,Suzie,Dahle,Female,45,1978-11-09,Professor,Financial Services,Affluent Customer,N,Yes,21,43,748.69
+592,1674,Rahal,Woodman,Female,97,1977-10-26,Civil Engineer,Manufacturing,High Net Worth,N,No,20,44,160.73
+593,1677,Petrina,Pollins,Female,56,1958-05-28,Editor,Health,Affluent Customer,N,Yes,16,63,2781.5599999999995
+594,1679,Arabel,Kayser,Female,92,1975-11-03,Programmer II,Health,Mass Customer,N,Yes,13,46,3026.57
+595,1680,Loise,Austins,Female,5,1998-07-28,Desktop Support Technician,Property,Mass Customer,N,Yes,4,23,1931.5
+596,1682,Gerladina,Cuddon,Female,93,1960-04-25,Structural Engineer,Manufacturing,Affluent Customer,N,Yes,6,61,5354.43
+597,1684,Janie,Stonehewer,Female,96,1979-07-10,Environmental Tech,Manufacturing,Mass Customer,N,No,6,42,1507.2999999999997
+598,1685,Marya,Milington,Female,32,1972-03-16,Budget/Accounting Analyst III,IT,Mass Customer,N,No,8,49,677.1800000000001
+599,1692,Harriette,De Matteis,Female,85,1967-04-07,Senior Quality Engineer,Health,Mass Customer,N,Yes,17,54,1168.43
+600,1697,Eddi,Mansbridge,Female,44,1969-03-29,Occupational Therapist,Health,Mass Customer,N,Yes,12,52,3042.48
+601,1700,Rana,Streets,Female,28,1969-09-18,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,14,52,1483.4799999999998
+602,1703,Nerita,Keppie,Female,14,1991-04-01,Product Engineer,Telecommunications,Mass Customer,N,Yes,3,30,761.47
+603,1705,Nelle,Haworth,Female,1,1979-08-14,Research Associate,Financial Services,Mass Customer,N,Yes,9,42,2109.79
+604,1708,Wenona,Mahaddie,Female,39,1988-12-30,Marketing Manager,Property,High Net Worth,N,No,20,33,2225.03
+605,1710,Matilde,MacKeeg,Female,49,1954-06-30,Health Coach IV,Health,High Net Worth,N,No,17,67,1638.52
+606,1713,Jennica,Jeeks,Female,89,1988-11-08,Teacher,Retail,High Net Worth,N,Yes,21,33,3889.18
+607,1714,Esma,Rycroft,Female,80,1998-06-26,Senior Sales Associate,Property,High Net Worth,N,Yes,4,23,3372.1299999999997
+608,1716,Lou,Yellep,Female,42,1987-01-30,Senior Developer,Telecommunications,Affluent Customer,N,No,5,34,1444.78
+609,1718,Eada,Coaster,Female,13,1994-04-19,Professor,Financial Services,High Net Worth,N,Yes,4,27,1539.11
+610,1720,Matilda,Milton,Female,96,1986-10-06,Staff Accountant II,Financial Services,Mass Customer,N,Yes,13,35,3538.0499999999997
+611,1721,Delcine,Hansod,Female,82,1980-10-22,Senior Quality Engineer,Financial Services,High Net Worth,N,No,14,41,3766.3500000000004
+612,1724,Davita,Pristnor,Female,28,1999-01-24,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,4,22,958.5800000000002
+613,1725,Corena,Postlewhite,Female,80,1979-07-19,Junior Executive,Manufacturing,High Net Worth,N,Yes,16,42,5576.41
+614,1726,Mariette,Alexsandrev,Female,41,1973-08-06,Junior Executive,Financial Services,High Net Worth,N,No,11,48,4476.97
+615,1729,Alla,Kyles,Female,37,1987-11-16,Mechanical Systems Engineer,Argiculture,High Net Worth,N,No,7,34,3005.33
+616,1730,Tildi,Kirkup,Female,29,1985-12-21,Senior Financial Analyst,Financial Services,Mass Customer,N,No,20,36,418.0400000000001
+617,1731,Aigneis,MacKall,Female,26,1959-03-11,Health Coach III,Health,High Net Worth,N,Yes,19,62,3521.29
+618,1734,Adriana,Cullerne,Female,88,1977-10-10,Community Outreach Specialist,Retail,Mass Customer,N,Yes,11,44,923.0
+619,1737,Benny,Jammet,Female,21,1976-09-06,Senior Developer,Property,Affluent Customer,N,Yes,13,45,3531.0899999999997
+620,1744,Phoebe,Kahen,Female,41,1972-01-21,Nurse Practicioner,Financial Services,High Net Worth,N,No,12,49,539.2499999999999
+621,1745,Leigha,Clawson,Female,37,1955-08-23,Chief Design Engineer,Financial Services,Mass Customer,N,Yes,6,66,3164.4700000000003
+622,1753,Kerry,Ford,Female,6,1997-10-12,VP Product Management,Health,High Net Worth,N,Yes,1,24,2093.21
+623,1755,Dagmar,Panyer,Female,38,1986-08-23,Tax Accountant,Property,Mass Customer,N,No,20,35,3451.34
+624,1758,Helli,Cooksley,Female,16,1971-10-28,Administrative Assistant I,Argiculture,Mass Customer,N,Yes,6,50,1764.85
+625,1760,Kelsy,Barrowcliff,Female,68,1966-04-27,Dental Hygienist,Health,High Net Worth,N,No,15,55,3666.94
+626,1761,Kassi,List,Female,96,1974-08-29,Legal Assistant,Manufacturing,Mass Customer,N,Yes,14,47,3258.95
+627,1762,Gaye,Steutly,Female,49,1978-04-30,Research Assistant II,Health,Mass Customer,N,Yes,18,43,5870.929999999999
+628,1763,Suzie,Ornillos,Female,96,1994-10-30,Automation Specialist I,Manufacturing,Affluent Customer,N,Yes,7,27,3434.3799999999997
+629,1767,Cicely,Millier,Female,28,1959-03-10,Software Engineer IV,Manufacturing,Affluent Customer,N,Yes,19,62,3152.29
+630,1771,Zarah,Santello,Female,1,1974-11-01,Geological Engineer,Manufacturing,Mass Customer,N,Yes,14,47,2670.1499999999996
+631,1775,Kimberly,Dishmon,Female,73,1995-10-01,Actuary,Financial Services,Affluent Customer,N,No,3,26,3695.64
+632,1777,Lucinda,Jerok,Female,47,1994-05-02,Sales Representative,Retail,Affluent Customer,N,No,1,27,2651.76
+633,1784,Louella,O' Timony,Female,37,1994-10-15,GIS Technical Architect,Manufacturing,Mass Customer,N,Yes,6,27,1239.2799999999997
+634,1786,Lonee,Gorce,Female,70,1962-03-20,Administrative Assistant III,Argiculture,High Net Worth,N,Yes,11,59,963.6199999999999
+635,1788,Anna-diana,Kurten,Female,79,1964-08-10,Account Representative IV,Financial Services,High Net Worth,N,Yes,10,57,4979.39
+636,1789,Talya,Darycott,Female,44,1986-08-29,Analog Circuit Design manager,Property,Mass Customer,N,No,9,35,2066.6600000000003
+637,1791,Ninon,Van Der Hoog,Female,20,1974-12-25,Data Coordiator,IT,Affluent Customer,N,Yes,19,47,2595.16
+638,1794,Caro,McKirton,Female,53,1969-03-10,Administrative Officer,Property,Mass Customer,N,No,8,52,1713.79
+639,1796,Cayla,Marcus,Female,79,1969-11-28,Desktop Support Technician,Manufacturing,High Net Worth,N,Yes,8,52,221.12
+640,1798,Eunice,Risom,Female,46,2000-10-11,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,1,21,2934.7599999999998
+641,1800,Dianemarie,Hatherall,Female,30,1955-09-23,Executive Secretary,Argiculture,High Net Worth,N,No,11,66,2440.35
+642,1802,Lizzie,Duke,Female,3,1973-04-11,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,7,48,5035.8
+643,1804,Matelda,Kordas,Female,91,1963-03-28,Product Engineer,Property,Affluent Customer,N,No,4,58,2156.17
+644,1805,Venus,Sketch,Female,90,1976-10-15,Budget/Accounting Analyst II,Financial Services,Mass Customer,N,No,12,45,634.6500000000001
+645,1809,Reba,Southon,Female,67,1961-01-26,Programmer II,Health,Mass Customer,N,Yes,19,60,3918.15
+646,1812,Daffi,Sewley,Female,20,1959-07-11,Clinical Specialist,Health,Affluent Customer,N,No,14,62,3980.04
+647,1813,Reeva,Eakeley,Female,45,2001-05-19,Technical Writer,Manufacturing,Mass Customer,N,No,1,20,2137.45
+648,1814,Shawn,Platfoot,Female,33,1988-08-18,Web Designer IV,Retail,Affluent Customer,N,No,17,33,2459.73
+649,1815,Bab,Bingall,Female,23,1954-03-26,Software Test Engineer I,Argiculture,Mass Customer,N,Yes,19,67,1964.0800000000002
+650,1818,Katha,Lockhurst,Female,64,1967-04-01,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,11,54,4516.55
+651,1819,Deedee,Fransinelli,Female,26,1994-11-23,Graphic Designer,Entertainment,Mass Customer,N,Yes,8,27,763.9000000000001
+652,1824,Robbie,Yakubovics,Female,12,1959-10-12,Safety Technician III,Manufacturing,Affluent Customer,N,Yes,5,62,3263.7000000000003
+653,1827,Stormie,Smyth,Female,92,1978-01-15,Sales Representative,Retail,Affluent Customer,N,Yes,18,43,2549.58
+654,1828,Leigha,Bacchus,Female,65,1987-12-02,Junior Executive,Manufacturing,Affluent Customer,N,No,14,34,757.2499999999999
+655,1832,Elicia,Normanvill,Female,53,1964-11-05,Programmer Analyst III,Manufacturing,Mass Customer,N,Yes,12,57,5739.57
+656,1836,Rochella,Harce,Female,54,1955-06-05,Research Nurse,Health,Mass Customer,N,Yes,13,66,1219.8600000000001
+657,1838,Jobina,Dudenie,Female,14,1964-11-25,Business Systems Development Analyst,Financial Services,Affluent Customer,N,Yes,12,57,4691.450000000001
+658,1839,Faythe,Rance,Female,60,1987-05-08,Internal Auditor,Entertainment,High Net Worth,N,Yes,5,34,2784.0
+659,1846,Lorette,Daspar,Female,4,1978-12-18,Senior Editor,Manufacturing,Affluent Customer,N,No,7,43,356.5
+660,1847,Bobinette,Stanaway,Female,68,1978-02-04,Executive Secretary,Manufacturing,Mass Customer,N,No,6,43,1919.8300000000002
+661,1852,Darby,Shailer,Female,22,1978-01-21,Research Associate,Manufacturing,Affluent Customer,N,No,18,43,4641.27
+662,1856,Toni,Harbidge,Female,57,1969-07-20,Associate Professor,Retail,Mass Customer,N,No,4,52,253.81000000000003
+663,1859,Melamie,Hardman,Female,81,1990-04-08,Accountant IV,IT,High Net Worth,N,Yes,12,31,2355.59
+664,1860,Holly-anne,Hamman,Female,4,1976-12-28,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,17,45,4503.35
+665,1861,Charlena,Muzzi,Female,26,1967-07-18,Geological Engineer,Manufacturing,Mass Customer,N,Yes,8,54,3793.8100000000004
+666,1864,Anet,Pellitt,Female,45,1960-07-03,Senior Quality Engineer,Retail,Mass Customer,N,No,18,61,2925.42
+667,1868,Aloisia,Ivel,Female,11,1988-06-22,Assistant Manager,Retail,Mass Customer,N,No,10,33,7566.25
+668,1869,Neda,Longfellow,Female,73,1977-10-19,Geologist IV,Financial Services,High Net Worth,N,Yes,9,44,1623.4299999999998
+669,1871,Shayna,McQuin,Female,52,1994-01-23,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,8,27,2220.2599999999998
+670,1886,Eugenie,Belcham,Female,35,1978-09-22,Nurse,IT,Affluent Customer,N,No,18,43,2434.76
+671,1887,Kynthia,Purcer,Female,22,1965-06-22,Director of Sales,IT,Affluent Customer,N,Yes,8,56,8034.709999999999
+672,1888,Sibyl,Scholtz,Female,67,2002-01-26,Food Chemist,Health,Mass Customer,N,Yes,1,19,3288.04
+673,1895,Leese,Lohan,Female,53,1975-09-02,Technical Writer,Manufacturing,Mass Customer,N,No,15,46,541.1299999999999
+674,1898,Katalin,Mantz,Female,67,1979-11-24,Developer III,Manufacturing,Affluent Customer,N,Yes,12,42,4787.35
+675,1902,Camille,Vallintine,Female,48,1964-12-01,Environmental Tech,Financial Services,Mass Customer,N,Yes,4,57,2134.1
+676,1904,Nert,Muglestone,Female,60,1978-01-25,Technical Writer,IT,High Net Worth,N,Yes,14,43,1604.73
+677,1908,Jaquelyn,Workman,Female,2,1963-12-10,Help Desk Technician,Financial Services,High Net Worth,N,Yes,6,58,3725.5699999999997
+678,1909,Drucill,Laurand,Female,32,1984-12-11,Research Assistant II,Argiculture,Affluent Customer,N,Yes,13,37,3456.8
+679,1910,Yovonnda,Warrior,Female,20,1959-07-13,Systems Administrator I,Property,High Net Worth,N,Yes,14,62,907.45
+680,1913,Tamiko,Fergie,Female,36,1973-11-02,Dental Hygienist,Health,Mass Customer,N,Yes,17,48,3254.5299999999997
+681,1915,Dusty,Tesimon,Female,40,1953-10-12,Social Worker,Health,Mass Customer,N,Yes,12,68,2568.0499999999997
+682,1917,Raquela,Schimpke,Female,7,1973-07-28,Senior Sales Associate,Argiculture,Affluent Customer,N,Yes,8,48,5107.25
+683,1927,Masha,Bibbie,Female,11,1975-07-15,Software Test Engineer I,Manufacturing,Affluent Customer,N,Yes,8,46,3658.13
+684,1929,Elka,Crossgrove,Female,79,1986-10-12,Food Chemist,Health,Affluent Customer,N,No,20,35,1912.36
+685,1932,Sybila,Enefer,Female,98,1977-01-03,Librarian,Entertainment,Affluent Customer,N,Yes,3,44,4328.469999999999
+686,1936,Gisella,Scad,Female,36,1964-07-08,Junior Executive,Manufacturing,Mass Customer,N,Yes,12,57,3553.7400000000002
+687,1940,Gabriellia,Coulter,Female,52,1977-03-02,Teacher,Manufacturing,High Net Worth,N,Yes,8,44,3259.41
+688,1947,Gretta,Patrone,Female,66,1963-12-11,Geologist II,Telecommunications,Affluent Customer,N,Yes,18,58,3974.81
+689,1949,Onida,Cockshot,Female,9,1954-05-10,Legal Assistant,Manufacturing,Mass Customer,N,No,7,67,3586.71
+690,1952,Patrica,Donativo,Female,35,1974-01-29,Payment Adjustment Coordinator,Health,Mass Customer,N,Yes,9,47,2882.8
+691,1953,Luisa,McGlue,Female,23,1978-06-05,Paralegal,Financial Services,High Net Worth,N,No,12,43,3899.78
+692,1964,Cara,Campbell-Dunlop,Female,60,1964-06-19,Mechanical Systems Engineer,Financial Services,Affluent Customer,N,Yes,9,57,4239.32
+693,1968,Frederica,Hughman,Female,31,1994-06-12,Librarian,Entertainment,Mass Customer,N,No,1,27,1810.03
+694,1973,Fanni,Liffe,Female,52,1980-01-11,Media Manager IV,Financial Services,High Net Worth,N,No,5,41,3371.6899999999996
+695,1975,Tommie,Midden,Female,39,1965-10-19,Product Engineer,Health,Affluent Customer,N,No,4,56,79.15999999999994
+696,1976,Letitia,Coan,Female,84,1975-08-16,Product Engineer,Manufacturing,Mass Customer,N,No,11,46,1731.6299999999999
+697,1978,Marge,Skerm,Female,53,1955-01-06,Dental Hygienist,Health,Mass Customer,N,No,16,66,231.7099999999999
+698,1982,Julee,Hallewell,Female,80,1968-03-30,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,16,53,3939.1699999999996
+699,1983,Kimberlee,Soonhouse,Female,6,1963-03-10,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,18,58,3061.7999999999997
+700,1989,Emalee,Guitel,Female,46,1973-07-21,Graphic Designer,Property,High Net Worth,N,Yes,17,48,1659.6399999999999
+701,1992,Shanta,Attrill,Female,28,1995-10-21,Web Developer I,Manufacturing,Mass Customer,N,Yes,3,26,6658.89
+702,1999,Raquel,Bamlett,Female,6,1962-08-16,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,7,59,2424.34
+703,2001,Mada,Martinho,Female,21,1977-10-06,Analog Circuit Design manager,Manufacturing,Mass Customer,N,Yes,3,44,5347.870000000001
+704,2002,Matilde,Hamsher,Female,55,1971-06-20,Mechanical Systems Engineer,Financial Services,Mass Customer,N,No,12,50,1637.4600000000003
+705,2003,Lilli,Hargey,Female,80,1962-06-21,Statistician III,Manufacturing,High Net Worth,N,Yes,8,59,214.36999999999995
+706,2005,Marina,McElwee,Female,41,1978-08-20,Accountant I,Manufacturing,High Net Worth,N,No,17,43,4047.83
+707,2006,Hyacinthia,Tuley,Female,33,1999-10-04,Senior Developer,Property,High Net Worth,N,Yes,2,22,2255.61
+708,2009,Neilla,Castrillo,Female,19,1960-03-16,Staff Accountant IV,Health,Affluent Customer,N,Yes,19,61,2357.3500000000004
+709,2012,Maisey,Lavell,Female,55,1972-09-07,Health Coach I,Health,High Net Worth,N,No,4,49,2714.3
+710,2013,Marge,Girault,Female,99,1995-08-10,Registered Nurse,Health,Affluent Customer,N,Yes,19,26,4413.06
+711,2014,Sandye,Avraam,Female,49,1990-05-25,Associate Professor,Manufacturing,Mass Customer,N,Yes,8,31,2872.41
+712,2015,Charyl,Sibson,Female,6,1974-02-19,Health Coach IV,Health,Affluent Customer,N,No,7,47,2970.6000000000004
+713,2016,Laraine,Merioth,Female,89,1998-11-19,Executive Secretary,Retail,Affluent Customer,N,Yes,1,23,2390.89
+714,2019,Neda,Perkis,Female,48,1953-09-13,VP Marketing,Entertainment,High Net Worth,N,No,17,68,4781.23
+715,2020,Portia,Proudlock,Female,50,1971-05-06,Biostatistician IV,Property,Affluent Customer,N,Yes,14,50,4959.639999999999
+716,2024,Elinor,Biggerstaff,Female,69,2000-07-14,VP Sales,IT,Mass Customer,N,Yes,2,21,3558.4100000000003
+717,2026,Anabelle,Rogerson,Female,62,1987-09-18,Structural Engineer,Property,Mass Customer,N,Yes,7,34,3447.4399999999996
+718,2028,Cathy,Parmley,Female,25,1976-12-10,Director of Sales,Retail,Affluent Customer,N,Yes,18,45,3648.33
+719,2034,June,Haslam,Female,87,1974-01-10,Speech Pathologist,Manufacturing,Mass Customer,N,No,8,47,2438.26
+720,2038,Fae,Done,Female,9,1959-11-26,Structural Engineer,Financial Services,Mass Customer,N,Yes,5,62,3207.1700000000005
+721,2039,Laureen,Blower,Female,38,1978-03-26,Senior Developer,IT,High Net Worth,N,Yes,7,43,2422.46
+722,2044,Leyla,Eddington,Female,84,1998-08-02,Quality Engineer,Health,Mass Customer,N,Yes,1,23,3977.45
+723,2045,Hermina,Franzel,Female,15,1984-07-03,VP Sales,Financial Services,High Net Worth,N,No,15,37,5224.69
+724,2047,Kirsten,Slegg,Female,45,1975-04-13,Paralegal,Financial Services,Affluent Customer,N,Yes,21,46,1215.34
+725,2048,Sorcha,Genthner,Female,22,1960-04-13,Financial Advisor,Financial Services,High Net Worth,N,No,13,61,5517.21
+726,2051,Teresita,Drinnan,Female,8,1959-06-15,Geological Engineer,Manufacturing,Affluent Customer,N,No,20,62,6140.66
+727,2056,Cristin,Smoughton,Female,65,1986-03-04,Biostatistician IV,Property,High Net Worth,N,No,22,35,1028.46
+728,2057,Elianora,Sally,Female,99,1959-10-04,Accounting Assistant IV,Manufacturing,Affluent Customer,N,Yes,15,62,5006.98
+729,2058,Ronna,Wickersham,Female,99,1978-02-04,Database Administrator I,Argiculture,High Net Worth,N,No,7,43,3634.98
+730,2060,Constancia,Akram,Female,17,1959-01-23,Statistician II,Financial Services,Mass Customer,N,No,17,62,5875.139999999999
+731,2072,Margie,Tillyer,Female,30,1960-04-20,Environmental Specialist,Financial Services,Mass Customer,N,Yes,9,61,4136.84
+732,2075,Devondra,Jovis,Female,95,1973-04-23,Environmental Tech,Manufacturing,Mass Customer,N,No,8,48,2302.5400000000004
+733,2076,Beatriz,Tweddle,Female,73,1969-06-03,Assistant Manager,Manufacturing,Mass Customer,N,Yes,5,52,5576.17
+734,2077,Tobe,Lindroos,Female,67,1992-02-26,Cost Accountant,Financial Services,Mass Customer,N,Yes,7,29,2429.72
+735,2078,Joice,Govett,Female,15,1989-08-30,Computer Systems Analyst III,Manufacturing,Mass Customer,N,No,3,32,2175.54
+736,2081,Gelya,Coaker,Female,69,1972-06-21,Senior Editor,Financial Services,Mass Customer,N,No,13,49,2531.96
+737,2082,Sybyl,Beekman,Female,38,1979-12-07,Legal Assistant,Health,Affluent Customer,N,Yes,19,42,2903.17
+738,2085,Carolynn,Samsin,Female,83,1956-05-03,Pharmacist,Health,Mass Customer,N,No,11,65,2196.3500000000004
+739,2091,Dominga,Crosfield,Female,27,1980-06-22,Office Assistant II,Argiculture,Mass Customer,N,No,9,41,2764.6099999999997
+740,2095,Anette,Guerreiro,Female,69,1989-11-13,Account Executive,Manufacturing,Affluent Customer,N,No,8,32,6194.3
+741,2096,Torrie,Smartman,Female,74,1969-05-21,Programmer III,Telecommunications,High Net Worth,N,Yes,12,52,4320.42
+742,2098,Ame,Tossell,Female,82,1969-12-13,Dental Hygienist,Health,High Net Worth,N,No,16,52,2293.67
+743,2104,Livy,Roote,Female,31,1979-01-29,Structural Analysis Engineer,Financial Services,Mass Customer,N,No,11,42,2341.58
+744,2107,Dre,Ferrillo,Female,2,1992-07-10,Biostatistician IV,IT,Affluent Customer,N,Yes,4,29,892.5
+745,2108,Michel,O'Halligan,Female,41,1985-11-24,Software Test Engineer IV,Property,Mass Customer,N,Yes,18,36,2077.2999999999997
+746,2109,Grazia,Vinson,Female,14,1965-04-13,Account Representative II,Health,High Net Worth,N,Yes,18,56,5263.13
+747,2112,Aubrie,Glaum,Female,64,1993-05-17,Accounting Assistant I,Financial Services,Mass Customer,N,Yes,6,28,3696.4300000000003
+748,2113,Nita,Bushell,Female,91,1972-01-06,Internal Auditor,Manufacturing,Affluent Customer,N,No,17,49,2989.64
+749,2119,Dorise,Bellon,Female,51,1985-03-01,Senior Cost Accountant,Financial Services,Mass Customer,N,No,17,36,2795.3199999999997
+750,2121,Clarita,Jaqueminet,Female,35,1989-02-15,Nurse,Financial Services,Mass Customer,N,Yes,22,32,4204.3
+751,2123,Shirley,Negal,Female,36,1993-03-19,Software Engineer II,Manufacturing,Affluent Customer,N,No,2,28,2289.21
+752,2125,Laurene,Linstead,Female,9,1975-01-27,VP Quality Control,Financial Services,High Net Worth,N,No,18,46,1710.2800000000002
+753,2127,Wanids,Baudet,Female,66,1974-02-15,Web Designer I,Manufacturing,Mass Customer,N,No,7,47,1884.6200000000001
+754,2130,Evangelina,Coxhell,Female,95,1990-01-01,Structural Engineer,Property,High Net Worth,N,Yes,16,31,4253.77
+755,2132,Davina,Dougary,Female,16,1985-02-02,Human Resources Manager,Financial Services,High Net Worth,N,Yes,22,36,6401.83
+756,2133,Clarissa,Blaisdale,Female,44,1998-01-20,General Manager,Financial Services,High Net Worth,N,No,3,23,3126.8399999999997
+757,2136,Heather,Golsworthy,Female,21,1965-07-12,Office Assistant I,Health,High Net Worth,N,Yes,5,56,3917.4700000000003
+758,2138,Jonell,Gon,Female,23,1978-11-28,Graphic Designer,Manufacturing,High Net Worth,N,No,15,43,4736.450000000001
+759,2139,Carolina,Brands,Female,87,1982-02-06,Accountant II,IT,Affluent Customer,N,Yes,7,39,5380.68
+760,2141,Georgie,Bruggen,Female,50,1964-08-21,Programmer I,Financial Services,High Net Worth,N,Yes,4,57,2611.75
+761,2144,Maureene,Kingstne,Female,12,1978-04-11,Office Assistant IV,Property,Mass Customer,N,Yes,9,43,5253.88
+762,2145,Adrea,Quittonden,Female,44,1959-11-11,Librarian,Entertainment,Affluent Customer,N,Yes,19,62,299.27
+763,2148,Annis,Freeth,Female,78,1989-03-20,Engineer I,Manufacturing,Mass Customer,N,Yes,15,32,2346.1600000000003
+764,2152,Junina,Labone,Female,40,1968-11-05,Database Administrator III,Manufacturing,Mass Customer,N,Yes,19,53,4281.08
+765,2154,Bird,Bolf,Female,86,1980-01-08,Chemical Engineer,Manufacturing,High Net Worth,N,No,6,41,4268.17
+766,2157,Alidia,Petyankin,Female,52,1978-01-30,Community Outreach Specialist,Property,Mass Customer,N,No,19,43,338.85
+767,2160,Kettie,Cantopher,Female,64,1971-06-26,Recruiter,Health,Mass Customer,N,Yes,15,50,2672.77
+768,2164,Toinette,Clementson,Female,12,1973-08-16,Financial Analyst,Financial Services,Mass Customer,N,Yes,18,48,3328.51
+769,2166,Mareah,Woodnutt,Female,78,1984-11-09,Nurse,Property,Mass Customer,N,No,16,37,3071.34
+770,2167,Laina,Semorad,Female,31,1997-07-11,Librarian,Entertainment,Mass Customer,N,No,1,24,1539.6000000000001
+771,2171,Laryssa,Maes,Female,21,1970-02-10,Pharmacist,Health,High Net Worth,N,No,10,51,1251.33
+772,2173,Gracia,McAteer,Female,27,1976-09-21,Help Desk Technician,IT,Mass Customer,N,Yes,22,45,2250.33
+773,2176,Josie,Gallemore,Female,79,1962-11-09,Accountant II,Property,High Net Worth,N,Yes,12,59,2088.0899999999997
+774,2178,Veriee,Colthard,Female,20,1954-03-18,Mechanical Systems Engineer,Retail,Mass Customer,N,No,12,67,451.6000000000001
+775,2183,Jillie,Fyndon,Female,61,1972-02-07,Programmer Analyst IV,Manufacturing,Mass Customer,N,Yes,7,49,6513.299999999999
+776,2185,Gayle,Gridley,Female,40,1963-10-15,Human Resources Assistant II,Property,Mass Customer,N,No,19,58,5144.36
+777,2186,Carolina,Sexty,Female,61,1963-03-18,Clinical Specialist,Health,High Net Worth,N,No,5,58,1956.3899999999999
+778,2187,Brunhilde,Kendall,Female,52,1997-12-27,Budget/Accounting Analyst I,Health,Mass Customer,N,No,2,24,5644.17
+779,2194,Johnette,O'Fergus,Female,79,1958-09-10,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,11,63,6198.41
+780,2195,Nevsa,Taill,Female,94,1987-05-02,GIS Technical Architect,Financial Services,Affluent Customer,N,Yes,13,34,4139.25
+781,2199,Leigha,Ranger,Female,89,1983-02-09,Account Coordinator,Property,High Net Worth,N,Yes,13,38,2644.0299999999997
+782,2201,Trisha,Basset,Female,56,1998-12-12,Design Engineer,Financial Services,Affluent Customer,N,Yes,1,23,6291.68
+783,2202,Diannne,Neissen,Female,46,1977-08-19,Physical Therapy Assistant,Financial Services,Affluent Customer,N,Yes,8,44,5090.61
+784,2204,Kacie,Barthram,Female,16,1967-09-07,Librarian,Entertainment,High Net Worth,N,No,7,54,3346.58
+785,2207,Junia,Gall,Female,93,1979-01-26,Web Designer IV,Manufacturing,Mass Customer,N,Yes,16,42,3604.1400000000003
+786,2212,Adrianne,Raoux,Female,22,1974-05-13,Technical Writer,Manufacturing,Affluent Customer,N,Yes,20,47,2722.7200000000003
+787,2215,Viola,Wadhams,Female,50,1971-02-20,Structural Engineer,Financial Services,Mass Customer,N,Yes,18,50,327.23
+788,2216,Clarinda,Woffinden,Female,29,1962-01-02,Systems Administrator II,Property,High Net Worth,N,Yes,10,59,1644.6100000000001
+789,2218,Madelena,Blincoe,Female,94,1992-05-27,Senior Sales Associate,Health,Affluent Customer,N,No,4,29,2743.5600000000004
+790,2222,Caroline,Grabban,Female,20,1974-08-26,Professor,Financial Services,Mass Customer,N,No,14,47,3821.2699999999995
+791,2223,Sarita,Georgiev,Female,38,1981-01-29,Professor,Health,Mass Customer,N,No,12,40,3538.4199999999996
+792,2224,Sydel,Seccombe,Female,3,1998-08-18,Budget/Accounting Analyst III,Retail,High Net Worth,N,Yes,4,23,1041.01
+793,2225,Christina,Easum,Female,45,1988-04-02,Occupational Therapist,Health,Affluent Customer,N,No,19,33,3512.1000000000004
+794,2226,Hedvig,Flatt,Female,10,1955-07-22,Biostatistician II,Entertainment,Mass Customer,N,No,11,66,3121.7000000000003
+795,2228,Rosita,Soppeth,Female,12,1956-03-09,Geological Engineer,Manufacturing,High Net Worth,N,No,9,65,1425.2700000000002
+796,2229,Linette,Gotmann,Female,76,1959-04-10,Cost Accountant,Financial Services,Affluent Customer,N,Yes,7,62,2114.24
+797,2235,Maxine,Cauldwell,Female,75,1979-10-02,Social Worker,Health,Affluent Customer,N,No,16,42,3649.92
+798,2238,Nata,Plinck,Female,96,1978-09-14,Director of Sales,Retail,Mass Customer,N,Yes,14,43,2411.83
+799,2239,Jocelyne,Pasquale,Female,0,1960-01-11,Associate Professor,Property,High Net Worth,N,Yes,8,61,736.73
+800,2245,Elsinore,Banbrook,Female,11,1980-04-21,Marketing Manager,Argiculture,Mass Customer,N,No,3,41,3320.78
+801,2247,Gweneth,Wilkins,Female,17,1995-01-20,Teacher,Retail,High Net Worth,N,Yes,1,26,4957.3
+802,2248,Helsa,Grandisson,Female,33,1996-05-23,Software Engineer I,Manufacturing,Mass Customer,N,No,1,25,3914.5
+803,2253,Gracie,Kubacki,Female,28,1959-02-08,Office Assistant I,Manufacturing,Affluent Customer,N,Yes,13,62,1783.37
+804,2254,Ann,Beek,Female,36,1955-10-21,Programmer Analyst II,Health,Affluent Customer,N,No,18,66,2318.8900000000003
+805,2256,Mara,Rosterne,Female,28,1978-02-26,Marketing Manager,Retail,Mass Customer,N,No,15,43,1461.0
+806,2258,Cathy,Powter,Female,63,1974-03-21,Account Executive,Retail,High Net Worth,N,No,7,47,3881.78
+807,2262,Nyssa,Banister,Female,90,1984-04-21,Pharmacist,Health,Mass Customer,N,Yes,2,37,1502.68
+808,2263,Lois,Sorel,Female,79,1987-02-06,Professor,Argiculture,Mass Customer,N,Yes,21,34,3371.48
+809,2264,Tony,Shirley,Female,18,1972-07-17,Occupational Therapist,Health,Affluent Customer,N,No,9,49,2557.6200000000003
+810,2268,Wilhelmina,Gothup,Female,66,1965-10-07,Pharmacist,Health,Mass Customer,N,No,19,56,4473.32
+811,2272,Grete,Hindenburg,Female,82,1994-12-21,Internal Auditor,Manufacturing,Mass Customer,N,No,1,27,3344.13
+812,2274,Nada,Reinert,Female,15,1979-11-26,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,N,Yes,13,42,35.739999999999995
+813,2275,Ursulina,Carter,Female,77,1992-07-19,Human Resources Assistant II,Financial Services,High Net Worth,N,Yes,8,29,5688.289999999999
+814,2277,Gillie,Ruben,Female,44,1963-08-22,Cost Accountant,Financial Services,High Net Worth,N,Yes,7,58,2713.72
+815,2284,Ola,Lenoir,Female,83,1974-02-16,Staff Accountant IV,Telecommunications,High Net Worth,N,No,14,47,4735.67
+816,2285,Maritsa,Bellison,Female,71,1973-10-27,Quality Control Specialist,Health,High Net Worth,N,No,5,48,1796.2899999999997
+817,2286,Katuscha,Sapsed,Female,20,1995-06-02,Staff Scientist,Manufacturing,High Net Worth,N,No,5,26,2878.73
+818,2287,Gisela,Partener,Female,53,1974-04-22,Human Resources Assistant I,Telecommunications,High Net Worth,N,No,20,47,273.70000000000005
+819,2289,Kissie,Steanson,Female,97,1980-09-25,Research Nurse,Health,Affluent Customer,N,Yes,13,41,2224.75
+820,2292,Christie,MacClure,Female,17,1998-06-02,Research Nurse,Health,Mass Customer,N,Yes,2,23,4768.849999999999
+821,2293,Engracia,Newcom,Female,70,1958-03-07,Financial Advisor,Financial Services,Affluent Customer,N,No,16,63,1410.5300000000002
+822,2296,Nathalia,Sanger,Female,16,2002-01-01,Geologist IV,Retail,Affluent Customer,N,No,1,19,3592.5
+823,2297,Pauletta,Taffee,Female,16,1971-11-27,Geological Engineer,Manufacturing,Affluent Customer,N,Yes,19,50,4274.88
+824,2302,Loraine,Beamish,Female,43,1999-01-09,Mechanical Systems Engineer,Retail,Mass Customer,N,Yes,4,22,2611.15
+825,2305,Aeriell,Greeding,Female,91,1984-07-09,Chief Design Engineer,Financial Services,Affluent Customer,N,Yes,13,37,3135.34
+826,2306,Hilary,Tregunna,Female,98,1960-04-19,Paralegal,Financial Services,High Net Worth,N,Yes,9,61,2513.7799999999997
+827,2307,Corina,Shadwick,Female,57,1978-06-28,Desktop Support Technician,Retail,High Net Worth,N,Yes,13,43,3887.07
+828,2308,Nancey,Hastie,Female,52,1963-03-19,Paralegal,Financial Services,Mass Customer,N,Yes,17,58,5077.969999999999
+829,2312,Ronnica,Grebner,Female,72,1979-08-10,Assistant Manager,Manufacturing,Mass Customer,N,No,18,42,3280.61
+830,2313,Christa,Pauley,Female,54,1966-07-10,Chemical Engineer,Manufacturing,Mass Customer,N,No,12,55,2842.4700000000003
+831,2318,Willa,Malyan,Female,30,1988-03-01,Automation Specialist I,Manufacturing,Mass Customer,N,Yes,6,33,3627.48
+832,2320,Kaylyn,Throssell,Female,14,1965-12-21,Senior Developer,Manufacturing,Affluent Customer,N,No,16,56,1690.96
+833,2321,Libbi,Freeberne,Female,27,1980-03-25,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,20,41,3183.5299999999997
+834,2329,Donny,Stiven,Female,7,1957-12-19,Computer Systems Analyst II,IT,Affluent Customer,N,No,20,64,2276.9
+835,2330,Claresta,Bonnor,Female,5,1990-01-17,Account Coordinator,Property,Mass Customer,N,No,9,31,1203.34
+836,2331,Marybelle,Antal,Female,48,1963-04-11,Database Administrator III,Financial Services,Mass Customer,N,Yes,10,58,3707.24
+837,2337,Odilia,Bick,Female,47,2000-01-11,Programmer Analyst II,Health,Mass Customer,N,No,1,21,398.42999999999995
+838,2338,Clarie,Hackworth,Female,13,1986-11-28,Programmer Analyst IV,Manufacturing,Mass Customer,N,No,5,35,3574.31
+839,2345,Arden,Godard,Female,50,1986-07-15,Systems Administrator I,Retail,Affluent Customer,N,Yes,3,35,4609.14
+840,2348,Keeley,Winslet,Female,2,1957-11-07,Web Designer IV,Manufacturing,Mass Customer,N,No,16,64,831.6700000000001
+841,2349,Julee,Garwell,Female,23,1979-03-05,Executive Secretary,Telecommunications,High Net Worth,N,No,3,42,2500.26
+842,2351,Felicity,Beirne,Female,35,1992-03-15,Assistant Professor,Retail,Affluent Customer,N,Yes,10,29,4068.23
+843,2354,Tammie,Fisbey,Female,99,1958-12-19,Product Engineer,Retail,Mass Customer,N,No,17,63,3458.1499999999996
+844,2356,Arluene,Manchester,Female,58,1994-12-17,Geological Engineer,Manufacturing,Affluent Customer,N,No,3,27,2674.92
+845,2357,Lisette,Mingardi,Female,39,1962-10-15,Civil Engineer,Manufacturing,Mass Customer,N,No,6,59,2741.81
+846,2359,Merlina,Bream,Female,80,1986-03-25,Mechanical Systems Engineer,Property,High Net Worth,N,Yes,7,35,2688.57
+847,2360,Karleen,McGenn,Female,0,1974-11-03,VP Accounting,Financial Services,High Net Worth,N,Yes,5,47,4962.2
+848,2365,Lauretta,Furmonger,Female,2,1998-10-18,Structural Analysis Engineer,Argiculture,Mass Customer,N,Yes,3,23,2411.63
+849,2366,Idette,Mapam,Female,51,1975-06-15,Web Designer I,Health,Mass Customer,N,Yes,15,46,2554.42
+850,2368,Rowe,Losbie,Female,98,1993-01-22,Chemical Engineer,Manufacturing,Mass Customer,N,No,10,28,4675.969999999999
+851,2369,Averyl,Gosz,Female,80,1996-10-28,Financial Analyst,Financial Services,Mass Customer,N,Yes,1,25,6854.59
+852,2370,Juliane,Calltone,Female,35,1996-03-19,Analyst Programmer,Property,High Net Worth,N,No,7,25,1902.53
+853,2371,Rory,Lokier,Female,22,1966-11-18,Staff Scientist,Manufacturing,High Net Worth,N,Yes,8,55,2642.95
+854,2373,Cordy,Readshall,Female,51,1982-05-22,Structural Engineer,Manufacturing,High Net Worth,N,Yes,16,39,2381.7400000000002
+855,2375,Alika,Milbourne,Female,21,1987-03-17,Sales Representative,Retail,Affluent Customer,N,No,8,34,5641.47
+856,2377,Kristien,Dunne,Female,29,1998-10-02,Analog Circuit Design manager,IT,High Net Worth,N,No,2,23,4707.549999999999
+857,2378,Aggi,Farncombe,Female,41,1994-04-25,Research Assistant II,Manufacturing,Affluent Customer,N,No,1,27,2777.48
+858,2379,Trixie,Piscopiello,Female,85,1981-05-05,Occupational Therapist,Health,Affluent Customer,N,Yes,15,40,8252.73
+859,2380,Merissa,Milella,Female,44,1956-04-09,Technical Writer,Retail,Mass Customer,N,Yes,15,65,4015.95
+860,2381,Dulsea,Pladen,Female,91,1973-02-12,Programmer I,Argiculture,Affluent Customer,N,Yes,5,48,2731.88
+861,2383,Zaria,Eberz,Female,34,1978-09-15,Compensation Analyst,Financial Services,Mass Customer,N,No,15,43,5876.070000000001
+862,2386,Adrianne,Lowerson,Female,93,1997-07-06,Compensation Analyst,Financial Services,Mass Customer,N,No,2,24,5453.860000000001
+863,2390,Tonya,Nealand,Female,48,1964-05-06,Legal Assistant,Property,Mass Customer,N,No,12,57,4636.58
+864,2391,Corny,Millott,Female,72,1961-04-22,Nurse Practicioner,Health,Mass Customer,N,No,14,60,5862.45
+865,2392,Isadora,Gronaller,Female,48,2001-01-11,Marketing Assistant,Manufacturing,Affluent Customer,N,No,2,20,1547.88
+866,2393,Dorian,Colledge,Female,68,1981-06-21,Registered Nurse,Health,High Net Worth,N,Yes,11,40,192.9699999999999
+867,2396,Elmira,Wildblood,Female,40,1973-08-02,Recruiter,Retail,Affluent Customer,N,Yes,7,48,2198.08
+868,2399,Devonne,McPolin,Female,20,1980-06-11,Software Consultant,Manufacturing,High Net Worth,N,Yes,14,41,2724.93
+869,2402,Merrielle,Strafen,Female,99,1957-06-07,Cost Accountant,Financial Services,Mass Customer,N,Yes,8,64,788.2799999999999
+870,2403,Karalee,Tremlett,Female,41,1977-10-25,Technical Writer,Financial Services,Affluent Customer,N,No,12,44,965.8499999999999
+871,2410,Eugenia,Verey,Female,75,1974-08-24,Geological Engineer,Manufacturing,Mass Customer,N,Yes,21,47,3695.7300000000005
+872,2412,Tiffi,Havercroft,Female,77,1981-05-26,Chemical Engineer,Manufacturing,Affluent Customer,N,No,8,40,3903.5699999999997
+873,2418,Elspeth,Brazil,Female,82,1970-04-05,Software Engineer III,Property,Mass Customer,N,Yes,13,51,5457.09
+874,2420,Celie,Guyers,Female,10,1976-08-26,Staff Scientist,Financial Services,High Net Worth,N,No,16,45,1749.57
+875,2421,Marilee,Garbott,Female,54,1954-08-16,Research Nurse,Health,Affluent Customer,N,Yes,13,67,409.8000000000001
+876,2422,Crysta,Woliter,Female,96,1978-11-30,Librarian,Entertainment,High Net Worth,N,No,13,43,2606.6
+877,2429,Emeline,Baldi,Female,54,1980-11-11,Assistant Professor,Manufacturing,Mass Customer,N,Yes,3,41,2883.65
+878,2432,Ebba,Melhuish,Female,67,1981-02-21,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,5,40,2073.65
+879,2435,Orly,Ceney,Female,69,1961-08-12,Account Coordinator,Manufacturing,Mass Customer,N,No,14,60,2656.6699999999996
+880,2437,Simonette,Cressingham,Female,90,1977-05-01,Marketing Manager,Financial Services,Mass Customer,N,Yes,18,44,375.02
+881,2438,Lorianne,Ethersey,Female,76,1983-01-29,Speech Pathologist,Manufacturing,Mass Customer,N,Yes,4,38,3058.73
+882,2440,Lethia,Juanes,Female,17,1959-09-21,Engineer II,Manufacturing,Affluent Customer,N,No,8,62,1131.8
+883,2448,Lorri,Iston,Female,5,1992-12-18,Structural Analysis Engineer,Property,High Net Worth,N,No,10,29,2580.59
+884,2452,Sophronia,Yerrill,Female,93,1975-07-24,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,17,46,1147.86
+885,2453,Ruthe,Campe,Female,22,1992-08-05,Safety Technician II,Telecommunications,High Net Worth,N,No,9,29,2587.7999999999997
+886,2454,Gene,Brome,Female,81,1960-02-13,Senior Sales Associate,Property,Mass Customer,N,Yes,12,61,6272.209999999999
+887,2458,Leilah,Liddel,Female,73,1964-04-20,Media Manager II,Manufacturing,High Net Worth,N,Yes,5,57,7756.789999999999
+888,2459,Jeanna,Naulls,Female,67,1986-01-10,Quality Engineer,Manufacturing,High Net Worth,N,No,18,35,4737.3
+889,2463,Krystle,Jovicevic,Female,54,1978-01-30,Pharmacist,Health,Mass Customer,N,No,12,43,5972.620000000001
+890,2467,Ynez,Fawloe,Female,71,1975-07-15,Engineer III,Manufacturing,Affluent Customer,N,Yes,4,46,1961.7900000000002
+891,2474,Chrysa,Burrett,Female,59,1980-06-08,Executive Secretary,Argiculture,High Net Worth,N,Yes,6,41,4958.1
+892,2479,Helge,Voller,Female,81,1996-11-06,Community Outreach Specialist,Retail,Mass Customer,N,No,5,25,1732.26
+893,2480,Adey,Shevlin,Female,3,1971-12-26,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,16,50,3382.4
+894,2481,Amber,Ruslin,Female,71,1979-01-20,Chief Design Engineer,Manufacturing,Mass Customer,N,Yes,12,42,3836.2400000000002
+895,2484,Elise,Slimm,Female,77,1979-10-03,Senior Quality Engineer,Property,Mass Customer,N,Yes,14,42,2143.0099999999993
+896,2486,Alaine,Halbord,Female,77,1954-03-09,Structural Engineer,Manufacturing,Mass Customer,N,Yes,5,67,1185.85
+897,2488,Idalia,Braunton,Female,32,1988-11-17,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,7,33,2774.48
+898,2489,Emma,Mates,Female,42,1976-06-12,Speech Pathologist,Retail,Mass Customer,N,No,15,45,6854.85
+899,2494,Donella,Emm,Female,98,1974-08-08,Senior Sales Associate,Manufacturing,High Net Worth,N,No,16,47,3632.29
+900,2495,Gwenore,Suero,Female,89,1953-11-12,Assistant Professor,IT,Affluent Customer,N,No,17,68,2232.7799999999997
+901,2498,Rosana,Emmatt,Female,70,1978-02-02,Software Test Engineer III,Retail,High Net Worth,N,No,8,43,3423.2000000000007
+902,2499,Doll,Tschirschky,Female,77,1973-08-30,Account Representative I,Retail,Mass Customer,N,No,14,48,2160.75
+903,2500,Micky,Livings,Female,35,1957-12-18,Senior Developer,Property,High Net Worth,N,Yes,17,64,766.4200000000001
+904,2501,Ora,Meaddowcroft,Female,80,1971-07-12,Actuary,Financial Services,Mass Customer,N,Yes,10,50,1813.87
+905,2502,Concordia,Mussington,Female,6,1964-08-23,Structural Engineer,Manufacturing,Mass Customer,N,Yes,11,57,2014.63
+906,2505,Myrah,McCarry,Female,45,1980-08-25,VP Marketing,Financial Services,High Net Worth,N,No,3,41,3340.35
+907,2507,Alysa,Galilee,Female,77,1986-06-25,Biostatistician III,Health,Affluent Customer,N,Yes,8,35,3467.88
+908,2516,Zoe,Kiddye,Female,42,1967-05-27,Registered Nurse,Health,Mass Customer,N,No,19,54,825.2499999999999
+909,2517,Rozanna,Kegan,Female,1,1978-10-19,Research Nurse,Health,Mass Customer,N,Yes,9,43,2945.8500000000004
+910,2521,Kellia,Martugin,Female,35,1999-08-29,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,3,22,2105.3900000000003
+911,2523,Lauree,Shewery,Female,28,1961-10-29,VP Marketing,Financial Services,Mass Customer,N,Yes,9,60,4572.03
+912,2530,Engracia,Foulcher,Female,63,1960-08-03,Business Systems Development Analyst,Property,Mass Customer,N,Yes,18,61,1691.1100000000001
+913,2534,Estelle,Lithgow,Female,70,1965-06-21,Research Associate,Manufacturing,Affluent Customer,N,Yes,12,56,1900.9299999999996
+914,2536,Aigneis,Brignall,Female,71,1964-06-10,Associate Professor,Health,Mass Customer,N,Yes,16,57,4622.41
+915,2542,Amanda,Leverington,Female,43,1966-03-11,Accounting Assistant I,Property,Affluent Customer,N,Yes,12,55,6559.26
+916,2545,Grayce,Aumerle,Female,33,1978-04-11,Tax Accountant,Manufacturing,Mass Customer,N,Yes,16,43,1970.7799999999997
+917,2546,Marinna,Hancke,Female,45,1980-04-10,Assistant Professor,Manufacturing,High Net Worth,N,No,11,41,974.54
+918,2547,Aili,Scruby,Female,91,1985-07-08,Social Worker,Health,Mass Customer,N,Yes,14,36,703.8300000000002
+919,2559,Fulvia,Bernini,Female,7,1969-06-21,Assistant Media Planner,Entertainment,High Net Worth,N,No,8,52,2187.2
+920,2564,Bell,Carley,Female,18,1976-04-29,Engineer III,Health,Mass Customer,N,No,15,45,1144.35
+921,2565,Joannes,Harbron,Female,62,1969-08-17,Junior Executive,Health,Affluent Customer,N,Yes,9,52,7496.36
+922,2566,Nani,Brilleman,Female,48,1996-10-29,Accountant II,Entertainment,Affluent Customer,N,Yes,6,25,3154.7799999999997
+923,2568,Anna-diana,Slyne,Female,42,1983-02-16,Staff Scientist,Manufacturing,Mass Customer,N,No,18,38,1232.95
+924,2572,Sheila,McInulty,Female,30,1980-12-30,Engineer III,Financial Services,Mass Customer,N,No,13,41,4558.42
+925,2576,Lotty,Szubert,Female,15,1959-05-30,Associate Professor,Manufacturing,Mass Customer,N,No,13,62,2522.18
+926,2579,Celka,Demsey,Female,35,1970-12-31,Desktop Support Technician,Manufacturing,Mass Customer,N,No,16,51,788.5
+927,2583,Appolonia,Oxe,Female,34,1963-09-12,Human Resources Assistant I,Property,Mass Customer,N,No,15,58,2652.07
+928,2590,Roslyn,Tewkesbury.,Female,48,1964-09-22,General Manager,Financial Services,Affluent Customer,N,Yes,11,57,5482.999999999999
+929,2593,Sharona,Yorkston,Female,69,1973-07-26,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,19,48,937.8200000000002
+930,2597,Carita,Kemwall,Female,58,1980-10-25,Civil Engineer,Manufacturing,High Net Worth,N,Yes,11,41,4017.66
+931,2599,Pauly,Eilles,Female,9,1954-05-03,VP Marketing,Manufacturing,Mass Customer,N,No,5,67,2866.09
+932,2601,Morgana,Wardel,Female,48,1975-01-18,Software Engineer III,Financial Services,Affluent Customer,N,No,13,46,4582.12
+933,2602,Jessamine,Butcher,Female,46,1977-03-22,Structural Analysis Engineer,Health,Mass Customer,N,No,3,44,4240.08
+934,2603,Mercy,Jost,Female,44,1962-02-04,Nurse,Financial Services,High Net Worth,N,No,11,59,4657.99
+935,2606,Addi,Seager,Female,56,1978-08-19,Electrical Engineer,Manufacturing,High Net Worth,N,No,12,43,4718.429999999999
+936,2608,Fenelia,Dockrell,Female,44,1975-11-05,Budget/Accounting Analyst III,Health,Affluent Customer,N,Yes,6,46,1553.4599999999998
+937,2609,Genvieve,Kobes,Female,17,1964-12-18,Compensation Analyst,Financial Services,Mass Customer,N,Yes,14,57,2569.9399999999996
+938,2610,Arliene,Bartolijn,Female,41,1954-04-30,Account Coordinator,IT,Mass Customer,N,No,10,67,5598.91
+939,2611,Aeriel,Lejeune,Female,36,1991-02-18,Tax Accountant,Financial Services,Affluent Customer,N,No,9,30,2609.86
+940,2619,Lavinia,Niess,Female,62,1978-07-05,Web Designer I,Financial Services,High Net Worth,N,Yes,14,43,2659.5699999999997
+941,2621,Moreen,Zoren,Female,24,1974-02-21,Assistant Media Planner,Entertainment,High Net Worth,N,No,15,47,3235.99
+942,2625,Kristal,McRobbie,Female,45,1972-03-16,Research Assistant I,Manufacturing,Affluent Customer,N,Yes,8,49,1764.47
+943,2627,Hildegaard,Gennrich,Female,7,1971-10-29,Budget/Accounting Analyst II,Retail,Mass Customer,N,Yes,12,50,4375.27
+944,2629,Nomi,Bushell,Female,60,1976-08-13,Engineer IV,Entertainment,High Net Worth,N,No,19,45,5174.88
+945,2636,Carly,Struys,Female,35,1974-01-05,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,14,47,407.9600000000001
+946,2637,Marcile,Christley,Female,28,1972-07-30,Help Desk Operator,Retail,Mass Customer,N,Yes,11,49,11222.65
+947,2639,Mufi,O'Kielt,Female,70,1986-07-03,Geologist IV,Entertainment,Mass Customer,N,Yes,10,35,3676.2200000000003
+948,2646,Jesselyn,Di Biaggi,Female,14,1972-10-11,Sales Representative,Retail,Mass Customer,N,Yes,17,49,2013.52
+949,2650,Candice,Patriskson,Female,33,1995-08-20,Business Systems Development Analyst,IT,Affluent Customer,N,Yes,10,26,2394.8200000000006
+950,2654,Dawn,Yakovitch,Female,83,1977-11-28,Tax Accountant,Telecommunications,Mass Customer,N,No,13,44,5504.95
+951,2659,Konstance,Elgey,Female,81,1974-06-14,Professor,Argiculture,High Net Worth,N,Yes,11,47,8143.93
+952,2661,Dorrie,Meaden,Female,59,1976-12-26,VP Marketing,Financial Services,High Net Worth,N,Yes,12,45,3638.75
+953,2662,Louisette,Cullimore,Female,53,1977-12-21,Accountant IV,Property,Mass Customer,N,Yes,16,44,6500.299999999999
+954,2667,Randene,Brown,Female,65,1958-07-17,Product Engineer,Manufacturing,Affluent Customer,N,Yes,6,63,2515.43
+955,2674,Lynsey,Broady,Female,59,1993-02-12,Food Chemist,Health,High Net Worth,N,No,5,28,3478.1400000000003
+956,2675,Dayle,Girardetti,Female,24,1973-02-25,Media Manager IV,Retail,Mass Customer,N,No,7,48,2643.24
+957,2680,Noella,Firk,Female,0,1959-05-11,Financial Analyst,Financial Services,Mass Customer,N,Yes,14,62,3560.18
+958,2681,Liza,LeEstut,Female,78,1974-09-15,Programmer Analyst III,Manufacturing,Affluent Customer,N,Yes,18,47,2561.48
+959,2682,Annamarie,Bouzan,Female,54,1987-11-01,Accountant III,Manufacturing,High Net Worth,N,Yes,20,34,3092.6200000000003
+960,2690,Sissie,Giordano,Female,17,1980-11-06,Registered Nurse,Health,Affluent Customer,N,Yes,12,41,1082.15
+961,2692,Jacklyn,Bromehed,Female,57,1988-12-19,Research Associate,Health,High Net Worth,N,Yes,22,33,854.24
+962,2694,Teddi,De la Yglesias,Female,48,1985-12-28,Quality Engineer,Retail,Mass Customer,N,No,6,36,1536.9
+963,2695,Kippy,Heater,Female,88,1976-08-16,Statistician II,Manufacturing,Mass Customer,N,Yes,19,45,8104.58
+964,2698,Nedi,MacClay,Female,19,1974-06-15,Administrative Officer,Health,High Net Worth,N,No,20,47,3987.65
+965,2701,Ileana,Timms,Female,13,1960-07-28,Dental Hygienist,Health,Affluent Customer,N,Yes,7,61,4863.469999999999
+966,2702,Saraann,Gilliard,Female,34,1976-11-30,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,11,45,7613.27
+967,2705,Madalena,MacCaughey,Female,11,1996-10-20,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,3,25,5470.700000000001
+968,2712,Carissa,Hassent,Female,0,1987-06-26,Tax Accountant,Manufacturing,High Net Worth,N,Yes,11,34,4116.13
+969,2714,Emmy,Jenton,Female,50,1998-03-17,Occupational Therapist,Health,High Net Worth,N,Yes,1,23,1252.4600000000003
+970,2720,Shirline,Yellowlee,Female,0,1983-09-02,Account Coordinator,Retail,High Net Worth,N,No,10,38,902.04
+971,2723,Morganne,Smitham,Female,71,1978-04-20,Associate Professor,Manufacturing,Mass Customer,N,Yes,18,43,6591.0
+972,2725,Sibylla,Langmuir,Female,20,1965-06-19,Senior Quality Engineer,Property,Affluent Customer,N,No,11,56,353.3500000000002
+973,2727,Kim,Gabbitis,Female,88,1988-07-22,Administrative Officer,Financial Services,High Net Worth,N,Yes,2,33,4757.21
+974,2728,Imojean,Atyeo,Female,55,1959-03-26,Physical Therapy Assistant,IT,High Net Worth,N,No,19,62,4054.59
+975,2731,Meagan,Ferry,Female,74,2000-05-18,Accounting Assistant III,Retail,Mass Customer,N,Yes,1,21,1513.52
+976,2732,Clarine,Yushkin,Female,36,1961-03-01,Help Desk Operator,Health,Mass Customer,N,No,7,60,2787.95
+977,2733,Jordanna,Skyme,Female,89,1985-03-07,Analog Circuit Design manager,Manufacturing,Mass Customer,N,Yes,17,36,7827.41
+978,2738,Lurleen,Shoebridge,Female,77,1997-01-06,Research Nurse,Health,Mass Customer,N,No,5,24,1252.9600000000003
+979,2740,Godiva,Bulward,Female,61,1963-02-02,Administrative Officer,Financial Services,Affluent Customer,N,Yes,12,58,4905.530000000001
+980,2745,Moyra,Mount,Female,8,1977-01-06,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,18,44,2772.1
+981,2746,Carmelia,Egle of Germany,Female,97,1953-10-25,Actuary,Financial Services,High Net Worth,N,Yes,7,68,2316.34
+982,2748,Dolorita,Dufaur,Female,96,1967-08-29,Quality Engineer,Financial Services,Mass Customer,N,No,4,54,2059.83
+983,2752,Cissiee,Jobern,Female,11,1960-05-10,Sales Representative,Retail,Affluent Customer,N,Yes,14,61,3250.7200000000003
+984,2755,Karen,La Wille,Female,66,1999-07-28,Automation Specialist I,Manufacturing,Mass Customer,N,Yes,1,22,4904.13
+985,2759,Melodee,Hendrik,Female,16,2001-11-14,Operator,Health,Affluent Customer,N,Yes,1,20,3775.9
+986,2761,Agathe,Weafer,Female,78,1961-11-11,Information Systems Manager,Financial Services,Mass Customer,N,No,19,60,5082.02
+987,2763,Dalila,Snawdon,Female,30,1979-03-04,Actuary,Financial Services,Mass Customer,N,Yes,10,42,2910.2
+988,2766,Rozanna,Chartman,Female,93,1989-03-19,Financial Advisor,Financial Services,High Net Worth,N,Yes,8,32,6233.3
+989,2767,Sybil,Scramage,Female,84,1988-02-22,Desktop Support Technician,Property,High Net Worth,N,No,22,33,803.97
+990,2771,Jamie,Gildersleeve,Female,6,1969-10-05,Recruiting Manager,Retail,Affluent Customer,N,Yes,10,52,4754.2
+991,2775,Dael,Glentz,Female,40,1966-12-02,Account Executive,Manufacturing,Mass Customer,N,Yes,7,55,1922.1899999999998
+992,2777,Dita,Darlison,Female,0,1997-02-26,Safety Technician III,Health,Mass Customer,N,Yes,1,24,3307.11
+993,2781,Linnea,Jeacop,Female,4,1997-09-01,VP Sales,Financial Services,Affluent Customer,N,Yes,5,24,1289.3500000000001
+994,2782,Gillian,Scrimshire,Female,91,1988-05-11,Tax Accountant,IT,Mass Customer,N,No,12,33,3450.83
+995,2785,Gennifer,Baily,Female,9,1981-07-31,Human Resources Manager,Financial Services,Mass Customer,N,No,8,40,3411.6199999999994
+996,2788,Melantha,Pickburn,Female,45,1968-08-06,Social Worker,Health,Affluent Customer,N,No,4,53,9061.470000000001
+997,2789,Violetta,Bucksey,Female,66,1992-11-30,Senior Editor,Financial Services,Affluent Customer,N,Yes,7,29,549.09
+998,2790,Shirleen,Shelsher,Female,16,1977-12-01,Account Representative IV,Retail,High Net Worth,N,Yes,20,44,903.6600000000001
+999,2792,Jocelyne,Darben,Female,22,1964-03-02,Web Developer I,Financial Services,Mass Customer,N,Yes,12,57,1888.83
+1000,2794,Megen,Lorenc,Female,41,1975-11-06,Social Worker,Health,Mass Customer,N,Yes,18,46,6417.0599999999995
+1001,2795,Shirline,Amar,Female,9,1966-04-11,Research Assistant III,Financial Services,Mass Customer,N,No,17,55,1208.31
+1002,2796,Margette,Vidyapin,Female,52,1977-11-01,Web Designer II,Manufacturing,Mass Customer,N,No,9,44,3816.43
+1003,2800,Dominga,Planke,Female,29,1988-01-09,Cost Accountant,Financial Services,Mass Customer,N,No,2,33,352.22999999999996
+1004,2802,Clem,Fosdick,Female,36,1996-09-22,Programmer Analyst I,Financial Services,Mass Customer,N,No,3,25,456.17999999999995
+1005,2803,Ailsun,Hawlgarth,Female,95,1970-09-30,Senior Editor,Retail,Mass Customer,N,Yes,11,51,2743.41
+1006,2807,Lynna,Revens,Female,9,1957-06-18,Senior Editor,Manufacturing,Mass Customer,N,Yes,11,64,133.7800000000002
+1007,2809,Jenilee,Lonsbrough,Female,44,1969-08-11,Statistician IV,Retail,Mass Customer,N,No,10,52,1182.96
+1008,2811,Sharia,Allkins,Female,29,1976-11-29,Internal Auditor,Property,Mass Customer,N,No,22,45,2448.48
+1009,2813,Lillian,Crookall,Female,51,1953-09-10,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,11,68,2395.4300000000003
+1010,2816,Denys,Dumingos,Female,87,1989-11-25,Administrative Assistant II,Financial Services,Mass Customer,N,Yes,14,32,5878.47
+1011,2817,Agata,Inglesent,Female,33,1987-02-28,Senior Financial Analyst,Financial Services,Affluent Customer,N,Yes,6,34,1616.56
+1012,2825,Tammara,Twigley,Female,28,1971-05-22,Budget/Accounting Analyst IV,Manufacturing,Affluent Customer,N,Yes,19,50,1854.5300000000002
+1013,2829,Juditha,Cufley,Female,2,1979-06-11,Electrical Engineer,Manufacturing,High Net Worth,N,No,11,42,1747.0800000000002
+1014,2831,Starlin,Aysh,Female,16,1968-01-22,Programmer Analyst I,Health,Mass Customer,N,Yes,11,53,3975.17
+1015,2836,Matilda,Yellowley,Female,80,1963-11-14,Clinical Specialist,Health,Mass Customer,N,No,16,58,4508.75
+1016,2838,Lydie,Scholfield,Female,14,1977-03-01,Payment Adjustment Coordinator,Retail,High Net Worth,N,No,21,44,1554.3400000000001
+1017,2839,Jaime,Dikelin,Female,12,1977-06-07,Assistant Media Planner,Entertainment,Mass Customer,N,No,10,44,2693.04
+1018,2843,Lorain,Danforth,Female,42,1968-04-20,Recruiter,Financial Services,Affluent Customer,N,Yes,5,53,4117.49
+1019,2846,Bryana,Lindell,Female,66,1970-08-15,Nurse,Property,Mass Customer,N,No,14,51,799.32
+1020,2847,Noreen,Matelaitis,Female,50,1976-03-21,Occupational Therapist,Health,Mass Customer,N,No,12,45,4509.110000000001
+1021,2848,Callie,Garthshore,Female,42,1967-01-17,Analyst Programmer,Property,Mass Customer,N,Yes,13,54,3121.17
+1022,2852,Clarinda,Noen,Female,20,1971-07-22,Biostatistician I,Property,High Net Worth,N,Yes,14,50,3954.0
+1023,2855,Kim,Tineman,Female,81,1975-09-13,Nurse Practicioner,Manufacturing,Mass Customer,N,Yes,17,46,63.830000000000005
+1024,2856,Milissent,Deinert,Female,53,1976-09-25,Marketing Manager,Financial Services,Mass Customer,N,Yes,13,45,5583.33
+1025,2857,Alanna,Geram,Female,9,1957-04-05,Biostatistician I,Manufacturing,Mass Customer,N,Yes,17,64,5373.63
+1026,2859,Brandais,Goodlad,Female,98,1994-02-04,Assistant Professor,Argiculture,High Net Worth,N,No,5,27,4153.82
+1027,2861,Cecelia,Franzini,Female,4,1974-12-24,VP Quality Control,Financial Services,Mass Customer,N,Yes,4,47,4518.27
+1028,2864,Mariejeanne,Laise,Female,36,1974-12-26,Analog Circuit Design manager,IT,Mass Customer,N,No,21,47,3022.9999999999995
+1029,2865,Lila,Eyeington,Female,11,1997-12-14,Electrical Engineer,Manufacturing,High Net Worth,N,No,3,24,5283.91
+1030,2868,Corina,Thurlbeck,Female,20,1972-05-21,Technical Writer,Retail,High Net Worth,N,No,10,49,2129.53
+1031,2872,Tabbi,Tyght,Female,52,1974-02-17,Assistant Professor,Health,Affluent Customer,N,Yes,17,47,3109.9300000000003
+1032,2873,Elvina,Saiger,Female,59,1981-06-25,Cost Accountant,Financial Services,Mass Customer,N,No,13,40,2127.43
+1033,2874,Delores,Ashcroft,Female,97,1977-12-28,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,No,18,44,7910.31
+1034,2879,Tatum,Askem,Female,62,1974-04-09,Executive Secretary,Argiculture,Mass Customer,N,Yes,5,47,5572.11
+1035,2882,Claudia,Doog,Female,62,1986-04-26,Chief Design Engineer,Manufacturing,Mass Customer,N,No,9,35,1486.38
+1036,2885,Minnie,Rolley,Female,70,1969-07-03,Compensation Analyst,Financial Services,Mass Customer,N,Yes,4,52,4839.410000000001
+1037,2891,Renae,Ughetti,Female,5,1987-02-22,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,12,34,4629.95
+1038,2895,Lind,Mc Ilory,Female,85,1967-03-15,Librarian,Entertainment,Mass Customer,N,Yes,5,54,950.56
+1039,2896,Chryste,Deaville,Female,5,1970-03-25,Financial Advisor,Financial Services,Mass Customer,N,Yes,12,51,1319.83
+1040,2897,Kimbra,Gerraty,Female,94,1962-04-14,Assistant Professor,Manufacturing,Affluent Customer,N,No,5,59,2828.37
+1041,2899,Leora,Sanderson,Female,13,1990-03-21,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,4,31,2554.4900000000002
+1042,2902,Stacia,Gritsaev,Female,57,1974-12-31,Human Resources Manager,Financial Services,Mass Customer,N,Yes,7,47,899.7599999999998
+1043,2904,Freddi,Arrington,Female,26,1977-06-30,Software Test Engineer III,Manufacturing,High Net Worth,N,Yes,11,44,3163.39
+1044,2906,Ivory,MacKnocker,Female,93,1992-07-02,GIS Technical Architect,Retail,Mass Customer,N,Yes,4,29,1408.35
+1045,2908,Tiffy,Feenan,Female,42,1955-09-21,Social Worker,Health,Affluent Customer,N,Yes,11,66,2066.49
+1046,2909,Jayme,Rowthorn,Female,31,1979-09-05,Associate Professor,Entertainment,High Net Worth,N,No,6,42,4644.23
+1047,2910,Drucill,Petrus,Female,15,1962-12-17,Registered Nurse,Health,Mass Customer,N,Yes,12,59,2752.29
+1048,2911,Janenna,Knowlman,Female,55,1968-04-26,Assistant Media Planner,Entertainment,Mass Customer,N,No,11,53,687.5100000000001
+1049,2914,Jessamine,Brazear,Female,76,1982-11-06,Health Coach IV,Health,Affluent Customer,N,Yes,11,39,6835.96
+1050,2915,Enrichetta,Broadberry,Female,32,1975-06-02,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,N,No,17,46,1661.98
+1051,2924,Fina,McLaughlin,Female,79,1988-01-26,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,6,33,2561.67
+1052,2926,Jonie,Bickerstasse,Female,27,1963-03-20,Research Nurse,Health,High Net Worth,N,No,12,58,1341.6799999999998
+1053,2934,Candida,Hickenbottom,Female,26,1986-04-08,Media Manager III,Telecommunications,Mass Customer,N,Yes,9,35,3777.2599999999998
+1054,2936,Pavia,Gethen,Female,23,1984-05-20,Project Manager,Financial Services,Mass Customer,N,Yes,11,37,5550.62
+1055,2937,Belia,Mitchener,Female,47,1974-07-29,Computer Systems Analyst I,Financial Services,Mass Customer,N,No,15,47,6294.38
+1056,2952,Cristy,McQuirter,Female,28,1975-04-25,Senior Developer,Manufacturing,High Net Worth,N,Yes,16,46,2543.8900000000003
+1057,2954,Albertine,Fibbitts,Female,23,1974-03-24,Pharmacist,Health,Mass Customer,N,No,16,47,2244.83
+1058,2959,Max,Gonthier,Female,1,1953-11-23,Registered Nurse,Health,Mass Customer,N,Yes,11,68,1835.26
+1059,2960,Hollie,MacEllen,Female,6,1976-07-16,Design Engineer,Property,Mass Customer,N,Yes,16,45,2935.67
+1060,2962,Shari,MacCallester,Female,26,1971-07-12,Information Systems Manager,Property,Mass Customer,N,No,15,50,444.6500000000001
+1061,2964,Geneva,McCrystal,Female,36,1974-01-07,Product Engineer,Telecommunications,Mass Customer,N,Yes,14,47,2411.89
+1062,2966,Fredi,Aldhous,Female,81,1969-05-22,Dental Hygienist,Health,Mass Customer,N,Yes,5,52,2629.22
+1063,2970,Cassi,Noades,Female,64,1992-12-08,Software Consultant,Financial Services,Mass Customer,N,No,5,29,1111.1100000000001
+1064,2971,Esther,Caught,Female,5,1968-01-16,Marketing Assistant,Manufacturing,High Net Worth,N,Yes,8,53,1511.3200000000002
+1065,2974,Hyacinthia,Settle,Female,1,1975-09-28,Engineer IV,Financial Services,High Net Worth,N,No,15,46,255.19
+1066,2975,Deva,Carnow,Female,67,1981-03-09,Senior Cost Accountant,Financial Services,Mass Customer,N,No,14,40,2020.68
+1067,2979,Louella,Mandifield,Female,39,1976-07-25,Tax Accountant,Retail,Mass Customer,N,No,18,45,2582.7799999999997
+1068,2980,Di,Plaid,Female,27,1979-12-22,Chemical Engineer,Manufacturing,Mass Customer,N,No,4,42,2573.04
+1069,2982,Celisse,McCloughen,Female,30,1982-08-08,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,11,39,6366.75
+1070,2984,Frances,Mishaw,Female,48,1959-05-23,Payment Adjustment Coordinator,Manufacturing,Mass Customer,N,Yes,13,62,3820.01
+1071,2991,Fred,Catanheira,Female,48,1964-06-27,Desktop Support Technician,Financial Services,Mass Customer,N,No,11,57,2602.5200000000004
+1072,2992,Crystal,Assur,Female,26,1974-05-31,Clinical Specialist,Health,Mass Customer,N,Yes,10,47,6871.539999999999
+1073,2993,Blinnie,Hazelden,Female,85,1995-03-07,Graphic Designer,Financial Services,Affluent Customer,N,No,4,26,5400.88
+1074,2994,Karlen,Iacovacci,Female,26,1976-08-30,Accountant II,Manufacturing,Mass Customer,N,Yes,18,45,179.84
+1075,2996,Jerrylee,Shinfield,Female,67,1967-05-05,Cost Accountant,Financial Services,Mass Customer,N,No,14,54,1751.7199999999998
+1076,2997,Jo-ann,Carlile,Female,57,1973-05-17,Computer Systems Analyst II,Health,Affluent Customer,N,No,10,48,2035.0200000000002
+1077,2998,Quintana,Housley,Female,34,2000-12-19,Nurse Practicioner,Manufacturing,High Net Worth,N,Yes,2,21,2511.7
+1078,3003,Brita,Tupie,Female,72,1963-05-02,Web Developer I,Retail,Mass Customer,N,Yes,4,58,5168.14
+1079,3011,Robena,Barks,Female,84,1994-05-11,Staff Scientist,Financial Services,High Net Worth,N,No,3,27,1349.76
+1080,3013,Lorain,Eddisforth,Female,94,1968-07-28,Office Assistant III,Property,High Net Worth,N,No,6,53,3849.19
+1081,3015,Queenie,Flips,Female,25,2000-09-02,Assistant Manager,Retail,Affluent Customer,N,No,1,21,6616.36
+1082,3023,Rikki,Bernet,Female,37,1994-12-09,Accountant I,IT,High Net Worth,N,Yes,7,27,661.9399999999999
+1083,3026,Minda,Pendrid,Female,11,1988-11-21,Account Representative III,Property,Mass Customer,N,Yes,5,33,1434.95
+1084,3028,Leandra,Schubert,Female,67,1956-07-07,General Manager,Manufacturing,High Net Worth,N,No,20,65,2978.23
+1085,3030,Flor,Agnew,Female,68,1998-05-21,Technical Writer,Manufacturing,Affluent Customer,N,No,3,23,2713.38
+1086,3033,Danielle,Kener,Female,60,1979-03-17,Administrative Officer,Financial Services,High Net Worth,N,No,12,42,1418.21
+1087,3034,Mara,Tofanini,Female,54,1956-09-09,Web Designer IV,Manufacturing,Mass Customer,N,Yes,18,65,2661.2799999999997
+1088,3036,Windy,Orehead,Female,24,1977-04-17,Business Systems Development Analyst,Property,Affluent Customer,N,Yes,11,44,3750.7200000000003
+1089,3037,Leanora,Isles,Female,30,1971-10-27,Legal Assistant,Financial Services,High Net Worth,N,Yes,18,50,1404.96
+1090,3040,Kameko,Kinrade,Female,87,1966-11-28,General Manager,Retail,Mass Customer,N,No,5,55,1702.5499999999997
+1091,3041,Sherrie,Kingaby,Female,20,1974-03-12,Physical Therapy Assistant,Retail,Mass Customer,N,Yes,11,47,1211.5700000000002
+1092,3046,Shela,Ridgers,Female,53,1964-06-07,Programmer Analyst III,Manufacturing,Affluent Customer,N,No,18,57,3172.1299999999997
+1093,3054,Marieann,Wickey,Female,94,1965-07-14,Operator,Manufacturing,Affluent Customer,N,No,16,56,3330.78
+1094,3056,Catlin,Storm,Female,43,1968-05-27,Health Coach II,Entertainment,Mass Customer,N,No,18,53,1246.69
+1095,3061,Evie,Bendtsen,Female,51,1991-03-18,Office Assistant IV,Manufacturing,Affluent Customer,N,Yes,3,30,3232.7599999999998
+1096,3065,Winna,Brusle,Female,88,1978-01-05,Recruiter,Financial Services,High Net Worth,N,Yes,13,43,1367.3799999999999
+1097,3066,Renell,Bellocht,Female,29,1995-01-14,Paralegal,Financial Services,Affluent Customer,N,Yes,2,26,1516.28
+1098,3067,Veronique,Wash,Female,8,1991-01-13,Chief Design Engineer,Manufacturing,Mass Customer,N,Yes,9,30,3575.8999999999996
+1099,3068,Gill,Branney,Female,88,1990-12-07,Automation Specialist I,Manufacturing,Affluent Customer,N,No,1,31,3084.65
+1100,3069,Phylis,Traves,Female,59,1988-08-12,Senior Cost Accountant,Financial Services,Affluent Customer,N,No,12,33,1775.4799999999998
+1101,3070,Malissia,Minthorpe,Female,74,1998-07-27,Account Executive,Health,Affluent Customer,N,Yes,1,23,399.2099999999999
+1102,3071,Shirlee,Murdoch,Female,59,1989-12-25,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,12,32,473.42999999999984
+1103,3076,Merna,Eyers,Female,9,1991-10-01,Professor,Health,Mass Customer,N,Yes,4,30,1904.31
+1104,3078,Mariel,Blacksell,Female,54,1982-08-16,Safety Technician III,Retail,Mass Customer,N,No,7,39,1750.43
+1105,3084,Birgit,Dowers,Female,57,1959-07-16,Staff Scientist,Financial Services,Affluent Customer,N,Yes,16,62,3082.9000000000005
+1106,3091,Guenevere,Treffry,Female,88,1995-08-13,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,N,Yes,3,26,1323.12
+1107,3096,Lulu,Cabane,Female,32,1973-06-28,Associate Professor,Financial Services,Mass Customer,N,No,10,48,2717.0999999999995
+1108,3098,Tiff,Ovett,Female,77,1980-07-15,Dental Hygienist,Health,Mass Customer,N,No,12,41,2968.25
+1109,3103,Shaylah,Hatchell,Female,5,1953-10-21,Safety Technician II,Retail,Mass Customer,N,No,20,68,5040.88
+1110,3104,Diahann,Blundan,Female,19,1994-11-30,Business Systems Development Analyst,Property,Mass Customer,N,Yes,2,27,3491.38
+1111,3109,Jeralee,Domleo,Female,75,1958-06-23,Automation Specialist II,Health,Mass Customer,N,Yes,10,63,3080.63
+1112,3113,Wenonah,Lethabridge,Female,52,1969-12-06,Teacher,Property,Mass Customer,N,Yes,18,52,4144.860000000001
+1113,3117,Nisse,Marriage,Female,68,1995-06-11,Cost Accountant,Financial Services,Affluent Customer,N,Yes,6,26,8531.16
+1114,3120,Lauree,O'Donnell,Female,89,1979-02-04,Clinical Specialist,Health,Mass Customer,N,Yes,10,42,4179.11
+1115,3123,Tina,Riggulsford,Female,71,1976-08-17,Dental Hygienist,Health,High Net Worth,N,No,20,45,1248.49
+1116,3124,Anastasie,Le Grand,Female,73,1981-02-03,Account Executive,Retail,High Net Worth,N,Yes,9,40,401.5
+1117,3125,Krystyna,Scarasbrick,Female,2,1978-08-21,Social Worker,Health,High Net Worth,N,Yes,5,43,1702.4299999999998
+1118,3128,Betteanne,Alldread,Female,96,1965-06-26,Geological Engineer,Manufacturing,High Net Worth,N,Yes,16,56,3687.54
+1119,3129,Leola,Mandrier,Female,44,1955-09-25,Analog Circuit Design manager,Property,High Net Worth,N,Yes,11,66,3590.37
+1120,3130,Krissy,Robard,Female,53,1971-01-25,VP Product Management,Telecommunications,Mass Customer,N,No,17,50,3792.7799999999997
+1121,3133,Eda,MacCheyne,Female,89,1999-05-10,Quality Control Specialist,Manufacturing,Mass Customer,N,No,2,22,2323.16
+1122,3140,Britt,Muddimer,Female,2,1985-06-11,Legal Assistant,Manufacturing,High Net Worth,N,No,16,36,673.21
+1123,3141,Esmaria,Kiernan,Female,92,1995-11-04,Associate Professor,Retail,Mass Customer,N,Yes,3,26,1696.39
+1124,3143,Corabelle,Streatfeild,Female,0,1996-10-24,Chief Design Engineer,Manufacturing,Mass Customer,N,No,5,25,3361.8399999999997
+1125,3146,Fredrika,Kleinmintz,Female,79,1978-01-28,Project Manager,Property,Mass Customer,N,No,15,43,6856.09
+1126,3150,Morissa,Wolfendell,Female,66,1991-10-07,Sales Associate,Financial Services,Mass Customer,N,No,5,30,1234.13
+1127,3152,Lettie,McGenis,Female,6,1999-06-07,Teacher,Financial Services,High Net Worth,N,Yes,3,22,2168.41
+1128,3153,Hannis,Jakubovits,Female,87,1973-12-30,Compensation Analyst,Financial Services,High Net Worth,N,No,15,48,4732.48
+1129,3154,Angil,Ellesmere,Female,63,1957-11-21,Desktop Support Technician,Telecommunications,Mass Customer,N,Yes,19,64,2243.1000000000004
+1130,3155,Tiphani,Fritz,Female,88,1976-12-25,Office Assistant I,IT,Affluent Customer,N,Yes,21,45,1250.08
+1131,3162,Deanne,Delacour,Female,76,1978-02-24,Media Manager IV,Argiculture,Mass Customer,N,Yes,15,43,2133.8799999999997
+1132,3164,Hortensia,Rainger,Female,53,1986-01-14,Human Resources Assistant II,Manufacturing,Mass Customer,N,Yes,14,35,2601.59
+1133,3165,Vyky,Coppen,Female,56,1975-05-18,Business Systems Development Analyst,Manufacturing,Affluent Customer,N,Yes,10,46,3167.89
+1134,3170,Bethanne,Kytter,Female,67,1968-01-26,Nurse Practicioner,Entertainment,Mass Customer,N,No,11,53,4344.71
+1135,3174,Odele,Blackmore,Female,67,1976-11-16,Research Associate,Financial Services,Affluent Customer,N,No,9,45,2346.62
+1136,3184,Marlee,Brundle,Female,2,1976-11-08,Civil Engineer,Manufacturing,Affluent Customer,N,Yes,7,45,5310.3
+1137,3191,Bobbette,Amps,Female,29,1959-07-08,Director of Sales,Financial Services,Affluent Customer,N,Yes,12,62,5673.639999999999
+1138,3192,Illa,Klemenz,Female,37,1968-09-18,Payment Adjustment Coordinator,Financial Services,High Net Worth,N,Yes,16,53,2865.0899999999997
+1139,3193,Augusta,Henryson,Female,6,1978-07-04,Web Designer IV,Property,High Net Worth,N,No,7,43,2362.31
+1140,3195,Vickie,West,Female,4,1981-03-30,Tax Accountant,Manufacturing,Mass Customer,N,No,18,40,3143.73
+1141,3196,Teddi,Adcocks,Female,11,1977-08-04,Engineer IV,Health,Mass Customer,N,No,8,44,2929.0099999999998
+1142,3204,Ibby,Beedon,Female,51,1994-11-26,Media Manager III,Health,Mass Customer,N,Yes,4,27,3570.0099999999993
+1143,3206,Elbertine,Trewin,Female,32,1995-03-23,Financial Advisor,Financial Services,Mass Customer,N,No,1,26,2991.01
+1144,3209,Clarie,Markushkin,Female,10,1964-03-28,Civil Engineer,Manufacturing,Affluent Customer,N,No,15,57,1732.03
+1145,3210,Stella,Abreheart,Female,80,1988-02-01,Junior Executive,Manufacturing,Mass Customer,N,No,1,33,2023.69
+1146,3211,Betsy,Cosh,Female,52,1993-06-12,Automation Specialist II,Health,High Net Worth,N,Yes,7,28,2302.94
+1147,3212,Corella,Bartomeu,Female,62,1981-01-15,Analog Circuit Design manager,Financial Services,Affluent Customer,N,No,13,40,7666.649999999999
+1148,3214,Cindelyn,Balas,Female,2,1993-01-21,Software Engineer III,Financial Services,Mass Customer,N,Yes,9,28,2969.7699999999995
+1149,3217,Lorena,Titterrell,Female,95,1968-03-12,Physical Therapy Assistant,Manufacturing,Mass Customer,N,No,8,53,5564.08
+1150,3218,Conny,Starbeck,Female,38,1976-02-12,Information Systems Manager,Argiculture,Mass Customer,N,Yes,22,45,1526.81
+1151,3219,Denyse,Scutts,Female,94,1998-01-06,Web Developer III,Financial Services,Mass Customer,N,No,3,23,2096.27
+1152,3221,Brigid,Quigley,Female,59,1959-09-25,Internal Auditor,Property,High Net Worth,N,Yes,11,62,4743.61
+1153,3224,Darell,Mulqueeny,Female,67,1996-03-12,Automation Specialist III,Manufacturing,Affluent Customer,N,No,3,25,4001.52
+1154,3228,Margette,Donaghie,Female,36,1964-08-16,Social Worker,Health,Mass Customer,N,No,13,57,5814.45
+1155,3230,Calida,Clardge,Female,31,1970-02-14,Executive Secretary,Financial Services,Mass Customer,N,No,12,51,3890.0
+1156,3232,Rose,Milsom,Female,7,1993-10-10,Payment Adjustment Coordinator,Financial Services,Mass Customer,N,Yes,9,28,8903.62
+1157,3237,Astrid,Sumnall,Female,94,1964-08-15,Assistant Manager,Manufacturing,Mass Customer,N,No,13,57,3919.85
+1158,3239,Wendi,Hew,Female,15,1971-12-06,Staff Scientist,Health,High Net Worth,N,No,5,50,1768.67
+1159,3242,Lib,Schohier,Female,4,1958-03-07,General Manager,Manufacturing,Affluent Customer,N,Yes,14,63,8252.69
+1160,3244,Rosene,Bullar,Female,24,1959-05-08,Systems Administrator I,Financial Services,Mass Customer,N,No,13,62,1007.1299999999999
+1161,3246,Norene,Merle,Female,73,1968-05-20,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,4,53,1947.8000000000002
+1162,3247,Bellanca,Raymond,Female,0,1985-04-09,Structural Engineer,Manufacturing,Mass Customer,N,Yes,5,36,3802.55
+1163,3249,Cortney,Leet,Female,46,1981-08-23,Analog Circuit Design manager,Manufacturing,Mass Customer,N,Yes,14,40,6210.719999999999
+1164,3251,Cammie,Edridge,Female,95,1976-08-27,Safety Technician II,Financial Services,High Net Worth,N,Yes,8,45,6264.88
+1165,3253,Bernadine,Shakeshaft,Female,42,1990-02-10,Cost Accountant,Financial Services,High Net Worth,N,Yes,7,31,4031.6500000000005
+1166,3254,Lissy,Paliser,Female,8,2001-05-22,Human Resources Assistant I,Financial Services,Mass Customer,N,No,1,20,1592.0499999999997
+1167,3256,Collen,Kew,Female,76,1986-02-06,Professor,Financial Services,Affluent Customer,N,No,6,35,7287.87
+1168,3258,Hettie,Godden,Female,77,1978-12-10,Sales Representative,Retail,Mass Customer,N,Yes,18,43,4821.9
+1169,3260,Kelsy,Rao,Female,6,1979-05-30,Research Associate,Telecommunications,High Net Worth,N,No,11,42,1938.37
+1170,3263,Quentin,Forte,Female,37,1981-08-21,Business Systems Development Analyst,Manufacturing,Affluent Customer,N,No,5,40,843.7100000000003
+1171,3268,Estelle,Sam,Female,93,1986-05-31,General Manager,Manufacturing,Mass Customer,N,No,20,35,4250.46
+1172,3271,Daisi,Philip,Female,21,1986-04-18,Chief Design Engineer,Property,High Net Worth,N,Yes,16,35,1783.1399999999999
+1173,3273,Darline,Alpes,Female,72,1978-05-17,General Manager,Entertainment,Mass Customer,N,No,11,43,6133.65
+1174,3275,Lela,Carrell,Female,24,1975-10-22,Computer Systems Analyst IV,Manufacturing,Mass Customer,N,No,6,46,1581.0500000000002
+1175,3280,Micki,McNamara,Female,49,1987-05-02,General Manager,Financial Services,Mass Customer,N,Yes,21,34,6881.080000000001
+1176,3282,Helga,Nuzzi,Female,8,1959-04-24,Clinical Specialist,Health,High Net Worth,N,No,13,62,2504.2799999999997
+1177,3283,Rowe,Barbary,Female,46,1979-01-15,Administrative Officer,Property,Mass Customer,N,Yes,6,42,4368.41
+1178,3284,Jorrie,Cerman,Female,98,1991-08-28,Chief Design Engineer,Retail,Affluent Customer,N,No,2,30,2969.04
+1179,3291,Cindy,Eakin,Female,33,1956-01-21,Staff Accountant II,Manufacturing,Mass Customer,N,No,13,65,2199.04
+1180,3294,Juditha,Leidl,Female,90,1986-06-26,Director of Sales,Manufacturing,Affluent Customer,N,No,6,35,2826.8900000000003
+1181,3296,Leontyne,Jackett,Female,78,1974-11-11,Quality Engineer,Financial Services,Affluent Customer,N,Yes,17,47,4920.72
+1182,3299,Sybille,Ballsdon,Female,27,1980-04-10,Systems Administrator II,Manufacturing,Affluent Customer,N,Yes,12,41,2747.57
+1183,3307,Portia,Thirlwall,Female,96,1978-09-02,Analyst Programmer,Health,High Net Worth,N,No,14,43,4311.99
+1184,3308,Daffi,Idale,Female,5,1979-05-20,Cost Accountant,Financial Services,Mass Customer,N,Yes,14,42,953.15
+1185,3310,Bethany,Jarrell,Female,83,1961-10-29,VP Marketing,Property,Affluent Customer,N,Yes,12,60,3121.04
+1186,3311,Clary,Bennitt,Female,57,1979-12-21,Civil Engineer,Manufacturing,Mass Customer,N,Yes,8,42,1705.3899999999999
+1187,3315,Ninnette,Pandey,Female,77,1994-09-08,Account Executive,Property,Mass Customer,N,Yes,5,27,4892.17
+1188,3320,Anabella,Mealham,Female,16,1994-06-02,Nuclear Power Engineer,Manufacturing,High Net Worth,N,No,6,27,2739.5
+1189,3328,Arabella,Delgaty,Female,58,1961-08-06,Food Chemist,Health,Mass Customer,N,No,6,60,2068.3
+1190,3331,Claire,Trahar,Female,18,1971-09-20,Technical Writer,Financial Services,Mass Customer,N,No,8,50,3159.58
+1191,3332,Cissy,Jeffress,Female,43,1998-09-24,Account Representative III,Health,Mass Customer,N,No,3,23,2799.26
+1192,3333,Celinda,Asher,Female,30,1979-05-08,Software Test Engineer II,Property,Mass Customer,N,Yes,17,42,1911.08
+1193,3334,Koralle,Winckles,Female,63,1965-05-22,VP Product Management,Health,Mass Customer,N,Yes,12,56,2428.32
+1194,3341,Vitia,Crum,Female,19,1980-08-05,Help Desk Technician,Retail,Affluent Customer,N,Yes,6,41,921.6200000000001
+1195,3346,Nadya,Callaghan,Female,61,1991-09-11,Software Consultant,Financial Services,High Net Worth,N,No,3,30,1511.5700000000002
+1196,3348,Amanda,Hazeltine,Female,93,1956-11-08,Pharmacist,Health,High Net Worth,N,Yes,6,65,1136.03
+1197,3355,Cherin,Thireau,Female,50,1990-02-19,Staff Accountant I,Manufacturing,Mass Customer,N,No,3,31,2464.6100000000006
+1198,3360,Joelie,Sherlaw,Female,77,1963-03-23,Quality Engineer,Health,Affluent Customer,N,No,5,58,4179.51
+1199,3361,Riva,Yushin,Female,68,1968-01-20,General Manager,Property,Mass Customer,N,Yes,9,53,4752.7
+1200,3367,Melisse,Massei,Female,75,2000-12-05,Librarian,Entertainment,Mass Customer,N,Yes,1,21,4779.07
+1201,3368,Tanya,Boddis,Female,7,1967-07-17,Technical Writer,Financial Services,Affluent Customer,N,No,16,54,3153.4799999999996
+1202,3371,Josey,Alves,Female,56,1977-10-30,Analyst Programmer,Retail,Mass Customer,N,No,17,44,4677.6900000000005
+1203,3373,Inna,Atack,Female,19,1991-01-25,Research Associate,Health,Mass Customer,N,No,5,30,4048.46
+1204,3374,Joann,Corrigan,Female,77,1959-11-17,Sales Associate,Manufacturing,Mass Customer,N,Yes,12,62,5034.57
+1205,3379,Elysee,Spurr,Female,51,1999-04-30,Food Chemist,Health,Mass Customer,N,Yes,2,22,5599.08
+1206,3387,Shel,Duke,Female,19,1976-07-05,General Manager,Manufacturing,Affluent Customer,N,Yes,15,45,5318.6900000000005
+1207,3393,Henrietta,Olexa,Female,23,1954-02-21,Technical Writer,Retail,Mass Customer,N,Yes,7,67,2095.7700000000004
+1208,3400,Brenna,Childes,Female,46,1987-06-25,Sales Associate,Financial Services,Mass Customer,N,Yes,18,34,1402.9
+1209,3402,Krystyna,Scadden,Female,73,1985-05-04,Statistician II,Retail,Mass Customer,N,No,10,36,6036.1900000000005
+1210,3403,Jessalyn,Zoellner,Female,27,1994-05-14,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,2,27,3253.38
+1211,3404,Thomasine,McCloch,Female,2,1973-08-01,GIS Technical Architect,Property,Affluent Customer,N,No,22,48,2729.79
+1212,3405,Gavra,Robez,Female,89,1996-08-18,Project Manager,Financial Services,Mass Customer,N,Yes,3,25,6167.71
+1213,3406,Lucy,Lackmann,Female,35,1979-04-28,Business Systems Development Analyst,IT,Mass Customer,N,Yes,10,42,5463.639999999999
+1214,3408,Becka,Bysaker,Female,10,1972-07-11,Tax Accountant,Manufacturing,Mass Customer,N,No,18,49,1355.2399999999998
+1215,3409,Abbey,Nellen,Female,75,1977-04-29,Desktop Support Technician,Argiculture,Mass Customer,N,No,16,44,3009.2999999999997
+1216,3413,Zulema,Cristofolo,Female,93,1997-10-15,VP Accounting,Financial Services,Mass Customer,N,No,3,24,4076.1800000000003
+1217,3417,Deedee,Coxall,Female,91,1973-02-18,Social Worker,Health,Mass Customer,N,No,7,48,3975.1400000000003
+1218,3418,Felipa,Paddingdon,Female,18,1959-12-31,Systems Administrator IV,Health,High Net Worth,N,No,19,62,2033.0099999999998
+1219,3421,Ronalda,McGeechan,Female,60,1962-12-17,Computer Systems Analyst II,Health,Affluent Customer,N,Yes,18,59,4255.89
+1220,3422,Lucine,Virgin,Female,38,1978-05-06,Professor,Manufacturing,Mass Customer,N,No,5,43,2127.64
+1221,3423,Griselda,Bezants,Female,57,1999-12-27,Registered Nurse,Health,Affluent Customer,N,No,1,22,751.3200000000002
+1222,3424,Vale,Whittuck,Female,39,1977-02-28,Automation Specialist III,Manufacturing,Affluent Customer,N,Yes,11,44,2056.27
+1223,3428,Leonora,Iglesia,Female,77,1974-08-07,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,16,47,509.97
+1224,3432,Max,Cloney,Female,99,1988-11-27,Junior Executive,Argiculture,Mass Customer,N,Yes,2,33,3707.7000000000007
+1225,3433,Karissa,Cabral,Female,10,1998-04-28,Computer Systems Analyst II,Property,Mass Customer,N,No,2,23,5925.74
+1226,3434,Stesha,Miners,Female,20,1973-12-05,Account Coordinator,Health,Mass Customer,N,No,16,48,1831.51
+1227,3440,Retha,Kahane,Female,18,1958-05-15,Senior Sales Associate,Manufacturing,Mass Customer,N,No,5,63,1243.65
+1228,3441,Janelle,Ebbage,Female,44,1988-10-16,Legal Assistant,Manufacturing,High Net Worth,N,Yes,20,33,2119.43
+1229,3442,Adrianne,Petrecz,Female,17,1962-05-22,Research Associate,Retail,Mass Customer,N,Yes,14,59,1535.8399999999997
+1230,3444,Kara-lynn,Bims,Female,75,1977-12-25,Nurse Practicioner,Manufacturing,Affluent Customer,N,No,7,44,1447.98
+1231,3449,Ilyssa,Hannabuss,Female,52,1974-09-26,VP Quality Control,Argiculture,High Net Worth,N,Yes,3,47,1541.16
+1232,3450,Brooke,Durman,Female,85,1993-09-16,Safety Technician III,Retail,Mass Customer,N,No,6,28,5577.06
+1233,3452,Maura,Estevez,Female,22,1964-09-04,Marketing Manager,Retail,Mass Customer,N,No,13,57,1820.5700000000002
+1234,3453,Jammie,McEvon,Female,57,1989-03-12,Product Engineer,Retail,Affluent Customer,N,No,14,32,2341.29
+1235,3462,Jehanna,Sparhawk,Female,96,1957-03-03,Registered Nurse,Health,High Net Worth,N,No,17,64,4416.71
+1236,3465,Hadria,Pizer,Female,71,1978-02-01,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,7,43,4946.67
+1237,3469,Arabele,Lantoph,Female,90,1987-08-24,Nurse Practicioner,Health,Mass Customer,N,Yes,5,34,320.1899999999999
+1238,3470,Catherina,Ricca,Female,56,1967-10-01,Recruiting Manager,Health,Affluent Customer,N,Yes,6,54,7228.799999999999
+1239,3471,Brita,Afonso,Female,95,1953-09-05,Quality Engineer,IT,High Net Worth,N,Yes,8,68,1914.1000000000004
+1240,3475,Correna,Goldsberry,Female,12,1985-08-31,Director of Sales,Retail,Affluent Customer,N,No,3,36,2515.14
+1241,3477,Jaquelin,Leek,Female,90,1996-01-24,Senior Developer,Financial Services,Affluent Customer,N,Yes,7,25,3106.49
+1242,3482,Roch,Rilston,Female,71,2000-05-18,Clinical Specialist,Health,Affluent Customer,N,Yes,2,21,5549.59
+1243,3484,Hedi,Mowday,Female,10,1976-10-24,Information Systems Manager,Financial Services,High Net Worth,N,Yes,20,45,5112.11
+1244,3485,Berthe,Ludwell,Female,11,1981-05-21,Account Representative II,Financial Services,High Net Worth,N,Yes,9,40,2491.4700000000003
+1245,3487,Amalee,Sanderson,Female,4,1977-12-15,Analyst Programmer,Health,High Net Worth,N,No,18,44,1837.7500000000002
+1246,3489,Margo,Fletcher,Female,90,1969-10-30,Help Desk Operator,Argiculture,Mass Customer,N,Yes,9,52,2644.4399999999996
+1247,3491,Leanna,Cromb,Female,69,1976-04-03,Business Systems Development Analyst,Financial Services,Affluent Customer,N,No,10,45,1430.28
+1248,3495,Constantine,Frissell,Female,57,1987-07-12,Programmer III,Financial Services,High Net Worth,N,No,8,34,3847.65
+1249,3497,Thia,O'Day,Female,73,1986-05-03,Administrative Assistant IV,Manufacturing,Affluent Customer,N,Yes,18,35,1648.32
+1250,1,Laraine,Medendorp,F,93,1953-10-12,Executive Secretary,Health,Mass Customer,N,Yes,11,68,3018.09
+1251,54,Loralyn,Wonfor,Femal,2,1966-07-24,Sales Associate,Property,Mass Customer,N,Yes,18,55,4098.21

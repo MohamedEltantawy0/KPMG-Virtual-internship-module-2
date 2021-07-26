@@ -1,0 +1,1197 @@
+,customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,tenure,age,earnings
+0,2,Eli,Bockman,Male,81,1980-12-16,Administrative Officer,Financial Services,Mass Customer,N,Yes,16,41,2226.26
+1,3,Arlin,Dearle,Male,61,1954-01-20,Recruiting Manager,Property,Mass Customer,N,Yes,15,67,3290.21
+2,12,Sawyere,Flattman,Male,58,1994-07-21,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,8,27,3540.03
+3,13,Gabriele,Norcross,Male,38,1955-02-15,Developer I,Financial Services,High Net Worth,N,Yes,8,66,4337.38
+4,15,Erroll,Radage,Male,91,2000-07-13,Junior Executive,Manufacturing,Mass Customer,N,No,1,21,1728.3900000000003
+5,20,Basile,Firth,Male,72,1980-08-13,Project Manager,Manufacturing,Mass Customer,N,No,11,41,3608.2799999999997
+6,21,Mile,Cammocke,Male,74,1980-09-20,Safety Technician I,Manufacturing,Affluent Customer,N,Yes,16,41,4229.41
+7,25,Geoff,Assaf,Male,72,1976-12-02,Accounting Assistant III,Financial Services,Mass Customer,N,Yes,21,45,5333.66
+8,27,Garvin,Klees,Male,37,1978-09-25,Research Nurse,Health,Mass Customer,N,Yes,12,43,3274.25
+9,28,Fee,Zellmer,Male,5,1973-09-30,Senior Quality Engineer,Health,Affluent Customer,N,Yes,21,48,3366.5600000000004
+10,39,Hunfredo,Smalley,Male,5,1979-04-16,Assistant Media Planner,Entertainment,Mass Customer,N,No,22,42,6085.17
+11,41,Basilius,Coupe,Male,64,1976-04-14,Food Chemist,Health,Mass Customer,N,No,16,45,4698.89
+12,44,Neron,Verick,Male,63,1981-10-18,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,17,40,4768.28
+13,45,Trace,Woodhead,Male,64,1975-09-23,Senior Financial Analyst,Financial Services,Mass Customer,N,No,8,46,1048.1499999999999
+14,47,Matthew,Jeaycock,Male,51,1992-10-22,Registered Nurse,Health,Affluent Customer,N,No,2,29,4332.19
+15,50,Whitby,Schapero,Male,38,1980-10-01,Account Executive,Manufacturing,Mass Customer,N,Yes,16,41,4153.41
+16,51,Fidelio,Dilke,Male,68,1959-12-05,Computer Systems Analyst II,Retail,Mass Customer,N,No,18,62,4855.400000000001
+17,55,Linc,Jillions,Male,48,1956-09-24,Paralegal,Financial Services,Affluent Customer,N,Yes,7,65,3220.86
+18,56,Reese,Ensor,Male,44,1996-07-04,VP Sales,Property,Mass Customer,N,Yes,4,25,1275.2399999999998
+19,64,Gerek,Yve,Male,73,1978-03-25,Legal Assistant,IT,High Net Worth,N,No,4,43,546.6799999999998
+20,65,Yale,Tanser,Male,21,1976-04-01,Information Systems Manager,Financial Services,Affluent Customer,N,Yes,15,45,3799.97
+21,66,Anselm,Gawne,Male,46,2002-03-11,Account Executive,Argiculture,High Net Worth,N,No,1,19,4549.2
+22,70,Foster,Vannoort,Male,78,1993-02-27,Paralegal,Financial Services,Affluent Customer,N,No,8,28,2736.9
+23,71,Hoyt,Glavias,Male,30,1985-01-27,Research Associate,Argiculture,Affluent Customer,N,Yes,12,36,155.6500000000001
+24,72,Sammy,Cheese,Male,93,1972-02-13,Administrative Officer,Manufacturing,Affluent Customer,N,Yes,16,49,2559.7799999999997
+25,77,Shermie,Andrin,Male,79,1989-09-12,Automation Specialist IV,Financial Services,Mass Customer,N,No,7,32,1657.5800000000002
+26,78,Arch,Van der Kruis,Male,37,1985-03-12,Business Systems Development Analyst,Argiculture,Affluent Customer,N,No,8,36,82.25999999999999
+27,80,Pablo,Small,Male,11,1978-04-24,Data Coordiator,Entertainment,Mass Customer,N,No,13,43,5988.86
+28,83,Kerr,Simmell,Male,97,1967-02-26,Internal Auditor,IT,Mass Customer,N,Yes,18,54,1798.2
+29,86,Job,Sleney,Male,75,1989-03-04,Occupational Therapist,Health,High Net Worth,N,Yes,7,32,2360.09
+30,87,Fields,Langdon,Male,78,1974-04-23,Editor,Financial Services,Mass Customer,N,No,8,47,3740.7599999999998
+31,89,Benedicto,Hoxey,Male,74,1967-01-22,Speech Pathologist,Health,Mass Customer,N,Yes,14,54,5779.650000000001
+32,90,Cary,Garron,Male,76,1984-11-12,Quality Control Specialist,Manufacturing,Mass Customer,N,No,11,37,2990.73
+33,91,Dylan,Meaker,Male,69,1955-02-24,Senior Financial Analyst,Financial Services,Affluent Customer,N,Yes,17,66,5242.410000000001
+34,93,Gordon,Gowar,Male,63,1976-07-16,Project Manager,Retail,Mass Customer,N,Yes,10,45,2976.41
+35,94,Wallache,Simchenko,Male,33,1974-08-07,Civil Engineer,Manufacturing,Mass Customer,N,No,21,47,4902.21
+36,96,Heath,Olford,Male,33,1968-08-31,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,15,53,1135.25
+37,97,Arne,Corain,Male,16,1979-07-27,Community Outreach Specialist,Financial Services,Mass Customer,N,Yes,10,42,4911.21
+38,99,Reggie,Mulliner,Male,97,1998-06-13,VP Accounting,Financial Services,Mass Customer,N,No,3,23,4557.65
+39,100,Tripp,Steed,Male,80,1968-05-11,General Manager,Financial Services,Mass Customer,N,Yes,4,53,877.4
+40,101,Goran,Kwietek,Male,83,1975-12-29,Nurse Practicioner,Manufacturing,High Net Worth,N,No,11,46,2589.89
+41,102,Langsdon,Tranfield,Male,51,1956-11-27,Quality Control Specialist,Manufacturing,Affluent Customer,N,No,16,65,2587.0099999999998
+42,115,Alberik,Mereweather,Male,77,1981-12-21,Account Executive,Health,Mass Customer,N,No,18,40,3135.87
+43,116,Scottie,Swiffen,Male,49,1999-02-05,Assistant Professor,Manufacturing,Affluent Customer,N,Yes,2,22,2447.5400000000004
+44,120,Sloan,Wagg,Male,80,1978-09-02,Legal Assistant,Financial Services,High Net Worth,N,Yes,4,43,869.3200000000003
+45,121,Myles,Pauncefort,Male,82,1957-10-02,Graphic Designer,Manufacturing,Mass Customer,N,No,15,64,2892.0899999999997
+46,122,Colver,Itter,Male,87,1979-04-19,Quality Control Specialist,Financial Services,Mass Customer,N,Yes,12,42,2695.2200000000003
+47,126,Norman,Cliff,Male,53,1992-10-15,Administrative Officer,Health,Mass Customer,N,Yes,3,29,1096.46
+48,128,Isidro,Cypler,Male,73,1977-07-17,Systems Administrator III,Property,Mass Customer,N,Yes,12,44,2193.06
+49,129,Weidar,Silkstone,Male,64,1985-07-20,Financial Advisor,Financial Services,High Net Worth,N,Yes,19,36,2753.75
+50,130,Raddy,Delete,Male,32,1997-07-18,Chemical Engineer,Manufacturing,Mass Customer,N,No,1,24,1779.58
+51,133,Eldridge,Fiddeman,Male,12,1977-06-13,VP Accounting,Financial Services,Mass Customer,N,Yes,16,44,803.8900000000001
+52,136,Mel,Bennet,Male,46,1973-05-26,Senior Developer,Manufacturing,High Net Worth,N,Yes,7,48,3543.2000000000003
+53,137,Vaughn,Artin,Male,27,1987-11-21,Office Assistant II,Property,High Net Worth,N,No,10,34,1496.4499999999998
+54,138,Onofredo,Franc,Male,5,1985-04-28,Recruiter,Financial Services,Affluent Customer,N,Yes,13,36,3377.12
+55,140,Morrie,Flaxon,Male,9,1994-05-20,Programmer Analyst III,Manufacturing,Mass Customer,N,No,2,27,2699.9
+56,141,Townsend,Trobe,Male,67,1954-06-25,Teacher,Financial Services,High Net Worth,N,Yes,10,67,2138.3500000000004
+57,142,Bentley,Fortesquieu,Male,57,1967-08-07,Quality Engineer,Health,Affluent Customer,N,No,17,54,3917.3399999999997
+58,143,Kendall,Figg,Male,19,1957-09-01,Operator,Argiculture,Mass Customer,N,Yes,11,64,2474.77
+59,145,Filippo,Ferrara,Male,33,1997-07-21,Account Executive,Financial Services,Mass Customer,N,No,4,24,3140.3
+60,146,Ricoriki,Matlock,Male,34,1985-04-08,Quality Control Specialist,Manufacturing,Mass Customer,N,No,8,36,217.05999999999995
+61,150,Bradly,Crosse,Male,6,1983-08-23,Cost Accountant,Financial Services,Affluent Customer,N,No,17,38,2446.51
+62,151,Donnie,Brimson,Male,36,1965-01-31,Marketing Manager,Manufacturing,Mass Customer,N,Yes,13,56,5665.410000000001
+63,155,Orran,Bogges,Male,4,1985-12-28,Quality Engineer,Manufacturing,Mass Customer,N,No,10,36,1088.42
+64,157,Chad,Houtby,Male,97,1974-11-23,Financial Advisor,Financial Services,Affluent Customer,N,No,16,47,294.0099999999999
+65,159,Arin,Matskevich,Male,90,1987-05-12,Research Nurse,Health,Affluent Customer,N,No,13,34,2935.3700000000003
+66,160,Wake,Durning,Male,5,1964-07-15,Registered Nurse,Health,Mass Customer,N,No,18,57,2614.1600000000003
+67,162,Port,Acuna,Male,90,1979-08-12,Nurse Practicioner,IT,Mass Customer,N,No,15,42,1329.61
+68,165,Aldon,Roelofs,Male,61,1984-03-25,Administrative Officer,Argiculture,Mass Customer,N,Yes,12,37,6107.04
+69,166,Elston,Oleszczak,Male,54,1955-06-12,Structural Analysis Engineer,Manufacturing,Affluent Customer,N,No,6,66,4063.66
+70,169,Alfy,Bruhnke,Male,20,1957-10-19,Data Coordiator,Telecommunications,High Net Worth,N,Yes,5,64,696.26
+71,170,Jammal,Gever,Male,80,1975-06-02,Pharmacist,Health,High Net Worth,N,No,21,46,1779.68
+72,172,Hilton,Carney,Male,54,1988-09-12,Editor,Manufacturing,Affluent Customer,N,Yes,6,33,2348.66
+73,175,Templeton,Hambrook,Male,36,1975-11-28,Quality Engineer,Manufacturing,Affluent Customer,N,No,5,46,2170.54
+74,176,Angelo,Clayal,Male,39,1992-04-13,Accountant I,Property,Mass Customer,N,No,10,29,3025.56
+75,179,Esteban,Sewill,Male,23,1966-05-11,Environmental Tech,Manufacturing,High Net Worth,N,Yes,6,55,1814.59
+76,182,Lydon,Dahlman,Male,99,1992-11-20,Sales Associate,Financial Services,Affluent Customer,N,Yes,7,29,5409.120000000001
+77,184,Nappie,Paolo,Male,40,1971-12-13,Marketing Manager,Manufacturing,High Net Worth,N,Yes,7,50,2181.35
+78,189,Umberto,Torricella,Male,73,1981-07-19,Safety Technician I,Financial Services,Affluent Customer,N,No,10,40,5329.98
+79,193,Foss,Hardes,Male,13,1964-07-22,Recruiting Manager,Manufacturing,Mass Customer,N,Yes,12,57,2551.5
+80,196,Swen,Odhams,Male,90,1966-02-22,Programmer Analyst II,Manufacturing,High Net Worth,N,No,6,55,3737.9999999999995
+81,200,Hube,Weald,Male,7,1957-02-04,Physical Therapy Assistant,Property,Affluent Customer,N,Yes,19,64,7283.86
+82,201,Salem,Huie,Male,45,1966-04-20,Design Engineer,Manufacturing,Mass Customer,N,Yes,11,55,4369.02
+83,203,Donovan,Conry,Male,71,1964-01-13,Senior Quality Engineer,Argiculture,Mass Customer,N,Yes,11,57,1481.1200000000001
+84,204,Thorny,Hackworth,Male,56,1976-10-01,Editor,Financial Services,Mass Customer,N,No,5,45,6287.29
+85,205,Rolfe,Kellard,Male,18,1958-12-01,Administrative Assistant II,Financial Services,Mass Customer,N,Yes,6,63,2008.2699999999998
+86,208,Rutter,Excell,Male,57,1994-10-31,Office Assistant III,Property,High Net Worth,N,No,5,27,3342.02
+87,210,Albrecht,Thomasson,Male,50,1963-11-18,Assistant Manager,Property,Mass Customer,N,No,18,58,2957.03
+88,213,Lockwood,Exroll,Male,13,1996-05-14,Actuary,Financial Services,High Net Worth,N,Yes,6,25,7534.4800000000005
+89,214,Jeramie,Cellier,Male,82,1957-11-29,Food Chemist,Health,Mass Customer,N,No,6,64,1595.7299999999998
+90,219,Markus,Mughal,Male,9,1964-11-25,Database Administrator III,Health,Mass Customer,N,No,7,57,1688.33
+91,222,Nev,Larive,Male,89,1978-09-03,Clinical Specialist,Health,Mass Customer,N,No,16,43,1428.06
+92,224,Morgun,Girvan,Male,2,1967-12-03,Compensation Analyst,Financial Services,Affluent Customer,N,No,17,54,3692.09
+93,226,Bondie,Letty,Male,96,1977-11-11,Database Administrator IV,Manufacturing,Mass Customer,N,No,20,44,1173.8600000000001
+94,227,Wendall,McKeand,Male,99,1973-08-14,Accountant I,Entertainment,Mass Customer,N,No,18,48,3906.03
+95,231,Basile,Winsor,Male,48,1995-08-05,Design Engineer,Financial Services,Mass Customer,N,Yes,3,26,2344.5200000000004
+96,233,Art,Barwell,Male,34,1986-08-08,Environmental Tech,Property,Mass Customer,N,No,13,35,2187.09
+97,236,Tybalt,Gillingwater,Male,79,1954-10-30,Research Nurse,Health,Affluent Customer,N,No,14,67,2434.64
+98,237,Reginald,Dartan,Male,18,1974-03-07,Account Coordinator,Property,High Net Worth,N,Yes,11,47,3635.04
+99,239,Wells,Pressman,Male,62,1992-12-13,Registered Nurse,Health,Affluent Customer,N,No,3,29,5928.23
+100,240,Gavin,Fawks,Male,49,1989-07-28,Administrative Assistant III,IT,High Net Worth,N,Yes,15,32,2338.2099999999996
+101,241,Quillan,Duigan,Male,94,1987-05-09,Quality Engineer,Entertainment,Mass Customer,N,No,20,34,1922.82
+102,242,Taite,Droghan,Male,17,1992-03-20,Nurse,Property,Affluent Customer,N,No,8,29,2558.7
+103,249,D'arcy,Slay,Male,65,1992-09-13,Quality Control Specialist,IT,High Net Worth,N,No,9,29,2236.1299999999997
+104,264,Jedd,Spiby,Male,31,1977-12-07,Technical Writer,Health,Mass Customer,N,No,11,44,1025.2999999999997
+105,265,Pennie,Stoile,Male,74,1965-10-05,Sales Representative,Retail,High Net Worth,N,Yes,18,56,2692.9100000000003
+106,269,Zacherie,Grindley,Male,55,1954-09-19,Nurse Practicioner,Property,Mass Customer,N,Yes,9,67,1668.85
+107,282,Lauren,Curcher,Male,82,1989-10-27,VP Quality Control,Argiculture,High Net Worth,N,Yes,11,32,624.15
+108,284,Seth,Moorman,Male,38,1986-04-11,Financial Analyst,Financial Services,High Net Worth,N,Yes,9,35,3251.4199999999996
+109,286,Kiley,Canaan,Male,99,1989-08-01,Accounting Assistant II,Manufacturing,Affluent Customer,N,Yes,11,32,1954.7
+110,293,Virgilio,Willcocks,Male,80,1989-12-10,Administrative Assistant III,Manufacturing,Mass Customer,N,Yes,20,32,1991.9300000000003
+111,298,Maurise,Lenglet,Male,69,1956-08-15,Engineer I,Manufacturing,High Net Worth,N,No,9,65,4382.48
+112,300,Malachi,Hadcroft,Male,88,1956-06-22,Clinical Specialist,Health,Mass Customer,N,No,9,65,3475.9
+113,304,Paddy,Mumbray,Male,36,1969-03-27,VP Marketing,Manufacturing,Mass Customer,N,Yes,15,52,2785.0400000000004
+114,306,Ruy,Adanet,Male,19,1973-08-02,Registered Nurse,Health,High Net Worth,N,No,18,48,239.35000000000002
+115,307,Ruben,Handlin,Male,55,1984-08-18,Clinical Specialist,Health,Affluent Customer,N,Yes,12,37,3660.95
+116,308,Iver,Dobsons,Male,2,1983-03-09,Database Administrator I,IT,High Net Worth,N,No,4,38,4086.21
+117,312,Garek,Prattin,Male,44,1958-03-17,Desktop Support Technician,Financial Services,Affluent Customer,N,Yes,6,63,4570.38
+118,313,Theo,McKune,Male,70,1987-12-22,Operator,Manufacturing,Mass Customer,N,Yes,13,34,3186.6300000000006
+119,320,Aldous,Cubin,Male,19,1997-02-09,Registered Nurse,Health,Mass Customer,N,No,4,24,7204.66
+120,324,Franz,Lyptrit,Male,97,1986-08-05,Computer Systems Analyst I,IT,Mass Customer,N,Yes,15,35,1779.6999999999998
+121,329,Garvy,Berthel,Male,25,1984-11-20,Account Representative IV,Entertainment,High Net Worth,N,Yes,12,37,3618.01
+122,330,Port,Pancost,Male,78,1959-06-03,Recruiting Manager,Manufacturing,High Net Worth,N,Yes,7,62,5296.799999999999
+123,331,Ford,Groucock,Male,87,1998-09-23,Desktop Support Technician,Health,Mass Customer,N,Yes,3,23,4404.67
+124,341,Jeremiah,Wasling,Male,10,1976-08-25,GIS Technical Architect,Financial Services,Mass Customer,N,No,5,45,955.0799999999999
+125,342,Winslow,Hammant,Male,40,1987-05-19,Programmer IV,Health,High Net Worth,N,No,2,34,468.8599999999999
+126,346,Timmie,Eisikowitz,Male,68,1981-03-15,Financial Analyst,Financial Services,Mass Customer,N,No,3,40,6420.7
+127,347,Berkly,Grishinov,Male,50,1965-06-06,Marketing Manager,Financial Services,Mass Customer,N,No,9,56,8326.369999999999
+128,348,Gan,Devoy,Male,20,1980-11-01,Assistant Professor,Retail,Mass Customer,N,Yes,9,41,2071.99
+129,351,Dev,Hafner,Male,69,1999-05-12,Pharmacist,Health,Mass Customer,N,Yes,2,22,1438.6200000000001
+130,352,Orrin,Finding,Male,12,1979-07-08,Sales Representative,Retail,Mass Customer,N,No,4,42,4404.4
+131,369,Alic,Trenear,Male,19,1991-08-24,Actuary,Financial Services,Mass Customer,N,Yes,9,30,3931.7699999999995
+132,371,Pernell,Favelle,Male,7,1954-07-06,Systems Administrator III,Financial Services,Mass Customer,N,No,7,67,5004.52
+133,374,Valdemar,MacCoughen,Male,81,1992-01-22,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,8,29,5271.75
+134,375,Salvidor,Renzo,Male,13,1976-08-23,Automation Specialist II,Manufacturing,Mass Customer,N,Yes,7,45,487.99999999999994
+135,377,Levy,Bonavia,Male,65,1999-05-19,Staff Scientist,Argiculture,Mass Customer,N,No,1,22,4124.42
+136,382,Issiah,Fardell,Male,68,1985-08-14,Research Nurse,Health,Mass Customer,N,Yes,7,36,1657.4499999999998
+137,385,Kendall,Humes,Male,69,1966-12-07,Project Manager,Health,High Net Worth,N,No,9,55,5220.5199999999995
+138,387,Spike,Thieme,Male,34,1977-02-19,Administrative Officer,Financial Services,Mass Customer,N,No,22,44,3417.7799999999997
+139,390,Royall,Slimings,Male,83,1997-11-25,Programmer Analyst II,Health,Affluent Customer,N,No,3,24,869.5600000000001
+140,392,Brandyn,Morrid,Male,38,1978-06-14,Safety Technician I,Property,Mass Customer,N,No,13,43,5025.3099999999995
+141,393,Cesaro,Isbell,Male,35,1955-02-08,Associate Professor,Manufacturing,Mass Customer,N,Yes,9,66,866.5799999999999
+142,395,Penn,Burkinshaw,Male,28,1976-11-27,Data Coordiator,Retail,High Net Worth,N,Yes,9,45,3528.19
+143,399,Nickie,Neissen,Male,26,1976-07-18,Engineer III,Manufacturing,Affluent Customer,N,Yes,16,45,5020.5
+144,402,Berne,Donegan,Male,9,1977-06-03,Desktop Support Technician,Retail,Affluent Customer,N,No,22,44,4965.43
+145,404,Sinclair,Sustins,Male,92,1995-12-17,Geologist I,Financial Services,Affluent Customer,N,Yes,4,26,4874.55
+146,408,Kurtis,Baistow,Male,79,1991-08-31,Senior Financial Analyst,Financial Services,Affluent Customer,N,No,11,30,3082.2799999999997
+147,414,Thorin,Grimoldby,Male,12,1976-07-16,Social Worker,Health,High Net Worth,N,No,10,45,2304.56
+148,420,Clem,Leek,Male,93,1958-07-05,Help Desk Operator,Entertainment,High Net Worth,N,No,7,63,3652.17
+149,424,Dennie,Eunson,Male,77,1978-01-25,Research Nurse,Health,High Net Worth,N,No,9,43,4525.1900000000005
+150,427,Giusto,Torbett,Male,77,1996-12-19,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,2,25,2515.6800000000003
+151,431,Gale,Done,Male,8,1956-03-26,Research Nurse,Health,Affluent Customer,N,Yes,18,65,1215.34
+152,432,Amby,Pentin,Male,83,1990-02-12,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,10,31,5110.17
+153,433,Reinhard,Jubert,Male,94,1964-03-12,Statistician II,Property,Affluent Customer,N,No,15,57,3754.1600000000008
+154,435,Jerome,Muggeridge,Male,5,1999-12-23,GIS Technical Architect,Telecommunications,Mass Customer,N,No,1,22,4727.75
+155,436,Erwin,Pendre,Male,75,1957-12-24,Internal Auditor,IT,Mass Customer,N,No,18,64,2124.71
+156,437,Sayres,Duthie,Male,24,1976-08-14,Systems Administrator III,Manufacturing,Affluent Customer,N,Yes,17,45,3045.6
+157,438,Ebenezer,Bottelstone,Male,25,1989-08-17,Internal Auditor,Property,High Net Worth,N,Yes,13,32,7692.39
+158,445,Timothy,Wenham,Male,91,1984-11-13,Executive Secretary,Financial Services,Mass Customer,N,No,5,37,8081.860000000001
+159,455,Mile,Dionisii,Male,97,1991-11-02,Civil Engineer,Manufacturing,Mass Customer,N,Yes,5,30,1600.9
+160,456,Randolph,Redihalgh,Male,47,1975-11-30,Automation Specialist I,Manufacturing,Affluent Customer,N,Yes,17,46,2183.0999999999995
+161,458,Osborn,Pentony,Male,57,1969-04-21,Account Representative IV,Manufacturing,Affluent Customer,N,Yes,18,52,1247.24
+162,467,Welbie,Rockliffe,Male,51,1954-01-02,Human Resources Assistant I,Property,Affluent Customer,N,No,15,67,3850.32
+163,469,Levi,Cartmell,Male,91,1996-05-03,Actuary,Financial Services,High Net Worth,N,Yes,3,25,4177.21
+164,470,Darbee,Klimowicz,Male,22,2001-12-19,Internal Auditor,Retail,Mass Customer,N,No,1,20,1890.57
+165,473,Benji,O'Shirine,Male,2,1977-03-13,Junior Executive,Health,Mass Customer,N,Yes,20,44,8364.66
+166,483,Bertrand,Penkethman,Male,35,1973-05-02,Sales Representative,Retail,Affluent Customer,N,No,9,48,2307.7799999999997
+167,484,Mason,Kohrsen,Male,64,1974-04-24,Programmer IV,Manufacturing,Mass Customer,N,No,22,47,1704.78
+168,491,Andrea,Funcheon,Male,45,1976-02-20,Speech Pathologist,Property,Affluent Customer,N,Yes,19,45,2735.71
+169,492,Pail,Ashplant,Male,54,1976-04-28,Environmental Tech,Financial Services,Mass Customer,N,No,21,45,2707.9
+170,495,Lucius,Prescott,Male,91,1959-02-21,VP Accounting,Financial Services,Mass Customer,N,Yes,6,62,4087.04
+171,499,Dalli,Baggally,Male,39,1961-03-15,Budget/Accounting Analyst III,Financial Services,Affluent Customer,N,No,19,60,4043.5800000000004
+172,500,Lazar,Crathern,Male,19,1992-04-11,Recruiting Manager,Retail,Affluent Customer,N,Yes,10,29,3977.81
+173,503,Burr,Gerb,Male,87,1989-07-19,Dental Hygienist,Health,Affluent Customer,N,Yes,10,32,1280.6399999999999
+174,504,Vinny,Hegley,Male,93,1995-04-25,Environmental Tech,Manufacturing,High Net Worth,N,Yes,7,26,2714.7599999999998
+175,509,Tobe,Vamplew,Male,64,1979-08-06,Developer II,Financial Services,Affluent Customer,N,Yes,21,42,4389.7300000000005
+176,512,Sigfried,Semken,Male,76,1955-04-15,VP Accounting,Financial Services,Mass Customer,N,No,6,66,1136.3400000000001
+177,516,Craggy,Loadsman,Male,23,1958-01-07,Environmental Tech,Financial Services,Mass Customer,N,No,20,63,4722.21
+178,518,Bernhard,Senett,Male,60,1991-04-28,Database Administrator IV,Retail,Mass Customer,N,Yes,10,30,938.2500000000001
+179,525,Lennard,Donizeau,Male,64,1980-02-12,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,9,41,3584.83
+180,529,Sandor,Tumber,Male,18,1989-07-21,Operator,Retail,Affluent Customer,N,Yes,10,32,2339.14
+181,530,Townie,Perez,Male,2,1974-09-24,Recruiter,Manufacturing,Mass Customer,N,No,15,47,1751.35
+182,533,Conny,Shearmer,Male,40,1981-12-14,Database Administrator III,Retail,Mass Customer,N,No,11,40,5387.05
+183,543,Mikey,Rizzetti,Male,9,1973-08-03,Account Coordinator,Retail,Affluent Customer,N,Yes,17,48,1924.15
+184,544,Giacomo,Johanning,Male,51,1990-10-12,Structural Engineer,Manufacturing,High Net Worth,N,Yes,5,31,2246.42
+185,549,Abrahan,Luckman,Male,84,1985-06-15,Human Resources Manager,Retail,Mass Customer,N,Yes,2,36,3751.75
+186,552,Hilly,Kleinmann,Male,66,1978-09-09,Geological Engineer,Manufacturing,High Net Worth,N,Yes,20,43,1577.7000000000003
+187,555,Jarib,Senior,Male,99,1970-11-08,Junior Executive,Property,Mass Customer,N,No,4,51,3505.6299999999997
+188,563,Rube,Itzhayek,Male,25,1974-09-20,Accounting Assistant II,IT,Mass Customer,N,Yes,19,47,1931.13
+189,565,Saleem,Meller,Male,30,1959-10-02,Civil Engineer,Manufacturing,Mass Customer,N,Yes,16,62,7079.07
+190,568,Quinn,Fulks,Male,32,1957-12-15,VP Sales,Manufacturing,Mass Customer,N,No,13,64,1258.1
+191,569,Jaime,Warkup,Male,30,1976-01-31,Analog Circuit Design manager,IT,Mass Customer,N,No,10,45,6084.139999999999
+192,570,Xever,Baldetti,Male,14,1978-06-24,VP Product Management,Financial Services,Mass Customer,N,Yes,15,43,3446.07
+193,572,Clementius,Everington,Male,0,1967-05-01,Clinical Specialist,Health,High Net Worth,N,Yes,5,54,2600.44
+194,574,Gerard,Steketee,Male,95,1990-04-09,Senior Cost Accountant,Financial Services,Mass Customer,N,No,20,31,2172.4100000000003
+195,575,Etan,Poyle,Male,64,1956-06-10,VP Accounting,Financial Services,High Net Worth,N,Yes,11,65,714.24
+196,576,Bart,Eakle,Male,98,1977-05-19,Recruiter,Retail,Mass Customer,N,Yes,7,44,4580.35
+197,580,Johnathan,Audiss,Male,83,1975-12-03,Compensation Analyst,Financial Services,Mass Customer,N,Yes,14,46,2185.51
+198,583,Tirrell,Haysham,Male,97,1986-04-14,Registered Nurse,Health,Mass Customer,N,No,4,35,2258.1899999999996
+199,587,Adolphus,Seers,Male,43,1966-05-27,Registered Nurse,Health,Mass Customer,N,Yes,19,55,3293.38
+200,588,Gunther,Jackman,Male,15,1963-10-05,Assistant Media Planner,Entertainment,Mass Customer,N,No,11,58,3603.85
+201,589,Duff,Anan,Male,76,1995-12-07,Compensation Analyst,Financial Services,Mass Customer,N,Yes,1,26,1397.8999999999999
+202,591,Sydney,Endacott,Male,16,1974-10-02,Business Systems Development Analyst,Entertainment,Affluent Customer,N,No,16,47,484.9599999999999
+203,592,Edik,Connichie,Male,73,1992-09-24,VP Sales,Manufacturing,Mass Customer,N,No,2,29,1071.53
+204,595,Nikola,Jeanon,Male,72,1973-05-12,VP Marketing,Financial Services,Mass Customer,N,No,22,48,2011.16
+205,598,Zebulen,Swadon,Male,25,1967-06-27,Financial Advisor,Financial Services,High Net Worth,N,No,12,54,3535.56
+206,600,Duke,Allnatt,Male,65,1974-05-10,Nurse,Argiculture,Mass Customer,N,Yes,8,47,1854.78
+207,601,Ken,Renfree,Male,56,1992-12-04,Senior Quality Engineer,Retail,High Net Worth,N,Yes,4,29,1423.4399999999998
+208,605,Bart,Creenan,Male,13,1972-03-26,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,5,49,5025.639999999999
+209,610,Hyatt,Craine,Male,45,1958-03-16,Help Desk Technician,Financial Services,Mass Customer,N,Yes,15,63,3399.91
+210,611,Otto,Huriche,Male,58,1986-12-20,Help Desk Technician,Manufacturing,Mass Customer,N,Yes,16,35,3500.44
+211,612,Grange,Skillington,Male,50,1962-01-12,GIS Technical Architect,Health,Mass Customer,N,No,14,59,2074.34
+212,618,Lucho,Mitie,Male,17,1962-04-05,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,18,59,1202.3899999999999
+213,619,Finn,Dahlman,Male,39,1977-08-14,Speech Pathologist,Property,Mass Customer,N,No,20,44,3378.3500000000004
+214,623,Hazel,Brokenshire,Male,52,1988-04-23,Health Coach II,Property,High Net Worth,N,No,4,33,1636.8900000000003
+215,624,Winny,Girtin,Male,44,1976-01-13,Research Assistant II,Manufacturing,Mass Customer,N,Yes,13,45,3352.89
+216,626,Albrecht,Forty,Male,12,1992-11-24,Geological Engineer,Manufacturing,Mass Customer,N,No,2,29,3437.37
+217,629,Basil,Brellin,Male,29,1960-12-06,Chemical Engineer,Manufacturing,High Net Worth,N,No,6,61,2245.43
+218,630,D'arcy,Rowden,Male,90,1986-08-11,Statistician III,Property,Affluent Customer,N,Yes,17,35,3717.21
+219,632,Angeli,O'Hegertie,Male,67,1998-04-26,General Manager,Health,Mass Customer,N,No,1,23,1726.6099999999997
+220,639,Mayor,Ismay,Male,51,1974-06-03,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,16,47,2516.35
+221,640,Galvin,O'Keenan,Male,12,1975-07-12,Librarian,Entertainment,High Net Worth,N,Yes,10,46,4278.6
+222,641,Foster,Haysar,Male,86,1974-11-21,Accounting Assistant I,Manufacturing,Affluent Customer,N,No,3,47,2456.51
+223,642,Les,Mines,Male,9,1972-12-19,Automation Specialist IV,Property,Mass Customer,N,No,12,49,2724.29
+224,644,Tomlin,Hastwall,Male,59,1999-12-22,Administrative Officer,Health,Affluent Customer,N,No,2,22,550.0
+225,647,Stanislas,Baildon,Male,61,1957-01-23,Assistant Manager,Retail,Mass Customer,N,Yes,10,64,5279.19
+226,648,Gardiner,Nutley,Male,86,1978-06-04,Accountant II,Financial Services,Mass Customer,N,Yes,9,43,4222.63
+227,650,Matthew,Petschelt,Male,81,1977-10-24,Assistant Manager,Health,Mass Customer,N,No,13,44,2904.69
+228,653,Maxy,Hurles,Male,68,1968-01-28,Graphic Designer,Financial Services,Affluent Customer,N,Yes,19,53,2623.84
+229,655,Stuart,Gebhardt,Male,64,1974-11-25,General Manager,Manufacturing,Affluent Customer,N,Yes,19,47,5753.879999999999
+230,658,Donn,Bonnell,Male,38,1944-01-24,Tax Accountant,Manufacturing,Affluent Customer,N,Yes,8,77,2596.17
+231,663,Massimo,Seymour,Male,27,1997-07-17,VP Sales,Property,Affluent Customer,N,Yes,3,24,2132.7900000000004
+232,664,Mathe,Scatcher,Male,38,1994-10-05,Research Nurse,Health,High Net Worth,N,No,4,27,1036.09
+233,672,Kleon,Pallatina,Male,53,1977-01-12,Analog Circuit Design manager,Retail,High Net Worth,N,No,12,44,3633.1399999999994
+234,673,Artie,Ommanney,Male,35,1975-06-27,VP Sales,Health,Mass Customer,N,Yes,4,46,2058.7
+235,677,El,Toupe,Male,59,1997-07-28,Senior Cost Accountant,Financial Services,Mass Customer,N,No,5,24,940.36
+236,682,Ole,Euplate,Male,53,1971-03-16,Health Coach IV,Health,Affluent Customer,N,Yes,7,50,5428.94
+237,687,Welby,Ninnotti,Male,25,1959-02-10,Executive Secretary,Retail,High Net Worth,N,Yes,5,62,812.72
+238,688,Baron,Bullus,Male,90,1969-02-15,Junior Executive,Health,High Net Worth,N,No,9,52,2967.7999999999997
+239,689,Hamnet,Berford,Male,91,1966-05-19,Senior Developer,Entertainment,High Net Worth,N,Yes,16,55,541.3299999999999
+240,692,Goraud,Ayling,Male,42,1987-12-25,Database Administrator IV,Property,Mass Customer,N,No,7,34,5027.49
+241,695,Kevan,Kubal,Male,36,1977-11-30,Engineer II,Health,High Net Worth,N,No,11,44,4659.0
+242,697,Weston,Brokenshaw,Male,25,1986-11-29,Environmental Specialist,Entertainment,Mass Customer,N,No,10,35,3996.6
+243,701,Ransell,Ruler,Male,18,1956-05-01,Food Chemist,Health,Mass Customer,N,Yes,8,65,2215.5600000000004
+244,705,Eddie,Yekel,Male,48,1964-01-16,Quality Engineer,Retail,High Net Worth,N,No,14,57,502.12
+245,706,Kane,Gaffer,Male,44,1990-01-06,Media Manager IV,Financial Services,High Net Worth,N,Yes,5,31,7109.4
+246,710,Benton,Oakly,Male,76,1970-03-01,Sales Representative,Retail,High Net Worth,N,Yes,13,51,5201.39
+247,717,Basilius,Spieck,Male,65,1976-11-20,VP Product Management,Manufacturing,Mass Customer,N,Yes,11,45,1857.27
+248,719,Pattin,Weathey,Male,2,1953-12-30,Administrative Officer,Retail,Mass Customer,N,No,14,68,4227.84
+249,720,Darrel,Canet,Male,67,1931-10-23,Recruiting Manager,Retail,Affluent Customer,N,No,6,90,7212.17
+250,722,Stewart,Brosoli,Male,69,1956-03-17,Marketing Manager,IT,Mass Customer,N,No,5,65,2934.4399999999996
+251,724,Heinrik,Norcock,Male,7,1975-08-05,Analog Circuit Design manager,Financial Services,Mass Customer,N,Yes,4,46,5073.2699999999995
+252,725,Gage,Crossan,Male,61,1965-08-27,Design Engineer,Health,High Net Worth,N,Yes,19,56,7321.5
+253,727,Lenci,Duerden,Male,98,1978-10-10,Senior Editor,Manufacturing,Mass Customer,N,No,3,43,3970.03
+254,728,Winthrop,Corser,Male,60,1956-10-03,VP Accounting,Financial Services,Mass Customer,N,Yes,8,65,6411.76
+255,734,Leicester,Fynes,Male,34,1980-07-06,Programmer III,Retail,Affluent Customer,N,No,11,41,1140.1499999999996
+256,735,Khalil,Pennings,Male,33,1965-04-20,Assistant Manager,Financial Services,Mass Customer,N,Yes,11,56,3025.33
+257,739,Arnie,Zorn,Male,36,1964-12-13,Senior Editor,Manufacturing,Mass Customer,N,No,8,57,4842.2
+258,742,Dexter,Robelin,Male,55,1966-04-24,Senior Developer,Manufacturing,Mass Customer,N,No,15,55,1246.1099999999997
+259,743,Pattin,Morican,Male,89,1981-04-06,VP Accounting,Financial Services,Mass Customer,N,Yes,13,40,3908.8
+260,749,Andreas,Cosin,Male,47,1972-08-01,Environmental Specialist,Argiculture,Mass Customer,N,No,19,49,1830.7199999999998
+261,750,Izaak,Gisborne,Male,42,1995-04-08,Analyst Programmer,Retail,Affluent Customer,N,Yes,7,26,5391.71
+262,752,Kalil,Palombi,Male,13,1961-06-27,Speech Pathologist,Financial Services,High Net Worth,N,No,12,60,2952.01
+263,755,Baily,Imison,Male,31,1993-07-13,Senior Cost Accountant,Financial Services,Mass Customer,N,No,4,28,847.22
+264,757,Kinsley,Klimus,Male,91,1977-05-13,Environmental Tech,Financial Services,Mass Customer,N,No,18,44,2946.73
+265,759,Mitchel,Schimek,Male,89,1963-04-18,Clinical Specialist,Health,High Net Worth,N,No,13,58,2646.67
+266,761,Vaughan,McCromley,Male,12,1977-11-27,Media Manager II,Health,Affluent Customer,N,Yes,4,44,1896.39
+267,764,Samuel,Stiff,Male,40,1977-03-16,Environmental Tech,Financial Services,Mass Customer,N,Yes,22,44,1364.06
+268,767,Gustav,Kos,Male,70,1955-12-16,Budget/Accounting Analyst II,Manufacturing,High Net Worth,N,No,11,66,2438.84
+269,769,Cameron,Letherbury,Male,65,1961-12-28,Analog Circuit Design manager,IT,Mass Customer,N,No,12,60,5070.24
+270,775,Nikita,Kilby,Male,66,1982-09-21,Accounting Assistant IV,Manufacturing,Affluent Customer,N,No,4,39,2862.3300000000004
+271,776,Stanley,Seven,Male,30,1980-09-24,Financial Analyst,Financial Services,High Net Worth,N,No,20,41,2201.86
+272,777,Wolfgang,Tarrier,Male,2,1993-01-09,Paralegal,Financial Services,High Net Worth,N,No,4,28,3184.33
+273,778,Stacy,Pozzi,Male,24,1976-11-17,Assistant Professor,Manufacturing,High Net Worth,N,No,13,45,698.81
+274,781,Elvis,O'Leagham,Male,80,1958-11-15,Legal Assistant,Manufacturing,Mass Customer,N,No,17,63,2256.31
+275,783,Rudd,Strangeways,Male,6,1985-07-25,Information Systems Manager,Retail,Affluent Customer,N,No,14,36,3498.86
+276,784,Frederik,Duckett,Male,10,1977-01-24,Accounting Assistant III,IT,High Net Worth,N,Yes,22,44,304.07
+277,788,Gregg,Townsend,Male,62,1964-07-01,Social Worker,Health,Mass Customer,N,No,11,57,2415.09
+278,794,Scott,Ommundsen,Male,99,1955-05-12,Compensation Analyst,Financial Services,Affluent Customer,N,Yes,16,66,4248.67
+279,800,Quint,Popov,Male,68,1978-12-31,Account Coordinator,Manufacturing,Mass Customer,N,No,8,43,3239.48
+280,806,Carter,Kaesmakers,Male,66,1992-07-28,Sales Representative,Retail,Mass Customer,N,Yes,7,29,2189.57
+281,808,Nigel,Phippard,Male,21,1979-11-21,Social Worker,Health,High Net Worth,N,Yes,17,42,2119.7200000000003
+282,814,Raffarty,Giacomoni,Male,60,1959-12-23,Analog Circuit Design manager,Manufacturing,Mass Customer,N,No,14,62,2154.13
+283,817,Niel,Abilowitz,Male,38,1992-04-08,Editor,Financial Services,Mass Customer,N,Yes,6,29,2328.9300000000003
+284,819,Temp,Thebeau,Male,7,1975-07-17,Associate Professor,Manufacturing,Affluent Customer,N,Yes,5,46,2558.04
+285,821,Gregoor,Aronovitz,Male,41,1981-07-24,Financial Analyst,Financial Services,Mass Customer,N,Yes,7,40,2925.75
+286,826,Marc,Waddilove,Male,92,1998-12-25,Recruiting Manager,Financial Services,Mass Customer,N,Yes,1,23,1454.6100000000001
+287,829,Byran,Goodfield,Male,84,2001-01-22,Environmental Tech,Financial Services,High Net Worth,N,Yes,2,20,4600.24
+288,830,Jayson,Chilcott,Male,58,1981-05-31,VP Quality Control,Manufacturing,Affluent Customer,N,No,6,40,2506.2700000000004
+289,831,Teddy,Keijser,Male,4,1973-04-20,Paralegal,Financial Services,Affluent Customer,N,No,11,48,1883.5900000000001
+290,832,Shaun,Murphey,Male,30,1977-11-30,Research Assistant IV,Retail,Mass Customer,N,No,14,44,8366.15
+291,834,Rudolf,Brandes,Male,37,1973-04-07,Environmental Tech,Financial Services,Mass Customer,N,No,3,48,722.3
+292,835,Zachary,Matyukon,Male,85,1968-04-22,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,9,53,3225.92
+293,838,Hayden,Heersema,Male,27,1971-02-03,Financial Advisor,Financial Services,High Net Worth,N,No,15,50,1966.08
+294,840,Chas,Carabet,Male,94,1964-06-20,VP Sales,Financial Services,Affluent Customer,N,Yes,19,57,3320.09
+295,841,Hanan,McGreay,Male,93,1966-09-22,Marketing Manager,Manufacturing,Affluent Customer,N,Yes,8,55,8330.09
+296,842,Mahmud,Dobbson,Male,59,1999-08-16,Compensation Analyst,Financial Services,High Net Worth,N,No,2,22,1727.32
+297,843,Salomone,Sleford,Male,80,1989-09-05,Developer II,Manufacturing,Affluent Customer,N,Yes,9,32,2372.09
+298,844,Tome,Tyt,Male,13,1978-01-13,Nurse Practicioner,Financial Services,High Net Worth,N,No,9,43,4730.32
+299,846,Alvan,Rebichon,Male,60,1954-03-25,Geologist I,Manufacturing,Affluent Customer,N,No,17,67,2129.34
+300,848,Lannie,Chat,Male,79,1979-06-25,VP Product Management,Manufacturing,Mass Customer,N,No,13,42,1964.5200000000002
+301,849,Sylvan,Capper,Male,72,1969-09-15,Librarian,Entertainment,Mass Customer,N,No,10,52,4284.21
+302,850,Nevin,Hanfrey,Male,79,2000-09-24,Clinical Specialist,Health,Mass Customer,N,No,1,21,2838.72
+303,856,Peyton,Monkeman,Male,63,1988-10-01,Quality Engineer,Financial Services,Mass Customer,N,Yes,9,33,2912.65
+304,862,Worden,Fossitt,Male,83,1977-12-27,Information Systems Manager,Argiculture,High Net Worth,N,Yes,16,44,309.80999999999995
+305,870,Hugh,Wilce,Male,63,1964-01-29,Pharmacist,Health,Mass Customer,N,No,6,57,3818.9700000000003
+306,873,Worthington,Penwarden,Male,37,1959-12-23,Occupational Therapist,Health,Affluent Customer,N,Yes,20,62,3226.46
+307,875,Caryl,Linnett,Male,34,1999-02-23,Recruiting Manager,Financial Services,Mass Customer,N,Yes,2,22,4796.959999999999
+308,876,Neil,Jencey,Male,44,1968-10-06,Physical Therapy Assistant,IT,High Net Worth,N,No,19,53,1171.02
+309,878,Clarence,Silby,Male,31,1982-11-01,Environmental Specialist,Manufacturing,Mass Customer,N,Yes,9,39,2809.75
+310,884,Pepito,Lamming,Male,11,1978-01-30,Web Designer IV,Property,Mass Customer,N,No,17,43,2770.85
+311,885,Yancey,Wivell,Male,20,1966-11-11,Statistician IV,Financial Services,Mass Customer,N,No,18,55,863.6799999999998
+312,889,Ezequiel,Coggeshall,Male,46,1967-02-19,Sales Representative,Retail,Affluent Customer,N,Yes,10,54,2357.69
+313,891,Talbot,Andrioni,Male,21,1981-08-06,Occupational Therapist,Health,High Net Worth,N,Yes,9,40,2197.68
+314,893,Gibby,Fearnley,Male,97,1983-09-11,Geologist I,IT,Mass Customer,N,No,16,38,4868.870000000001
+315,900,Clevey,Ivamy,Male,48,1990-08-07,Associate Professor,Manufacturing,Mass Customer,N,Yes,5,31,780.7
+316,906,Cammy,Marcroft,Male,73,1998-12-30,Financial Analyst,Financial Services,High Net Worth,N,Yes,3,23,4473.87
+317,907,Eamon,McWhin,Male,51,1978-12-25,Sales Associate,Property,High Net Worth,N,Yes,17,43,1370.3700000000001
+318,910,Lewes,Foulcher,Male,50,1986-04-26,Biostatistician I,Financial Services,Mass Customer,N,No,14,35,1346.38
+319,911,Marcellus,Shawcroft,Male,62,1974-10-13,Structural Analysis Engineer,Property,Affluent Customer,N,No,3,47,633.3499999999998
+320,912,Vince,Dalmon,Male,37,1968-07-19,Sales Representative,Retail,Mass Customer,N,Yes,19,53,4164.21
+321,914,Marc,Egleton,Male,73,1999-06-16,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,2,22,2530.93
+322,917,Odo,MacKaig,Male,63,1964-05-06,VP Product Management,Financial Services,Mass Customer,N,No,19,57,5392.89
+323,918,Mahmud,Chiles,Male,73,1975-02-26,Internal Auditor,Health,High Net Worth,N,No,13,46,4066.2400000000002
+324,919,Grove,Peltzer,Male,48,1987-07-17,Registered Nurse,Health,Mass Customer,N,Yes,13,34,4458.889999999999
+325,920,Stefano,Thornborrow,Male,89,1976-01-19,Software Test Engineer IV,Health,Mass Customer,N,Yes,19,45,4144.19
+326,923,Garrek,Grimwade,Male,44,1977-06-26,Senior Financial Analyst,Financial Services,High Net Worth,N,No,19,44,3337.16
+327,925,Nicko,Pembridge,Male,42,1978-08-07,Accountant IV,Manufacturing,Affluent Customer,N,No,16,43,4371.16
+328,926,Terrel,Matthisson,Male,18,1965-10-14,Professor,Telecommunications,Affluent Customer,N,No,10,56,1414.17
+329,929,Kippy,Conerding,Male,0,1965-09-04,Database Administrator III,Financial Services,Mass Customer,N,Yes,13,56,2540.35
+330,934,Marcellus,Louisot,Male,76,1996-01-22,Human Resources Manager,Manufacturing,Mass Customer,N,No,6,25,4689.759999999999
+331,936,Raffaello,Godleman,Male,64,1988-05-16,Speech Pathologist,Health,High Net Worth,N,No,3,33,8661.63
+332,937,Nikolos,McKyrrelly,Male,65,1985-11-15,Human Resources Assistant IV,Manufacturing,Affluent Customer,N,No,15,36,2680.15
+333,939,Cristian,Theodoris,Male,53,1961-01-10,Product Engineer,Manufacturing,Mass Customer,N,No,6,60,1818.27
+334,941,Tye,Doohan,Male,13,1995-02-02,Recruiting Manager,Financial Services,Affluent Customer,N,Yes,1,26,11668.949999999999
+335,943,Holly,Gamett,Male,94,1979-09-17,Legal Assistant,Property,Affluent Customer,N,Yes,15,42,5300.950000000001
+336,949,Jarid,Grebner,Male,18,1975-09-07,Executive Secretary,Health,Mass Customer,N,Yes,3,46,3644.49
+337,951,Meryl,Dumbar,Male,44,1999-09-29,Assistant Media Planner,Entertainment,Mass Customer,N,No,1,22,1740.6100000000001
+338,954,Alain,Immins,Male,76,1995-02-28,VP Quality Control,Manufacturing,Mass Customer,N,Yes,7,26,3624.0
+339,956,Ezechiel,Pettecrew,Male,19,1960-09-26,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,9,61,936.9799999999998
+340,958,Kristofor,Saulter,Male,15,1964-01-14,Biostatistician IV,Health,High Net Worth,N,No,18,57,2183.7099999999996
+341,960,Lannie,Crumley,Male,1,1968-10-10,GIS Technical Architect,Health,Mass Customer,N,Yes,12,53,3516.3700000000003
+342,968,Wayne,Woodfin,Male,96,1955-06-16,Accountant IV,IT,High Net Worth,N,Yes,16,66,4223.16
+343,971,Sarge,Lerohan,Male,11,1988-10-25,Geologist I,Manufacturing,High Net Worth,N,No,22,33,4015.7799999999997
+344,976,Andonis,Slimmon,Male,10,1971-10-21,Graphic Designer,Financial Services,Affluent Customer,N,No,10,50,3830.6800000000003
+345,982,Tibold,Bonwell,Male,14,1960-02-12,Geologist III,Health,High Net Worth,N,Yes,6,61,943.9300000000001
+346,984,Luciano,Weddup,Male,89,1954-03-25,Programmer I,Manufacturing,Affluent Customer,N,No,16,67,2294.43
+347,986,Barnard,Stranks,Male,3,1994-10-05,Office Assistant I,Manufacturing,Mass Customer,N,Yes,8,27,4272.969999999999
+348,987,Lars,Keher,Male,89,1974-08-29,Senior Cost Accountant,Financial Services,Affluent Customer,N,Yes,11,47,5180.26
+349,995,Urbano,Mews,Male,16,1965-11-12,Information Systems Manager,Health,Mass Customer,N,Yes,19,56,6764.669999999999
+350,997,Ambros,Kernes,Male,30,1981-07-03,Teacher,Telecommunications,Mass Customer,N,Yes,13,40,2923.2899999999995
+351,1001,Finley,Vost,Male,63,1979-08-27,Recruiter,Retail,Mass Customer,N,No,14,42,2884.19
+352,1004,Colas,Pumfrett,Male,35,1975-07-09,Business Systems Development Analyst,IT,High Net Worth,N,No,22,46,3600.94
+353,1006,Norbert,Gotcher,Male,15,1977-08-10,Quality Control Specialist,Telecommunications,Affluent Customer,N,Yes,19,44,4687.53
+354,1010,Leighton,Ebbles,Male,24,1963-01-26,Nurse,Financial Services,Affluent Customer,N,No,17,58,386.36
+355,1014,Miller,Faloon,Male,60,1960-10-14,Senior Developer,Property,Mass Customer,N,Yes,8,61,3933.79
+356,1015,Toiboid,Sorrel,Male,7,1955-04-01,Web Developer I,Health,Mass Customer,N,No,17,66,2136.87
+357,1016,Adrian,Prettyjohns,Male,0,1959-08-12,Legal Assistant,IT,Mass Customer,N,Yes,17,62,1087.02
+358,1018,Matthiew,Ferreras,Male,1,1994-11-27,Help Desk Operator,Manufacturing,Mass Customer,N,Yes,7,27,2497.8
+359,1019,Ignazio,Milby,Male,42,1973-11-19,Human Resources Assistant II,Manufacturing,Mass Customer,N,Yes,14,48,2842.9
+360,1021,Elvis,Rixon,Male,16,1977-10-02,Mechanical Systems Engineer,Retail,High Net Worth,N,No,7,44,5048.26
+361,1025,Ario,Jeromson,Male,69,1997-07-30,Quality Engineer,IT,Mass Customer,N,Yes,5,24,1800.12
+362,1027,Rolando,Sherewood,Male,33,1966-10-07,Statistician I,Financial Services,Affluent Customer,N,No,18,55,1449.4399999999998
+363,1031,Roi,Ogden,Male,75,1983-09-15,Junior Executive,Manufacturing,Mass Customer,N,No,6,38,1463.88
+364,1042,Isacco,Woodwind,Male,0,1976-01-14,Nuclear Power Engineer,Manufacturing,High Net Worth,N,Yes,11,45,2771.37
+365,1043,Giorgi,Hurford,Male,34,1986-10-20,Sales Associate,Financial Services,Mass Customer,N,Yes,16,35,6933.55
+366,1047,Standford,Tanswill,Male,39,1978-09-03,VP Accounting,Financial Services,Affluent Customer,N,No,11,43,2026.5400000000002
+367,1049,Fraser,Gaenor,Male,35,1996-03-02,Software Consultant,Property,Mass Customer,N,No,2,25,4486.320000000001
+368,1054,Natal,Matiewe,Male,27,1983-08-09,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,13,38,3406.16
+369,1056,Kendricks,Markel,Male,96,1966-12-18,Software Test Engineer IV,Manufacturing,Affluent Customer,N,No,6,55,3954.42
+370,1063,Terrence,Geck,Male,22,1987-03-01,Actuary,Financial Services,Affluent Customer,N,Yes,13,34,3112.69
+371,1064,Thornie,Andrusov,Male,3,1977-06-13,Librarian,Entertainment,Affluent Customer,N,Yes,8,44,1398.3999999999999
+372,1065,Chilton,Ghirigori,Male,8,1962-06-27,Quality Engineer,Financial Services,Mass Customer,N,Yes,8,59,2753.32
+373,1066,Hailey,Ricciardi,Male,45,1995-10-06,Recruiter,Telecommunications,High Net Worth,N,No,12,26,1396.98
+374,1069,Reese,Titterington,Male,85,1976-04-15,Web Designer I,Telecommunications,Mass Customer,N,No,15,45,1982.69
+375,1072,Curt,Petrello,Male,60,1957-06-01,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,8,64,2102.32
+376,1075,Cullin,Elcoate,Male,26,1967-07-25,Administrative Officer,Manufacturing,High Net Worth,N,No,7,54,2242.12
+377,1076,Siegfried,Trattles,Male,33,2000-06-06,Pharmacist,Health,Affluent Customer,N,No,2,21,8104.54
+378,1078,Abe,Pilley,Male,69,1976-06-05,Executive Secretary,Manufacturing,Mass Customer,N,No,20,45,899.97
+379,1079,Dennie,L' Anglois,Male,70,1978-01-03,Nurse Practicioner,Manufacturing,Mass Customer,N,No,18,43,2306.99
+380,1085,Lucho,Strafen,Male,4,1975-09-12,Internal Auditor,Health,Mass Customer,N,No,8,46,1081.65
+381,1086,Ezechiel,Parnall,Male,84,1989-06-21,Statistician IV,Property,Mass Customer,N,Yes,4,32,4705.65
+382,1094,Shaughn,Salters,Male,48,1975-12-27,Dental Hygienist,Health,High Net Worth,N,No,19,46,3632.3
+383,1096,Jakie,Mungham,Male,33,1969-11-29,Software Test Engineer I,Health,High Net Worth,N,No,14,52,2086.85
+384,1099,Jarrett,Maffia,Male,12,1975-01-13,Tax Accountant,Manufacturing,Affluent Customer,N,Yes,11,46,183.1999999999999
+385,1100,Cord,Braundt,Male,59,1983-01-02,Engineer I,Manufacturing,Mass Customer,N,No,15,38,1051.23
+386,1109,Nestor,Billingsley,Male,21,1989-09-01,Web Developer II,Entertainment,High Net Worth,N,No,6,32,683.2
+387,1110,Lazar,Cherryman,Male,73,1991-03-17,Information Systems Manager,Retail,High Net Worth,N,No,12,30,4574.099999999999
+388,1113,Dorie,Willock,Male,45,1992-06-24,Recruiter,Property,Mass Customer,N,No,6,29,6072.4800000000005
+389,1124,Eben,Threader,Male,36,1965-02-03,Health Coach III,Health,Affluent Customer,N,Yes,9,56,2742.04
+390,1125,Raff,Everley,Male,25,1990-01-19,Software Test Engineer III,IT,Affluent Customer,N,No,9,31,2839.93
+391,1134,Sullivan,Scullion,Male,22,1994-09-30,Administrative Assistant IV,Financial Services,Affluent Customer,N,No,3,27,1733.7900000000002
+392,1136,Ivan,Blackhall,Male,72,1977-08-31,Executive Secretary,Property,High Net Worth,N,No,7,44,3394.1
+393,1139,Shellysheldon,Wickey,Male,52,1982-09-15,Editor,Manufacturing,Mass Customer,N,Yes,16,39,1434.57
+394,1142,Michal,Paiton,Male,95,1998-05-07,Desktop Support Technician,Telecommunications,Mass Customer,N,No,2,23,1841.73
+395,1143,Goraud,Boissieux,Male,64,1955-03-06,Office Assistant IV,Health,Mass Customer,N,Yes,6,66,3277.77
+396,1144,Damon,Phelip,Male,73,1996-12-12,Environmental Specialist,Health,High Net Worth,N,Yes,5,25,5961.25
+397,1146,Hadleigh,Birley,Male,88,1992-08-31,Assistant Professor,Financial Services,High Net Worth,N,No,8,29,1294.4
+398,1147,Tate,Studholme,Male,71,1968-07-09,Health Coach II,Entertainment,High Net Worth,N,Yes,9,53,4173.67
+399,1148,Inigo,Ojeda,Male,60,1987-09-28,Statistician IV,Financial Services,High Net Worth,N,No,5,34,1689.75
+400,1152,Humfrid,Ducket,Male,47,1998-06-23,Business Systems Development Analyst,Financial Services,Mass Customer,N,Yes,3,23,4516.14
+401,1154,Chase,Youd,Male,26,1974-11-24,Research Nurse,Health,Mass Customer,N,Yes,20,47,958.31
+402,1157,Saunder,Camerati,Male,69,1974-04-03,Research Nurse,Health,Affluent Customer,N,Yes,17,47,5037.46
+403,1159,Elbert,Bridgement,Male,94,1993-01-28,Librarian,Entertainment,Mass Customer,N,No,1,28,2352.28
+404,1163,Manolo,Dwire,Male,77,1981-11-13,Cost Accountant,Financial Services,High Net Worth,N,Yes,8,40,1775.0100000000002
+405,1168,Iosep,Shaddick,Male,44,1965-02-16,Pharmacist,Health,Affluent Customer,N,No,18,56,6128.860000000001
+406,1178,Angelo,Byne,Male,1,1970-05-26,Pharmacist,Health,Mass Customer,N,No,13,51,5167.23
+407,1179,Kerry,Pashenkov,Male,56,1988-08-15,Media Manager IV,Financial Services,High Net Worth,N,Yes,13,33,5068.4400000000005
+408,1186,Brantley,Cecchi,Male,70,1977-05-28,Help Desk Operator,Manufacturing,Affluent Customer,N,Yes,20,44,2437.23
+409,1189,Mart,Bazoche,Male,22,1988-08-29,Geologist I,Health,High Net Worth,N,Yes,8,33,1472.66
+410,1193,Quintus,Whear,Male,58,1986-01-21,Safety Technician I,Retail,High Net Worth,N,No,5,35,962.2199999999998
+411,1199,Ludovico,Bertot,Male,7,1958-06-14,VP Accounting,Financial Services,Affluent Customer,N,Yes,5,63,2037.32
+412,1205,Barton,Baudts,Male,38,1978-06-05,Business Systems Development Analyst,Manufacturing,Affluent Customer,N,No,13,43,4962.0199999999995
+413,1209,Jacky,Jerosch,Male,40,1977-09-06,Senior Developer,Property,High Net Worth,N,Yes,11,44,1809.69
+414,1211,Gunar,Petasch,Male,45,1978-07-23,VP Sales,Financial Services,Affluent Customer,N,Yes,14,43,1495.94
+415,1214,Martino,Shalcros,Male,0,1989-05-01,Internal Auditor,Property,High Net Worth,N,No,15,32,3652.09
+416,1221,Byrom,Draisey,Male,75,1995-09-25,VP Product Management,Health,High Net Worth,N,Yes,14,26,1500.4900000000002
+417,1225,Arte,Witchell,Male,5,1988-01-22,Clinical Specialist,Health,Mass Customer,N,Yes,10,33,2078.59
+418,1229,Sebastian,Trass,Male,38,2000-01-08,GIS Technical Architect,Manufacturing,Affluent Customer,N,Yes,1,21,3005.63
+419,1232,Stillmann,Wilfling,Male,83,1959-09-12,Help Desk Operator,Property,Affluent Customer,N,No,20,62,5011.9
+420,1236,Bryanty,Megarrell,Male,75,1974-05-21,Web Designer IV,Financial Services,High Net Worth,N,Yes,18,47,3588.56
+421,1242,Bartholomeo,Meeke,Male,36,1973-02-04,Human Resources Assistant III,Property,High Net Worth,N,Yes,18,48,1085.7400000000002
+422,1243,Robbert,Blakey,Male,73,1953-08-09,Research Assistant II,Retail,Mass Customer,N,No,8,68,5127.43
+423,1245,Erin,Shawell,Male,34,1994-05-31,Product Engineer,Manufacturing,Affluent Customer,N,No,1,27,2596.23
+424,1251,Codie,Arnecke,Male,63,1997-10-01,Desktop Support Technician,Property,Mass Customer,N,No,2,24,1481.07
+425,1252,Les,Ellwood,Male,46,1965-01-16,Recruiting Manager,Manufacturing,Mass Customer,N,Yes,14,56,4548.3099999999995
+426,1254,Quillan,McDuffie,Male,60,1958-12-18,Graphic Designer,Retail,Mass Customer,N,Yes,5,63,3436.5000000000005
+427,1256,Granny,Lukes,Male,8,1986-05-11,Food Chemist,Health,High Net Worth,N,No,9,35,2068.61
+428,1257,Prentiss,MacVicar,Male,40,1972-06-19,Assistant Professor,Property,Affluent Customer,N,Yes,9,49,1791.15
+429,1258,Nefen,Ferriere,Male,89,1978-04-21,Geological Engineer,Manufacturing,Mass Customer,N,No,6,43,5441.22
+430,1260,Fremont,Spawton,Male,92,1989-10-01,Tax Accountant,Property,Mass Customer,N,No,9,32,2195.2400000000002
+431,1263,Elliot,Posselow,Male,41,1973-06-16,Nurse,Manufacturing,Affluent Customer,N,No,8,48,2951.0199999999995
+432,1265,Kipper,Monck,Male,72,1987-07-22,Biostatistician I,Property,Mass Customer,N,Yes,2,34,1195.6099999999997
+433,1267,Leopold,Dainton,Male,39,1979-06-03,Safety Technician IV,Entertainment,Affluent Customer,N,Yes,19,42,2557.49
+434,1269,Ravid,Kilgallon,Male,56,1990-08-25,Account Coordinator,Property,High Net Worth,N,Yes,7,31,935.0600000000001
+435,1270,Cullen,Langshaw,Male,72,1983-02-27,Paralegal,Financial Services,Affluent Customer,N,No,10,38,2113.08
+436,1273,Hieronymus,Whinray,Male,48,1974-07-31,General Manager,Financial Services,Affluent Customer,N,Yes,14,47,1551.7500000000002
+437,1274,Emmerich,Tinkler,Male,12,1977-11-16,Mechanical Systems Engineer,Manufacturing,Mass Customer,N,No,20,44,3532.37
+438,1276,Farrel,Waiting,Male,24,1964-06-07,Dental Hygienist,Health,Affluent Customer,N,No,4,57,969.91
+439,1279,Burr,Lygoe,Male,30,1962-08-12,Staff Accountant I,Financial Services,Mass Customer,N,No,20,59,2422.29
+440,1280,Horacio,Peyntue,Male,71,1978-01-24,Marketing Assistant,Manufacturing,High Net Worth,N,Yes,15,43,2799.4199999999996
+441,1281,Leighton,Zisneros,Male,29,1968-07-07,Administrative Assistant III,Manufacturing,Affluent Customer,N,Yes,16,53,1186.6099999999997
+442,1282,Garald,Pidler,Male,99,1980-11-15,Programmer Analyst III,Entertainment,Affluent Customer,N,Yes,14,41,5521.41
+443,1284,Alexis,Aronov,Male,30,1976-01-28,Junior Executive,Entertainment,Affluent Customer,N,No,11,45,106.49999999999999
+444,1285,Tomkin,Fudge,Male,44,1973-05-23,Office Assistant III,Manufacturing,Mass Customer,N,Yes,12,48,5553.4
+445,1287,Nicko,Saddleton,Male,72,1960-10-23,Systems Administrator I,Financial Services,Mass Customer,N,Yes,20,61,5456.97
+446,1290,Vassily,Ramalho,Male,49,1967-08-08,VP Marketing,Financial Services,High Net Worth,N,Yes,6,54,7616.040000000001
+447,1291,Warner,Zuker,Male,0,1980-08-16,Quality Engineer,Health,Mass Customer,N,No,12,41,5147.26
+448,1293,Vidovic,Fretson,Male,89,1980-10-07,Quality Engineer,IT,Mass Customer,N,No,8,41,4736.69
+449,1295,Irving,Murton,Male,66,1997-01-25,Nurse,Argiculture,Mass Customer,N,Yes,5,24,1882.9
+450,1297,Shay,Gimbart,Male,91,1981-02-12,Social Worker,Health,Mass Customer,N,No,3,40,2424.5299999999997
+451,1298,Guglielmo,Yele,Male,35,1974-04-06,Research Nurse,Health,Mass Customer,N,No,16,47,4113.36
+452,1305,Averil,Gentiry,Male,97,1970-03-01,Executive Secretary,Financial Services,High Net Worth,N,Yes,6,51,2825.0
+453,1306,Doyle,Oleksinski,Male,13,1956-04-12,Occupational Therapist,Health,Affluent Customer,N,Yes,13,65,4077.19
+454,1310,Keane,Leebeter,Male,38,1986-12-20,Geological Engineer,Manufacturing,High Net Worth,N,Yes,13,35,2289.2700000000004
+455,1313,Hughie,Laboune,Male,59,1986-02-09,Analyst Programmer,Property,Mass Customer,N,No,22,35,4753.51
+456,1316,Steven,Castellaccio,Male,79,1990-03-06,Recruiter,Retail,High Net Worth,N,Yes,18,31,2152.88
+457,1317,Barrett,Lindley,Male,2,1973-01-18,General Manager,Retail,Mass Customer,N,Yes,5,48,7024.709999999999
+458,1325,Ty,Belliard,Male,67,1968-08-25,Account Executive,Argiculture,High Net Worth,N,Yes,14,53,104.24000000000001
+459,1326,Goddard,Tinn,Male,15,1966-02-23,Biostatistician III,Health,Affluent Customer,N,Yes,5,55,3581.0
+460,1328,Stavro,Gargett,Male,19,1981-09-02,Budget/Accounting Analyst IV,IT,Mass Customer,N,Yes,6,40,5351.58
+461,1331,Edward,Hawkwood,Male,12,1987-03-24,Tax Accountant,Telecommunications,High Net Worth,N,No,17,34,6252.43
+462,1333,Phillipp,McMonnies,Male,4,1973-08-23,Compensation Analyst,Financial Services,High Net Worth,N,No,9,48,1924.18
+463,1341,Parry,Rigolle,Male,65,1986-05-18,Computer Systems Analyst I,Financial Services,Affluent Customer,N,No,15,35,1213.75
+464,1343,Creight,Deery,Male,67,1979-12-10,Dental Hygienist,Health,High Net Worth,N,No,5,42,1317.1599999999999
+465,1345,Jeth,Marien,Male,94,1960-09-11,Senior Sales Associate,Manufacturing,Mass Customer,N,No,12,61,5170.95
+466,1346,Woody,Dowthwaite,Male,9,1970-06-19,Administrative Assistant IV,Telecommunications,Mass Customer,N,No,19,51,6736.53
+467,1349,Curran,Gush,Male,83,1997-05-07,Electrical Engineer,Manufacturing,Affluent Customer,N,No,1,24,1905.1599999999999
+468,1350,Bing,Vicar,Male,10,1957-09-30,Staff Scientist,Retail,Mass Customer,N,Yes,8,64,1235.26
+469,1352,Jerald,Lesly,Male,53,1954-12-28,Electrical Engineer,Manufacturing,High Net Worth,N,No,18,67,1151.6
+470,1355,Isador,Hallitt,Male,37,2001-04-04,VP Quality Control,Property,Mass Customer,N,No,1,20,2713.7200000000003
+471,1357,Waylin,Eassom,Male,69,1993-05-14,Research Nurse,Health,High Net Worth,N,No,6,28,4732.839999999999
+472,1358,Gerome,Whittock,Male,8,1994-04-11,Dental Hygienist,Health,High Net Worth,N,No,6,27,4113.04
+473,1360,Maurice,Blas,Male,41,1970-07-04,Design Engineer,Manufacturing,Mass Customer,N,Yes,15,51,1906.1499999999996
+474,1361,Gradeigh,Saltmarshe,Male,56,1964-12-12,Professor,Manufacturing,Affluent Customer,N,No,19,57,2536.58
+475,1363,Boniface,Kivelhan,Male,7,1961-10-16,Associate Professor,Financial Services,Mass Customer,N,No,18,60,2744.34
+476,1364,Selby,Cabbell,Male,99,1978-04-20,Junior Executive,Manufacturing,Mass Customer,N,No,21,43,1033.8899999999999
+477,1365,Shurlocke,Pirie,Male,97,1992-04-19,Research Associate,Health,Mass Customer,N,No,3,29,818.7200000000001
+478,1366,Zacharia,Rigler,Male,10,1974-06-30,Computer Systems Analyst IV,Retail,Affluent Customer,N,No,22,47,1614.09
+479,1372,Rockie,Wheldon,Male,44,1980-07-02,Computer Systems Analyst III,Manufacturing,Affluent Customer,N,No,17,41,2935.6800000000003
+480,1375,Archie,Van den Hof,Male,36,1978-12-07,Analog Circuit Design manager,Financial Services,Affluent Customer,N,No,18,43,1849.91
+481,1377,Giacomo,Roseburgh,Male,86,1989-05-11,Mechanical Systems Engineer,Retail,Mass Customer,N,Yes,2,32,2814.08
+482,1381,Ellary,Ramsey,Male,79,1985-03-11,Engineer IV,Manufacturing,Affluent Customer,N,Yes,15,36,4177.610000000001
+483,1382,Lucio,Reame,Male,27,1989-10-23,Data Coordiator,Manufacturing,High Net Worth,N,Yes,20,32,1946.8899999999999
+484,1388,Carny,Shilstone,Male,86,1972-08-14,Internal Auditor,Financial Services,Mass Customer,N,No,7,49,3792.12
+485,1396,Sinclair,Melonby,Male,20,1987-10-07,Cost Accountant,Financial Services,Mass Customer,N,No,18,34,7075.58
+486,1397,Dimitri,Durie,Male,29,1979-01-21,Legal Assistant,Manufacturing,Mass Customer,N,Yes,14,42,4563.950000000001
+487,1402,Hillier,Andraud,Male,58,2001-12-08,Assistant Professor,Telecommunications,Mass Customer,N,No,1,20,3067.5799999999995
+488,1404,Emmott,Mercik,Male,78,1957-07-30,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,14,64,5426.7
+489,1406,Georges,Tilne,Male,3,1970-05-05,Cost Accountant,Financial Services,High Net Worth,N,Yes,17,51,2396.6999999999994
+490,1408,Kendricks,Plastow,Male,14,1997-06-22,Dental Hygienist,Health,High Net Worth,N,No,4,24,2731.09
+491,1419,Roddy,Ollerton,Male,5,1967-01-11,Physical Therapy Assistant,Financial Services,Mass Customer,N,Yes,4,54,972.7900000000002
+492,1422,Georgy,Rickwood,Male,31,1972-03-13,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,16,49,1652.3899999999999
+493,1424,Allin,Arbuckel,Male,56,1974-08-03,Occupational Therapist,Health,High Net Worth,N,Yes,14,47,1475.88
+494,1425,Chrisy,Sivess,Male,20,1986-07-06,General Manager,Retail,High Net Worth,N,Yes,11,35,3144.9999999999995
+495,1427,Jodie,Juett,Male,14,1993-12-09,Environmental Specialist,Financial Services,High Net Worth,N,No,8,28,3573.89
+496,1429,Dante,Jikylls,Male,94,1980-12-03,Legal Assistant,Health,Mass Customer,N,Yes,12,41,861.6199999999999
+497,1431,Derek,Malafe,Male,29,1975-05-13,Sales Associate,Financial Services,Affluent Customer,N,Yes,17,46,955.44
+498,1432,Hiram,Kittiman,Male,70,1998-11-26,Tax Accountant,Argiculture,High Net Worth,N,Yes,2,23,3727.0600000000004
+499,1434,Craig,Guswell,Male,42,1973-08-14,Statistician I,Property,High Net Worth,N,No,9,48,1127.95
+500,1435,Derek,Podmore,Male,96,1968-04-27,Software Engineer II,Telecommunications,Affluent Customer,N,Yes,19,53,5393.83
+501,1437,Gearalt,Challis,Male,35,1974-09-12,Electrical Engineer,Manufacturing,Affluent Customer,N,No,20,47,2636.2000000000003
+502,1439,Leupold,Detoc,Male,97,1965-07-28,GIS Technical Architect,Retail,Mass Customer,N,No,19,56,1005.2400000000001
+503,1444,Claudian,Ruos,Male,97,1975-04-14,Payment Adjustment Coordinator,Health,Mass Customer,N,No,8,46,1281.31
+504,1446,Gabriello,Nell,Male,51,1987-04-15,Engineer I,Manufacturing,Mass Customer,N,No,17,34,4495.52
+505,1447,Renaldo,Maudsley,Male,29,1996-06-16,Civil Engineer,Manufacturing,Mass Customer,N,No,4,25,4553.860000000001
+506,1448,Hinze,Bullent,Male,40,1988-08-09,VP Product Management,Property,Mass Customer,N,No,20,33,128.45999999999992
+507,1452,Zachery,Hamber,Male,99,1955-12-31,Safety Technician III,Retail,Mass Customer,N,No,20,66,3431.62
+508,1454,Caesar,Wattam,Male,4,1979-04-07,Physical Therapy Assistant,Argiculture,Mass Customer,N,Yes,3,42,2240.5
+509,1456,Berkie,Croall,Male,97,1964-12-11,Health Coach II,Property,Mass Customer,N,Yes,6,57,874.93
+510,1458,Ashley,Behneke,Male,40,1956-10-22,Account Representative IV,Telecommunications,Affluent Customer,N,No,11,65,3273.3300000000004
+511,1459,Haydon,Berkery,Male,89,1998-06-16,Senior Sales Associate,Manufacturing,Mass Customer,N,No,4,23,4557.6
+512,1460,Morley,Shutt,Male,92,1973-07-03,Information Systems Manager,Financial Services,High Net Worth,N,Yes,13,48,10787.599999999999
+513,1462,Omero,Hauxley,Male,16,1995-11-07,VP Accounting,Financial Services,Mass Customer,N,Yes,1,26,2331.5199999999995
+514,1463,Willie,Landsberg,Male,53,1965-04-18,Chief Design Engineer,Property,High Net Worth,N,Yes,18,56,2171.73
+515,1470,Albie,Pach,Male,62,1995-12-04,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,8,26,3512.7200000000003
+516,1474,Farley,Rosen,Male,54,1986-05-27,Structural Analysis Engineer,Health,Mass Customer,N,Yes,21,35,1676.15
+517,1475,Aristotle,Jess,Male,41,1985-07-21,Recruiting Manager,Retail,Affluent Customer,N,Yes,7,36,7374.71
+518,1478,Fulton,Blayney,Male,40,1992-12-05,VP Quality Control,Financial Services,High Net Worth,N,No,9,29,3605.3900000000003
+519,1479,Avrom,Clougher,Male,25,1977-10-20,Help Desk Technician,Argiculture,Mass Customer,N,No,21,44,2530.6
+520,1482,Georas,Niesel,Male,29,1979-04-30,Electrical Engineer,Manufacturing,Mass Customer,N,No,12,42,9269.16
+521,1485,Meredeth,Luck,Male,50,1969-08-02,Food Chemist,Health,Mass Customer,N,Yes,6,52,526.7900000000001
+522,1486,Dag,Landell,Male,14,1978-08-07,Geological Engineer,Manufacturing,Mass Customer,N,No,10,43,3681.51
+523,1489,Mead,Wollard,Male,17,1993-05-13,Teacher,Health,Mass Customer,N,No,4,28,379.15999999999997
+524,1499,Patton,Wrey,Male,88,1973-08-18,Design Engineer,Manufacturing,Mass Customer,N,Yes,11,48,2193.8599999999997
+525,1504,Coop,Corneck,Male,98,1975-01-03,Data Coordiator,Property,Affluent Customer,N,Yes,13,46,713.22
+526,1505,Cristian,Trounce,Male,90,1993-10-21,Recruiting Manager,Financial Services,Mass Customer,N,No,3,28,3825.71
+527,1508,Orv,Milland,Male,80,1986-08-28,Clinical Specialist,Health,Affluent Customer,N,Yes,11,35,3479.0099999999998
+528,1510,Timmie,Chitty,Male,94,1959-02-05,Actuary,Financial Services,Mass Customer,N,No,18,62,2238.37
+529,1511,Yves,Trehearne,Male,97,1990-07-08,Internal Auditor,Financial Services,Mass Customer,N,No,4,31,3037.58
+530,1515,Dietrich,Escott,Male,80,1990-08-19,Geological Engineer,Manufacturing,Mass Customer,N,Yes,2,31,2314.6000000000004
+531,1516,Ham,Pietrusiak,Male,6,1967-07-12,VP Sales,IT,Affluent Customer,N,No,19,54,4256.32
+532,1517,Murdoch,Twort,Male,90,1987-09-15,Operator,IT,Affluent Customer,N,No,12,34,5878.15
+533,1518,Dallon,Greatreax,Male,66,1971-01-02,Safety Technician IV,Property,Affluent Customer,N,No,18,50,1365.79
+534,1519,Marwin,Jeyness,Male,35,2001-11-30,Administrative Assistant IV,Telecommunications,High Net Worth,N,Yes,1,20,3819.53
+535,1521,Pernell,Duffett,Male,49,1995-11-13,Business Systems Development Analyst,Financial Services,Affluent Customer,N,Yes,22,26,824.2700000000002
+536,1522,Hubie,Thunnerclef,Male,57,1994-06-13,Paralegal,Financial Services,Mass Customer,N,No,7,27,2089.87
+537,1523,Brnaba,Dighton,Male,78,1959-09-06,Product Engineer,Financial Services,Mass Customer,N,Yes,17,62,2105.0899999999997
+538,1526,Charlie,MacKibbon,Male,50,1964-11-07,Editor,Manufacturing,Mass Customer,N,Yes,19,57,2573.94
+539,1527,Gerek,Chape,Male,23,1997-10-15,Chemical Engineer,Manufacturing,Mass Customer,N,No,2,24,3855.9300000000003
+540,1530,Alexandr,Maylard,Male,89,1976-01-12,Pharmacist,Health,Mass Customer,N,Yes,9,45,7390.75
+541,1535,Emanuel,Baukham,Male,80,1997-04-08,Cost Accountant,Financial Services,Affluent Customer,N,Yes,3,24,2811.97
+542,1537,Andres,Beranek,Male,23,1969-11-17,Librarian,Entertainment,Mass Customer,N,No,10,52,5101.549999999999
+543,1538,Ahmed,Edmondson,Male,74,1989-04-22,Pharmacist,Health,High Net Worth,N,Yes,12,32,222.77999999999994
+544,1542,Sanders,Fernyhough,Male,56,1978-07-27,Food Chemist,Health,Mass Customer,N,Yes,12,43,1825.3200000000006
+545,1544,Keane,Moneypenny,Male,75,1963-08-22,Dental Hygienist,Health,Affluent Customer,N,Yes,11,58,903.11
+546,1545,Carver,Saturley,Male,34,1977-09-06,Associate Professor,Health,Mass Customer,N,Yes,15,44,2637.47
+547,1552,Cully,Mangeon,Male,80,1988-06-06,Research Associate,Entertainment,Mass Customer,N,Yes,8,33,5400.320000000001
+548,1554,Land,Aarons,Male,83,1994-08-12,Assistant Manager,Retail,Affluent Customer,N,No,3,27,5636.08
+549,1555,Marcello,Spenclay,Male,60,1962-08-19,Tax Accountant,Health,High Net Worth,N,No,15,59,3107.36
+550,1556,Bartram,Brownstein,Male,30,1986-03-25,Web Developer III,Manufacturing,Mass Customer,N,Yes,6,35,3519.2200000000003
+551,1557,Efren,Castanos,Male,64,1975-08-14,Speech Pathologist,Financial Services,Mass Customer,N,No,6,46,4684.950000000001
+552,1558,Oberon,Scading,Male,14,1991-05-12,Information Systems Manager,Financial Services,Affluent Customer,N,No,2,30,10640.3
+553,1561,Clemens,Rawll,Male,47,1975-03-14,Graphic Designer,Manufacturing,Mass Customer,N,Yes,14,46,6918.889999999999
+554,1563,Crosby,Claeskens,Male,39,1992-03-10,Account Representative IV,Property,Mass Customer,N,No,9,29,2877.89
+555,1565,Jay,Janiszewski,Male,71,1953-08-17,Sales Representative,Retail,High Net Worth,N,Yes,11,68,1182.38
+556,1566,Stavros,Goodinson,Male,95,1962-01-03,Executive Secretary,Argiculture,Mass Customer,N,No,17,59,1597.26
+557,1571,Tadeas,McUre,Male,19,1980-09-08,Clinical Specialist,Health,Mass Customer,N,Yes,22,41,4968.780000000001
+558,1572,Tam,Jahner,Male,51,1957-07-26,Recruiting Manager,Financial Services,High Net Worth,N,Yes,16,64,7651.019999999999
+559,1576,Reube,Roscrigg,Male,77,1985-11-10,VP Marketing,Financial Services,Mass Customer,N,No,20,36,4521.35
+560,1580,Laird,Prover,Male,23,1981-06-21,Associate Professor,Retail,High Net Worth,N,No,5,40,3225.0
+561,1582,Francesco,Wasson,Male,32,1978-01-14,Office Assistant III,Property,Mass Customer,N,No,4,43,1914.1999999999998
+562,1585,Stillman,Sackur,Male,87,1961-04-07,Pharmacist,Health,Mass Customer,N,Yes,5,60,3461.65
+563,1587,Kevan,Laminman,Male,17,1986-08-16,Software Test Engineer III,Entertainment,Affluent Customer,N,Yes,12,35,635.72
+564,1588,Dukey,McCrie,Male,24,1983-01-28,Administrative Officer,IT,High Net Worth,N,Yes,7,38,3628.2599999999998
+565,1589,Walker,Bartalot,Male,83,1989-07-08,Human Resources Manager,Health,Mass Customer,N,Yes,4,32,6738.66
+566,1591,Fonz,Jankin,Male,4,1976-09-14,Operator,Manufacturing,Mass Customer,N,Yes,14,45,5968.91
+567,1594,Rolando,Amyes,Male,62,1981-11-26,Human Resources Manager,Property,Mass Customer,N,No,7,40,4320.299999999999
+568,1596,Vinnie,Sails,Male,2,1969-07-01,Cost Accountant,Financial Services,High Net Worth,N,Yes,8,52,2786.02
+569,1597,Jeffry,Slowly,Male,93,1977-02-01,Nurse Practicioner,Retail,Affluent Customer,N,No,14,44,8710.7
+570,1602,Shamus,Dennerly,Male,68,1979-01-09,Professor,Retail,Mass Customer,N,No,15,42,4026.12
+571,1603,Osgood,Emerine,Male,89,1988-11-20,Quality Engineer,Manufacturing,Affluent Customer,N,Yes,20,33,1488.1699999999998
+572,1609,Reginald,Hanwright,Male,64,1996-11-26,Professor,Property,Mass Customer,N,Yes,3,25,4041.6000000000004
+573,1612,Wendel,Headland,Male,70,1987-04-17,Community Outreach Specialist,Financial Services,High Net Worth,N,Yes,22,34,2932.8199999999997
+574,1616,Shamus,Attenbrough,Male,75,1955-08-16,Media Manager II,Retail,High Net Worth,N,Yes,19,66,6150.25
+575,1624,Hakim,Burnhard,Male,18,1980-05-04,Compensation Analyst,Financial Services,Mass Customer,N,Yes,6,41,1627.2200000000003
+576,1625,Caryl,Clara,Male,20,1977-12-09,Information Systems Manager,Property,Mass Customer,N,Yes,10,44,8499.59
+577,1627,Vladimir,Morphet,Male,44,1961-11-19,Librarian,Entertainment,Affluent Customer,N,No,16,60,4834.08
+578,1629,Edsel,Lester,Male,46,1974-08-21,VP Accounting,Financial Services,Mass Customer,N,No,14,47,6051.87
+579,1631,Towny,Beebee,Male,11,1996-09-03,Speech Pathologist,Financial Services,Affluent Customer,N,No,1,25,2638.26
+580,1632,Orbadiah,Kennicott,Male,43,1985-08-12,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,3,36,709.34
+581,1637,Timothee,Mervyn,Male,78,1969-02-07,Statistician II,Manufacturing,High Net Worth,N,No,6,52,4039.88
+582,1638,Zachery,Monkhouse,Male,55,1992-05-12,Speech Pathologist,Financial Services,Mass Customer,N,Yes,10,29,4046.88
+583,1641,Vasily,Sturgeon,Male,29,1972-09-01,Community Outreach Specialist,Financial Services,Mass Customer,N,No,14,49,4326.200000000001
+584,1642,Nollie,Matteoli,Male,97,1982-10-11,Systems Administrator II,Manufacturing,Affluent Customer,N,Yes,3,39,2307.4900000000002
+585,1644,Gaby,Harriot,Male,57,1969-12-01,Speech Pathologist,Health,Mass Customer,N,No,10,52,4938.15
+586,1649,Brenden,Dinley,Male,6,1962-07-17,Chief Design Engineer,Property,Mass Customer,N,No,7,59,3089.37
+587,1655,Prinz,Codman,Male,38,1983-02-15,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,13,38,1337.55
+588,1656,Constantin,Rodrigues,Male,59,1977-07-22,Chief Design Engineer,Financial Services,Mass Customer,N,Yes,7,44,2256.4700000000003
+589,1657,Stanwood,Troillet,Male,11,1977-03-08,Computer Systems Analyst III,Financial Services,Mass Customer,N,No,5,44,2675.72
+590,1660,Justinian,Jekyll,Male,85,1980-03-16,Internal Auditor,Retail,Affluent Customer,N,No,15,41,2624.36
+591,1664,Karlis,Alner,Male,11,1975-12-30,Chemical Engineer,Manufacturing,Affluent Customer,N,Yes,9,46,3476.36
+592,1665,Witty,Lauthian,Male,48,1977-11-18,Quality Engineer,Telecommunications,Mass Customer,N,No,11,44,3302.05
+593,1667,Jaime,Simonnin,Male,67,1955-02-18,Geological Engineer,Manufacturing,High Net Worth,N,No,18,66,5432.4
+594,1669,Jabez,Glasspoole,Male,74,1978-03-18,VP Accounting,Financial Services,High Net Worth,N,Yes,21,43,3361.1000000000004
+595,1675,Luke,Wombwell,Male,76,1955-08-14,Engineer I,Manufacturing,Affluent Customer,N,Yes,14,66,3067.0600000000004
+596,1676,Ozzy,Olerenshaw,Male,63,1975-03-31,Information Systems Manager,Health,Mass Customer,N,No,13,46,4291.110000000001
+597,1686,Fremont,Trundle,Male,95,1980-07-06,Account Representative IV,Argiculture,Mass Customer,N,Yes,16,41,5672.85
+598,1689,Teodor,Larwell,Male,48,1995-06-18,Quality Control Specialist,Financial Services,Mass Customer,N,Yes,4,26,3334.2299999999996
+599,1690,Torey,Kensall,Male,6,1988-12-19,Food Chemist,Health,Affluent Customer,N,Yes,16,33,2570.54
+600,1693,Ring,Birchall,Male,79,1965-11-06,Accountant I,Health,Affluent Customer,N,No,4,56,3726.31
+601,1696,Mose,Middler,Male,48,1991-06-07,Librarian,Entertainment,High Net Worth,N,No,2,30,6524.7699999999995
+602,1699,Poul,Dumphy,Male,33,1958-05-08,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,8,63,3497.23
+603,1702,Bryn,Whisby,Male,14,1956-04-03,Research Nurse,Health,Mass Customer,N,No,17,65,2185.44
+604,1704,Tremain,Breadon,Male,96,1962-10-22,Analyst Programmer,IT,High Net Worth,N,No,12,59,1678.3900000000003
+605,1707,Alfonso,Readett,Male,18,1994-01-02,Cost Accountant,Financial Services,High Net Worth,N,No,7,27,3463.54
+606,1709,Osgood,Seeborne,Male,36,1974-09-30,Food Chemist,Health,Affluent Customer,N,No,6,47,2059.0
+607,1715,Cobb,Schrinel,Male,41,1988-06-01,Web Developer III,Entertainment,Mass Customer,N,Yes,12,33,629.29
+608,1717,Obadias,Gristwood,Male,96,1978-11-14,Civil Engineer,Manufacturing,Mass Customer,N,No,6,43,1951.0700000000002
+609,1719,Devy,Hannum,Male,71,1973-07-04,Media Manager IV,Financial Services,High Net Worth,N,No,18,48,2228.2999999999997
+610,1722,Fritz,Geare,Male,52,1963-07-17,Cost Accountant,Financial Services,Mass Customer,N,No,4,58,6474.5
+611,1728,Pryce,Larner,Male,41,1977-05-04,Paralegal,Financial Services,Affluent Customer,N,No,22,44,3684.49
+612,1732,Elihu,Cudworth,Male,95,1978-07-07,Desktop Support Technician,Argiculture,Mass Customer,N,Yes,10,43,2263.3900000000003
+613,1733,Gothart,Coomer,Male,10,1986-05-26,Associate Professor,Financial Services,High Net Worth,N,No,20,35,3170.4799999999996
+614,1735,Sly,Offord,Male,7,1966-09-07,Occupational Therapist,Health,Mass Customer,N,No,8,55,2417.11
+615,1736,Garrek,Rowbotham,Male,83,1998-05-10,Associate Professor,IT,Affluent Customer,N,No,4,23,3759.2799999999997
+616,1738,Frankie,Seydlitz,Male,39,1985-04-24,Engineer II,Argiculture,High Net Worth,N,Yes,14,36,1841.07
+617,1739,Burnaby,Stiffkins,Male,20,1954-10-06,Software Consultant,Entertainment,Mass Customer,N,No,7,67,2395.71
+618,1741,Karlens,Carneck,Male,18,1994-07-11,General Manager,Financial Services,High Net Worth,N,No,3,27,2725.13
+619,1743,Pall,Creek,Male,80,1981-07-25,Director of Sales,Manufacturing,Affluent Customer,N,Yes,8,40,4448.07
+620,1747,Obadiah,Fairall,Male,46,1987-03-14,Research Assistant II,Financial Services,Affluent Customer,N,No,14,34,995.38
+621,1748,Skell,Oxenden,Male,83,1956-06-07,Recruiter,Manufacturing,Mass Customer,N,Yes,10,65,4973.950000000001
+622,1750,Filbert,Evreux,Male,14,1959-05-13,Internal Auditor,Entertainment,Mass Customer,N,Yes,16,62,5227.9800000000005
+623,1759,Quillan,Shortland,Male,52,1969-06-02,Biostatistician IV,Financial Services,High Net Worth,N,No,15,52,2828.17
+624,1768,Normand,Ganderton,Male,36,1974-02-09,Programmer I,Manufacturing,High Net Worth,N,No,13,47,437.46
+625,1772,Michael,Foulis,Male,98,1984-07-07,Financial Analyst,Financial Services,High Net Worth,N,Yes,14,37,1648.05
+626,1774,Vidovik,Astall,Male,48,1978-11-01,Compensation Analyst,Financial Services,Mass Customer,N,Yes,18,43,1168.78
+627,1776,Korey,Gate,Male,77,1978-08-26,Accountant I,Financial Services,Affluent Customer,N,No,10,43,2607.63
+628,1779,Krishnah,Firmage,Male,55,1996-11-19,Information Systems Manager,Argiculture,Affluent Customer,N,No,5,25,5042.0
+629,1782,Ewen,Emes,Male,47,1966-12-22,Pharmacist,Health,Affluent Customer,N,Yes,9,55,3622.1000000000004
+630,1785,Marty,Whatford,Male,23,1960-12-10,Clinical Specialist,Health,Mass Customer,N,No,19,61,2827.73
+631,1787,Tull,Godehard.sf,Male,2,1976-11-21,Executive Secretary,Retail,High Net Worth,N,Yes,13,45,4865.49
+632,1790,Vite,Molyneux,Male,90,1993-09-25,Budget/Accounting Analyst IV,Health,Affluent Customer,N,No,1,28,2258.68
+633,1793,Hewett,Handes,Male,19,1989-06-14,Actuary,Financial Services,Mass Customer,N,Yes,2,32,4960.360000000001
+634,1795,Wally,Rebbeck,Male,40,1977-09-21,Internal Auditor,Manufacturing,Affluent Customer,N,No,7,44,2882.84
+635,1801,Bendix,Olivella,Male,48,1976-12-23,Legal Assistant,Manufacturing,Affluent Customer,N,No,21,45,4098.59
+636,1808,Charles,Carren,Male,98,1965-12-15,Information Systems Manager,Retail,High Net Worth,N,No,17,56,7965.28
+637,1810,Royall,Terris,Male,98,1959-05-06,Geological Engineer,Manufacturing,High Net Worth,N,No,16,62,168.45
+638,1820,Yard,Teeney,Male,12,1996-04-02,Software Engineer II,IT,Affluent Customer,N,No,5,25,4883.79
+639,1821,Fields,Bayne,Male,89,1972-03-09,Web Developer IV,Entertainment,High Net Worth,N,Yes,15,49,7335.889999999999
+640,1825,Arv,Whitsey,Male,82,1967-02-14,VP Quality Control,Financial Services,Mass Customer,N,Yes,17,54,4977.7699999999995
+641,1826,Jareb,Langcaster,Male,33,1961-01-10,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,7,60,3405.78
+642,1830,Nathan,Antognazzi,Male,98,1985-04-30,Software Consultant,Manufacturing,High Net Worth,N,No,12,36,4578.9
+643,1831,Lisle,Yokel,Male,58,1977-11-13,Social Worker,Health,Mass Customer,N,No,15,44,2147.2999999999997
+644,1833,Klemens,Eite,Male,67,1967-03-15,Actuary,Financial Services,High Net Worth,N,Yes,19,54,2441.37
+645,1834,Otes,Gottelier,Male,84,1977-06-30,Director of Sales,Financial Services,High Net Worth,N,Yes,11,44,4434.93
+646,1835,Rodrigo,Felce,Male,48,1993-06-30,Financial Advisor,Financial Services,Affluent Customer,N,Yes,1,28,1039.0299999999997
+647,1837,Tirrell,Cosgreave,Male,9,1973-12-29,Account Coordinator,Manufacturing,Mass Customer,N,Yes,19,48,4515.25
+648,1840,Sherman,Gullen,Male,22,1977-11-04,Staff Scientist,Argiculture,High Net Worth,N,Yes,20,44,2259.16
+649,1841,Nathanial,D'Ambrogi,Male,63,1995-10-22,Administrative Assistant III,Argiculture,Affluent Customer,N,No,2,26,1677.0800000000002
+650,1842,Ephrayim,Beville,Male,89,1977-02-27,Accountant IV,Financial Services,Mass Customer,N,No,8,44,3055.85
+651,1845,Pascal,Veronique,Male,34,1978-01-16,General Manager,Financial Services,Mass Customer,N,No,6,43,4572.889999999999
+652,1848,Dev,Caghan,Male,22,1976-11-25,Information Systems Manager,Manufacturing,Mass Customer,N,No,9,45,4456.95
+653,1850,Dare,Wasling,Male,4,1978-05-16,Biostatistician II,Manufacturing,High Net Worth,N,No,7,43,5159.719999999999
+654,1855,Foss,Yanele,Male,2,1971-07-08,Librarian,Entertainment,Mass Customer,N,Yes,18,50,2257.8099999999995
+655,1857,Purcell,Chinnery,Male,57,1968-09-20,Marketing Manager,Manufacturing,Affluent Customer,N,Yes,5,53,3240.2299999999996
+656,1863,Adelbert,Doelle,Male,10,1978-05-11,VP Product Management,Telecommunications,High Net Worth,N,No,20,43,5786.77
+657,1866,Huberto,Bazylets,Male,27,1992-10-07,Marketing Manager,Manufacturing,Mass Customer,N,No,2,29,8834.6
+658,1872,Leif,Feeney,Male,75,1973-05-28,Help Desk Technician,Manufacturing,Mass Customer,N,Yes,14,48,2516.5
+659,1873,Raul,Cabrer,Male,49,1992-07-09,General Manager,Manufacturing,Affluent Customer,N,Yes,4,29,2807.58
+660,1875,Amory,Bohler,Male,4,1959-01-11,Staff Scientist,Retail,High Net Worth,N,Yes,19,62,3921.26
+661,1876,Borden,Wooles,Male,16,1977-05-28,Recruiting Manager,Financial Services,Affluent Customer,N,No,21,44,4057.629999999999
+662,1877,Radcliffe,Bartolomeoni,Male,13,1966-09-09,Associate Professor,Financial Services,High Net Worth,N,Yes,16,55,1507.8199999999997
+663,1878,Pen,Hedgecock,Male,6,1954-11-06,Account Coordinator,Health,Affluent Customer,N,No,10,67,2755.93
+664,1879,Kermy,Heningam,Male,4,1967-04-25,Account Representative I,Manufacturing,High Net Worth,N,No,5,54,1914.3899999999999
+665,1882,Justin,Ragless,Male,86,1964-05-05,Account Executive,Manufacturing,Affluent Customer,N,No,10,57,4054.8500000000004
+666,1885,Jerome,Sheavills,Male,18,1982-10-27,Software Consultant,Health,High Net Worth,N,Yes,11,39,6979.280000000001
+667,1890,Carce,Gunthorp,Male,89,1972-10-08,Analyst Programmer,Financial Services,Mass Customer,N,No,7,49,6710.76
+668,1891,Neville,Bloyes,Male,6,1990-03-02,Marketing Manager,Retail,Mass Customer,N,Yes,19,31,4045.2000000000007
+669,1894,Patten,Laytham,Male,86,1976-04-01,Automation Specialist III,Manufacturing,High Net Worth,N,Yes,17,45,1907.65
+670,1900,Noland,Larder,Male,67,1980-08-15,Safety Technician II,Financial Services,Affluent Customer,N,Yes,19,41,1017.2399999999999
+671,1901,Vail,Southernwood,Male,40,1977-08-22,Budget/Accounting Analyst I,Argiculture,Affluent Customer,N,No,8,44,5809.11
+672,1906,Waylan,Katte,Male,69,1988-04-24,Product Engineer,Retail,Mass Customer,N,No,22,33,2957.85
+673,1907,Lind,Dredge,Male,69,1974-11-04,VP Sales,Health,High Net Worth,N,No,18,47,1014.0699999999998
+674,1911,Hallsy,De Leek,Male,22,1980-06-08,Director of Sales,Manufacturing,Mass Customer,N,No,3,41,689.11
+675,1912,Hall,Grouer,Male,36,1992-11-04,Account Coordinator,Manufacturing,High Net Worth,N,No,7,29,3286.01
+676,1914,Clyve,Sandwick,Male,72,1968-06-21,VP Product Management,Financial Services,Mass Customer,N,No,5,53,2248.17
+677,1916,Redd,O'Crowley,Male,71,1995-03-05,Computer Systems Analyst II,Retail,High Net Worth,N,Yes,7,26,4545.8
+678,1919,Bartie,Hartburn,Male,40,1960-12-23,VP Product Management,Argiculture,Mass Customer,N,Yes,19,61,1841.25
+679,1920,Rutter,Marlen,Male,29,1988-01-06,Sales Associate,Financial Services,Mass Customer,N,No,13,33,90.09999999999997
+680,1923,Immanuel,Farlamb,Male,52,1970-08-23,Health Coach IV,Health,Mass Customer,N,No,9,51,3078.6200000000003
+681,1926,Stefano,Menhenitt,Male,72,1957-11-15,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,10,64,4911.09
+682,1928,Sully,Dorling,Male,2,1977-09-24,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,13,44,879.4799999999999
+683,1930,Ambrose,Bleasby,Male,27,1996-06-14,Speech Pathologist,Manufacturing,High Net Worth,N,No,3,25,2428.87
+684,1931,Boris,Syres,Male,85,1973-11-06,Senior Developer,Health,Affluent Customer,N,No,6,48,384.06999999999994
+685,1933,Ephraim,Fulep,Male,72,1980-09-10,Automation Specialist I,Manufacturing,Affluent Customer,N,No,18,41,4271.39
+686,1937,Renaud,Gahagan,Male,69,1974-01-08,Quality Engineer,Health,Mass Customer,N,No,19,47,4274.780000000001
+687,1941,Dmitri,Eleshenar,Male,83,1992-05-23,Librarian,Entertainment,Mass Customer,N,No,2,29,3130.19
+688,1942,Abe,Townby,Male,0,1987-01-08,Programmer Analyst II,Financial Services,High Net Worth,N,No,19,34,4675.1900000000005
+689,1943,Armstrong,Style,Male,35,1985-10-03,Senior Cost Accountant,Financial Services,Affluent Customer,N,Yes,13,36,357.7899999999998
+690,1944,Gregory,Balchin,Male,73,1980-07-30,Programmer III,Argiculture,High Net Worth,N,Yes,8,41,1345.75
+691,1950,Berne,Fulkes,Male,27,1963-10-07,Web Developer II,Manufacturing,Affluent Customer,N,Yes,19,58,3817.1400000000003
+692,1951,Rockie,MacCosty,Male,93,2000-06-07,Health Coach II,Manufacturing,Mass Customer,N,Yes,2,21,4514.84
+693,1954,Greg,Iacovo,Male,88,1967-11-29,VP Sales,Manufacturing,Affluent Customer,N,No,5,54,4938.280000000001
+694,1956,Omero,Murra,Male,36,1994-07-08,Human Resources Assistant I,Health,Affluent Customer,N,Yes,3,27,1267.19
+695,1957,Gary,Eager,Male,1,1977-09-19,Accountant IV,Property,Affluent Customer,N,No,4,44,5079.91
+696,1959,Arlen,Klossek,Male,3,1978-09-18,Director of Sales,Health,Mass Customer,N,Yes,16,43,3479.22
+697,1962,Paddie,Grunder,Male,13,1977-11-01,Sales Representative,Retail,Mass Customer,N,Yes,22,44,758.6899999999999
+698,1963,Syman,Trimnell,Male,81,1998-03-18,Biostatistician I,Argiculture,Mass Customer,N,Yes,4,23,1828.47
+699,1965,Bendicty,Powrie,Male,81,1973-12-14,Web Designer III,Retail,Mass Customer,N,Yes,3,48,2093.67
+700,1969,Dimitry,Kunkler,Male,54,1961-07-06,Teacher,IT,Mass Customer,N,Yes,19,60,2623.56
+701,1970,Carl,Eyre,Male,51,1982-08-23,Desktop Support Technician,Manufacturing,Mass Customer,N,No,7,39,3660.4800000000005
+702,1979,Ephrem,Cariss,Male,98,1960-05-15,Statistician III,Manufacturing,Mass Customer,N,Yes,11,61,4541.84
+703,1980,Kenneth,Viall,Male,97,1992-06-20,Food Chemist,Health,High Net Worth,N,Yes,7,29,4822.39
+704,1984,Hewett,Alessandretti,Male,70,1999-06-01,Information Systems Manager,Health,Mass Customer,N,Yes,1,22,7256.08
+705,1987,Jacobo,Rosenblum,Male,56,1956-06-08,Research Associate,Health,Affluent Customer,N,No,8,65,1781.3600000000004
+706,1988,Kelwin,Goldsmith,Male,27,1957-04-15,Recruiting Manager,Property,Mass Customer,N,No,8,64,6006.4
+707,1991,Tobe,Godrich,Male,35,1993-09-27,Research Nurse,Health,Mass Customer,N,Yes,8,28,8256.08
+708,1996,Filmer,Furby,Male,4,1985-12-29,Structural Engineer,Manufacturing,Mass Customer,N,No,4,36,2525.43
+709,1998,Hamil,Britch,Male,13,1975-03-26,Media Manager IV,Manufacturing,High Net Worth,N,No,21,46,2715.83
+710,2004,Brandy,Showering,Male,16,1963-06-12,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,10,58,2909.67
+711,2007,Gail,Scarrisbrick,Male,8,1970-04-13,Programmer I,Manufacturing,Mass Customer,N,Yes,15,51,4150.16
+712,2008,Jamill,Cudd,Male,77,1993-07-27,Analyst Programmer,Financial Services,Mass Customer,N,Yes,3,28,2365.36
+713,2010,Duff,Guyer,Male,88,1974-01-31,Data Coordiator,Manufacturing,High Net Worth,N,Yes,7,47,2168.7999999999997
+714,2011,Guthrie,MacAne,Male,68,1978-01-22,VP Sales,Manufacturing,High Net Worth,N,Yes,12,43,560.4800000000001
+715,2017,Ezri,Sadry,Male,67,1995-02-11,Programmer II,Financial Services,Affluent Customer,N,Yes,6,26,3692.8599999999997
+716,2018,Richie,Matts,Male,80,1963-01-30,Senior Developer,Financial Services,Affluent Customer,N,No,12,58,2335.54
+717,2029,Charlie,Hastilow,Male,10,1992-03-10,Nurse,Manufacturing,Mass Customer,N,No,7,29,4156.31
+718,2030,Xymenes,Sprull,Male,3,1961-01-09,Administrative Officer,Property,High Net Worth,N,No,15,60,4622.34
+719,2032,Theodore,Chicchelli,Male,98,1983-09-09,Quality Control Specialist,Property,Mass Customer,N,Yes,9,38,978.76
+720,2033,Mar,Philippon,Male,36,1971-08-31,Dental Hygienist,Health,High Net Worth,N,No,10,50,4458.72
+721,2035,Kylie,Terese,Male,40,1979-06-01,Senior Developer,Health,Mass Customer,N,No,19,42,1520.8600000000001
+722,2037,Irwin,Ryall,Male,19,1989-01-04,VP Marketing,IT,Mass Customer,N,No,6,32,2941.0699999999997
+723,2040,Gal,Scardafield,Male,25,1969-09-05,VP Sales,Retail,Affluent Customer,N,Yes,12,52,1364.0500000000002
+724,2041,Mort,Heath,Male,52,1957-10-27,VP Accounting,Financial Services,Mass Customer,N,No,17,64,3799.8600000000006
+725,2042,Bendix,Cooke,Male,65,1968-08-14,Registered Nurse,Health,Mass Customer,N,No,17,53,2006.1800000000003
+726,2049,Jud,Purchon,Male,21,1962-02-12,Assistant Professor,Manufacturing,High Net Worth,N,No,5,59,4162.97
+727,2055,Harmon,Bakster,Male,46,1980-09-14,Administrative Assistant III,Retail,High Net Worth,N,No,7,41,5563.629999999999
+728,2062,Guillermo,Kolakovic,Male,67,1976-08-19,Junior Executive,Retail,Mass Customer,N,No,18,45,3465.41
+729,2063,Benny,Crudge,Male,55,1963-06-17,Clinical Specialist,Health,Affluent Customer,N,No,16,58,1823.0
+730,2064,Reynard,Jaffrey,Male,99,1969-05-19,VP Marketing,Health,Mass Customer,N,Yes,18,52,3327.0400000000004
+731,2065,Silvio,Henrichs,Male,66,1978-03-13,Technical Writer,Retail,Mass Customer,N,Yes,12,43,2071.89
+732,2066,Skipp,McLarens,Male,91,1969-12-21,Food Chemist,Health,High Net Worth,N,Yes,12,52,2259.2900000000004
+733,2067,Slade,Mulvin,Male,81,1979-05-05,Registered Nurse,Health,Mass Customer,N,No,17,42,3743.7999999999997
+734,2086,Gayle,Cockerell,Male,68,1997-01-03,Senior Cost Accountant,Financial Services,High Net Worth,N,No,1,24,949.58
+735,2087,Yehudi,Sandon,Male,76,1969-06-08,Administrative Officer,IT,Mass Customer,N,Yes,15,52,1624.1100000000001
+736,2088,Ernie,Wankel,Male,2,1969-10-09,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,14,52,3125.44
+737,2089,Erie,Ballston,Male,93,1958-01-07,Safety Technician I,Financial Services,High Net Worth,N,No,15,63,119.32000000000002
+738,2090,Stanton,Schimoni,Male,63,1964-12-05,Help Desk Technician,Financial Services,Mass Customer,N,Yes,17,57,289.37
+739,2092,Stavros,Hazelby,Male,14,1977-12-22,Safety Technician IV,Manufacturing,High Net Worth,N,No,18,44,3651.0300000000007
+740,2093,Salem,Doiley,Male,94,1999-09-10,Programmer II,Financial Services,High Net Worth,N,No,2,22,3660.48
+741,2097,Web,Decaze,Male,38,1988-04-08,Recruiter,Telecommunications,Mass Customer,N,No,21,33,4647.42
+742,2099,Mikel,McKechnie,Male,40,1959-10-03,Senior Cost Accountant,Financial Services,High Net Worth,N,Yes,19,62,4576.76
+743,2100,Der,Blatcher,Male,34,1978-05-30,Marketing Assistant,IT,Mass Customer,N,No,14,43,2399.56
+744,2103,Jayme,Hendin,Male,94,1975-09-22,Business Systems Development Analyst,Financial Services,Affluent Customer,N,No,18,46,6752.629999999999
+745,2105,Terrance,Goligher,Male,29,1971-11-11,Food Chemist,Health,High Net Worth,N,Yes,6,50,5155.91
+746,2106,Antons,Ley,Male,91,1970-03-19,Project Manager,Financial Services,High Net Worth,N,Yes,13,51,3249.41
+747,2110,Gard,Marris,Male,29,1973-07-31,Human Resources Assistant III,Manufacturing,High Net Worth,N,No,14,48,2990.36
+748,2111,Ellis,Vokes,Male,98,1973-12-28,Speech Pathologist,Property,Affluent Customer,N,Yes,12,48,4790.820000000001
+749,2114,Erick,Caveill,Male,78,1954-11-29,Safety Technician III,Argiculture,High Net Worth,N,No,19,67,2997.5600000000004
+750,2115,Shannon,Pflieger,Male,17,1975-08-31,Food Chemist,Health,Mass Customer,N,Yes,17,46,1168.94
+751,2116,Wyndham,Ecob,Male,81,1979-01-20,Research Associate,Financial Services,Affluent Customer,N,Yes,9,42,4128.629999999999
+752,2117,Llywellyn,Christall,Male,76,1995-06-14,Computer Systems Analyst I,Health,Affluent Customer,N,No,3,26,2724.75
+753,2120,Clare,Attoe,Male,80,1997-01-03,Web Designer III,Manufacturing,Mass Customer,N,No,1,24,4543.18
+754,2122,Osborne,Nawton,Male,85,1973-01-27,Registered Nurse,Health,High Net Worth,N,Yes,11,48,1303.18
+755,2126,Hugibert,Getcliff,Male,65,1958-03-29,Product Engineer,Health,Mass Customer,N,Yes,17,63,594.06
+756,2128,Gregorius,Cockram,Male,31,1976-09-25,Data Coordiator,Property,Affluent Customer,N,Yes,16,45,1596.3
+757,2129,Barron,Waszkiewicz,Male,26,1980-10-07,Electrical Engineer,Manufacturing,High Net Worth,N,No,3,41,873.1199999999999
+758,2134,Crosby,Ruoff,Male,16,2000-02-21,Nurse,Manufacturing,Affluent Customer,N,No,2,21,3923.57
+759,2140,Hilario,Ramsdell,Male,59,1976-09-30,Help Desk Operator,Telecommunications,High Net Worth,N,No,21,45,4700.15
+760,2156,Darill,Mowday,Male,96,1977-04-08,Desktop Support Technician,Retail,Mass Customer,N,Yes,18,44,2495.4300000000003
+761,2158,Caesar,Begbie,Male,11,1960-12-18,Physical Therapy Assistant,Entertainment,Mass Customer,N,No,6,61,1650.61
+762,2162,Andrew,Blunt,Male,49,1974-05-09,Paralegal,Financial Services,High Net Worth,N,Yes,10,47,1779.26
+763,2168,Levon,Woollard,Male,83,1974-11-16,VP Accounting,Financial Services,Mass Customer,N,Yes,17,47,1863.53
+764,2169,Jarrad,Atwell,Male,80,1979-02-28,Senior Financial Analyst,Financial Services,Mass Customer,N,No,18,42,5712.51
+765,2170,Dewitt,Laight,Male,27,1963-04-27,Geological Engineer,Manufacturing,Affluent Customer,N,No,6,58,4828.54
+766,2172,Emmery,Angrock,Male,6,1979-01-05,Information Systems Manager,Health,Affluent Customer,N,Yes,13,42,5407.15
+767,2174,Rock,Vickerstaff,Male,32,1962-09-21,Account Executive,Argiculture,High Net Worth,N,No,11,59,2884.7200000000003
+768,2175,Elvyn,Bullas,Male,23,1985-11-01,Web Developer III,Health,Mass Customer,N,No,13,36,3173.95
+769,2177,Waverly,Creebo,Male,35,1977-10-08,Social Worker,Health,Mass Customer,N,No,9,44,2762.18
+770,2179,Benson,cornhill,Male,15,1960-08-20,Desktop Support Technician,Manufacturing,Mass Customer,N,No,17,61,3631.27
+771,2181,Tobe,Roxby,Male,99,1974-07-17,Account Executive,IT,Mass Customer,N,Yes,8,47,1765.32
+772,2182,Symon,Minchin,Male,47,1967-04-23,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,16,54,4766.82
+773,2184,Lamar,Gladman,Male,49,1971-12-05,Statistician III,Health,Mass Customer,N,No,11,50,7123.000000000001
+774,2196,Skylar,Brise,Male,66,1976-06-08,Media Manager I,Retail,High Net Worth,N,Yes,7,45,985.4700000000003
+775,2197,Filip,Willows,Male,32,1993-09-16,Programmer Analyst I,Financial Services,Mass Customer,N,No,7,28,378.15000000000015
+776,2198,Marijn,Arnoll,Male,1,1998-01-10,Editor,Property,Affluent Customer,N,Yes,1,23,1152.8999999999999
+777,2203,Ganny,Alessandrelli,Male,13,1998-12-23,Sales Associate,Health,High Net Worth,N,Yes,2,23,3469.0499999999997
+778,2206,Osmond,McCamish,Male,60,1957-05-25,Structural Engineer,Financial Services,Affluent Customer,N,No,14,64,1464.6599999999999
+779,2209,Rriocard,Gavan,Male,4,1993-08-04,Registered Nurse,Health,Affluent Customer,N,Yes,3,28,445.2099999999999
+780,2210,Kirby,Cameron,Male,16,1985-11-24,Registered Nurse,Health,High Net Worth,N,No,5,36,4888.71
+781,2217,Kristofor,Juris,Male,98,1981-10-17,Paralegal,Financial Services,Mass Customer,N,No,16,40,3905.4199999999996
+782,2220,Curr,Jancey,Male,35,1959-05-13,Legal Assistant,Financial Services,Mass Customer,N,Yes,13,62,2129.07
+783,2221,Tye,Scottini,Male,80,1995-11-07,General Manager,Argiculture,Affluent Customer,N,No,7,26,4651.259999999999
+784,2227,Duff,Kemble,Male,45,1976-07-16,Systems Administrator I,Property,Affluent Customer,N,Yes,9,45,2168.4000000000005
+785,2234,Dylan,Hanvey,Male,48,1986-09-09,Electrical Engineer,Manufacturing,Mass Customer,N,No,18,35,1719.1599999999999
+786,2236,Arin,Crickmoor,Male,0,1968-04-16,Data Coordiator,Manufacturing,Affluent Customer,N,Yes,13,53,2123.71
+787,2240,Niall,Hallifax,Male,4,1969-07-25,Automation Specialist III,Manufacturing,High Net Worth,N,Yes,16,52,6128.299999999999
+788,2241,Augy,Jerrems,Male,45,1975-02-23,Paralegal,Financial Services,High Net Worth,N,No,10,46,1454.3900000000003
+789,2244,Sidney,Cargon,Male,97,1972-05-10,Software Test Engineer III,Manufacturing,Mass Customer,N,No,5,49,1796.0
+790,2255,Iorgo,Krol,Male,92,1992-07-11,Dental Hygienist,Health,Affluent Customer,N,Yes,5,29,1458.6999999999998
+791,2257,Siward,Corradino,Male,27,1977-10-13,Librarian,Entertainment,Mass Customer,N,No,15,44,4193.32
+792,2260,Jarad,Barthropp,Male,38,1967-02-09,Administrative Assistant IV,Argiculture,High Net Worth,N,No,11,54,5378.6
+793,2261,Gerome,Monshall,Male,81,1980-09-21,Account Representative II,Health,Mass Customer,N,Yes,13,41,1465.1599999999999
+794,2270,Augustus,Edleston,Male,50,1966-09-28,Information Systems Manager,Retail,Affluent Customer,N,No,9,55,5154.68
+795,2278,Gerri,Heliet,Male,11,1977-09-25,Product Engineer,Health,Affluent Customer,N,Yes,8,44,279.77999999999986
+796,2279,Garrett,Szymon,Male,42,1979-03-19,Human Resources Assistant II,Health,Mass Customer,N,No,3,42,4008.7599999999998
+797,2282,Dominic,Gregoletti,Male,81,1957-02-25,Senior Financial Analyst,Financial Services,Affluent Customer,N,Yes,7,64,3131.5100000000007
+798,2288,Cirillo,Hook,Male,63,1964-05-04,Staff Scientist,Manufacturing,High Net Worth,N,No,8,57,4438.469999999999
+799,2290,Myca,Standley,Male,18,1981-03-10,Account Executive,Manufacturing,Mass Customer,N,Yes,5,40,4225.77
+800,2291,Guido,Meynell,Male,67,1971-04-13,Accountant IV,Manufacturing,Affluent Customer,N,Yes,4,50,198.22000000000003
+801,2294,Skipton,Cordie,Male,25,1987-06-16,Associate Professor,Manufacturing,Mass Customer,N,No,21,34,5050.26
+802,2298,Brigham,Vyse,Male,64,1997-10-28,Environmental Tech,Property,Mass Customer,N,Yes,5,24,3140.01
+803,2299,Mahmoud,Dagworthy,Male,11,1986-10-21,Computer Systems Analyst I,Property,High Net Worth,N,Yes,7,35,3142.75
+804,2301,Ken,Vashchenko,Male,66,1966-10-30,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,19,55,4704.92
+805,2303,Alair,Combe,Male,22,1993-04-13,Database Administrator IV,Retail,Mass Customer,N,Yes,4,28,969.6199999999999
+806,2309,Herc,McIlhone,Male,40,1985-01-13,Accounting Assistant I,Manufacturing,Affluent Customer,N,No,14,36,7161.99
+807,2314,Ravid,Lapenna,Male,59,1993-12-22,Registered Nurse,Health,High Net Worth,N,Yes,7,28,2355.7599999999998
+808,2315,Pernell,MacCheyne,Male,25,1994-03-01,Community Outreach Specialist,Financial Services,Affluent Customer,N,No,8,27,600.7599999999998
+809,2316,Vernen,Bourgaize,Male,79,1978-03-21,Computer Systems Analyst IV,Financial Services,Affluent Customer,N,Yes,11,43,1437.54
+810,2317,Alwin,Cuberley,Male,97,1976-12-07,Tax Accountant,Health,Mass Customer,N,Yes,16,45,2715.29
+811,2319,David,Darrigrand,Male,63,1985-05-03,Librarian,Entertainment,High Net Worth,N,No,18,36,4564.900000000001
+812,2322,Hazlett,Rosenschein,Male,72,1992-05-24,Biostatistician III,Health,Mass Customer,N,Yes,2,29,2585.1499999999996
+813,2323,Adair,Piser,Male,2,1988-04-30,Desktop Support Technician,Property,High Net Worth,N,No,13,33,1959.79
+814,2324,Jerrold,Robben,Male,44,1966-08-05,Sales Associate,Manufacturing,Mass Customer,N,Yes,16,55,1322.2199999999998
+815,2325,Emmett,Whatsize,Male,50,1964-01-06,Database Administrator IV,Retail,High Net Worth,N,Yes,12,57,2178.83
+816,2326,Trev,Boothebie,Male,64,1966-06-22,Programmer Analyst I,Retail,High Net Worth,N,No,14,55,309.80999999999995
+817,2328,Gayler,Shackle,Male,63,1986-06-03,Dental Hygienist,Health,Mass Customer,N,Yes,8,35,356.5
+818,2332,Jeff,Goodere,Male,99,1977-04-20,Developer III,Property,High Net Worth,N,Yes,10,44,651.6399999999999
+819,2333,Ives,Adolfson,Male,82,1966-04-19,Structural Analysis Engineer,Financial Services,Mass Customer,N,Yes,10,55,2113.9000000000005
+820,2334,Zebulen,Hefford,Male,30,1996-03-16,Food Chemist,Health,Affluent Customer,N,No,5,25,1315.76
+821,2336,Karney,Labrone,Male,59,1978-01-19,Dental Hygienist,Health,Affluent Customer,N,No,17,43,5853.82
+822,2339,Damien,Haddeston,Male,3,1958-12-28,Web Designer II,Property,Affluent Customer,N,Yes,16,63,3960.5600000000004
+823,2340,Joachim,Amer,Male,33,1978-03-29,Research Assistant IV,Health,Mass Customer,N,Yes,16,43,4585.400000000001
+824,2343,Wilhelm,Corteis,Male,6,1959-03-24,Nurse Practicioner,Argiculture,High Net Worth,N,Yes,5,62,3275.66
+825,2344,Wat,Robelin,Male,93,1993-03-04,Nurse,Financial Services,Mass Customer,N,Yes,7,28,2605.09
+826,2353,Lyn,Luquet,Male,93,1978-12-27,Health Coach IV,Health,Affluent Customer,N,Yes,12,43,4842.52
+827,2358,Ave,Peatt,Male,26,1959-05-01,Senior Sales Associate,Retail,High Net Worth,N,Yes,15,62,3682.7300000000005
+828,2362,Herbie,Machans,Male,49,1972-06-05,Developer II,Financial Services,Affluent Customer,N,Yes,19,49,959.32
+829,2363,Bobby,Farmiloe,Male,92,1983-12-30,Nurse,Entertainment,Mass Customer,N,Yes,16,38,3222.99
+830,2367,Lorne,Sabin,Male,40,1957-05-22,Electrical Engineer,Manufacturing,Mass Customer,N,Yes,16,64,4188.12
+831,2372,Jim,Shoppee,Male,14,1977-09-10,Clinical Specialist,Health,Affluent Customer,N,No,10,44,3031.18
+832,2374,Dolf,Baudichon,Male,6,1993-06-15,Design Engineer,Financial Services,Mass Customer,N,No,9,28,5300.04
+833,2382,Turner,Huggens,Male,79,1971-07-05,Accounting Assistant III,Retail,Mass Customer,N,Yes,4,50,1301.43
+834,2384,Garey,Letrange,Male,96,1961-07-16,Operator,Health,High Net Worth,N,Yes,6,60,3796.7
+835,2385,Gaultiero,Lissenden,Male,70,1958-12-17,Dental Hygienist,Health,Mass Customer,N,No,8,63,4797.13
+836,2388,Quincy,Weben,Male,84,1997-05-28,Cost Accountant,Financial Services,Mass Customer,N,No,1,24,5387.65
+837,2389,Sibyl,Gudge,Male,18,1973-12-28,Desktop Support Technician,Retail,High Net Worth,N,No,7,48,1030.19
+838,2397,Cassius,Birchenough,Male,33,1985-06-10,Analyst Programmer,Retail,Affluent Customer,N,Yes,4,36,4002.3199999999997
+839,2400,Lindsay,Stollsteiner,Male,73,1978-02-28,Office Assistant III,Property,Mass Customer,N,Yes,22,43,5205.75
+840,2404,Conney,Grouse,Male,13,1960-03-14,Graphic Designer,Retail,Mass Customer,N,No,6,61,2978.25
+841,2411,Casey,McDade,Male,0,1964-05-27,Technical Writer,Financial Services,High Net Worth,N,No,13,57,3483.39
+842,2413,Abbey,Murrow,Male,27,1943-08-11,Environmental Specialist,Manufacturing,High Net Worth,N,Yes,17,78,4523.23
+843,2415,Tanner,Harp,Male,56,1978-11-05,Web Designer II,Manufacturing,Mass Customer,N,No,3,43,1844.8799999999999
+844,2416,Eberhard,Shalcras,Male,19,1959-12-29,Office Assistant I,Health,Affluent Customer,N,No,16,62,300.0899999999999
+845,2419,Aron,Karlsen,Male,96,1978-07-04,Physical Therapy Assistant,Property,High Net Worth,N,No,9,43,2702.5
+846,2423,Lenci,Symcox,Male,49,1981-02-20,Professor,IT,Mass Customer,N,Yes,20,40,50.66
+847,2431,Alvy,Tyndall,Male,15,1999-12-24,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,2,22,167.62999999999997
+848,2436,Jaymie,Wellesley,Male,37,1986-03-21,Help Desk Technician,IT,Mass Customer,N,No,4,35,1700.17
+849,2442,Odie,Enrrico,Male,8,1957-10-13,Social Worker,Health,Affluent Customer,N,Yes,17,64,2619.54
+850,2443,Towny,Python,Male,30,1990-02-13,Computer Systems Analyst I,Property,High Net Worth,N,No,20,31,3040.0600000000004
+851,2444,Emmet,Cristoforo,Male,22,1977-05-13,Associate Professor,Manufacturing,High Net Worth,N,No,11,44,3270.22
+852,2445,Johnnie,Prujean,Male,46,1976-03-11,Quality Control Specialist,Retail,Affluent Customer,N,No,18,45,2205.8
+853,2450,Jayson,Breheny,Male,64,1974-06-21,Structural Engineer,Retail,Affluent Customer,N,Yes,7,47,2365.9300000000003
+854,2451,Upton,Orford,Male,33,1973-03-09,Editor,Argiculture,Affluent Customer,N,Yes,18,48,1602.8200000000002
+855,2457,Benito,Vearnals,Male,70,1975-04-12,Developer IV,IT,High Net Worth,N,Yes,15,46,2757.2299999999996
+856,2460,Mick,Boutellier,Male,88,1976-05-17,Nurse Practicioner,Manufacturing,High Net Worth,N,Yes,12,45,1204.2599999999998
+857,2462,Fletcher,Hutchens,Male,17,1980-07-05,Assistant Media Planner,Entertainment,Affluent Customer,N,No,21,41,3506.54
+858,2464,Cleve,Jindrak,Male,78,1983-04-06,Speech Pathologist,Retail,Mass Customer,N,No,6,38,7817.1
+859,2466,Araldo,Klamp,Male,62,1980-10-04,Software Test Engineer IV,Entertainment,High Net Worth,N,No,16,41,1576.8200000000002
+860,2468,Parker,Barenskie,Male,51,1995-12-12,Marketing Assistant,Retail,High Net Worth,N,No,1,26,6900.79
+861,2471,Noland,Bresland,Male,55,1978-12-20,Geological Engineer,Manufacturing,Mass Customer,N,Yes,8,43,2490.66
+862,2472,Mathias,Element,Male,99,1989-06-02,Product Engineer,Health,High Net Worth,N,Yes,16,32,4181.0
+863,2476,Hal,Braddon,Male,13,1956-09-25,Administrative Officer,Property,High Net Worth,N,No,17,65,7493.2300000000005
+864,2477,Barney,Tilling,Male,25,1977-03-23,Electrical Engineer,Manufacturing,Affluent Customer,N,Yes,10,44,802.26
+865,2478,Andreas,Lamke,Male,85,1966-07-07,Senior Cost Accountant,Financial Services,Affluent Customer,N,Yes,10,55,2231.5
+866,2482,Regan,Siemens,Male,95,1953-12-10,Pharmacist,Health,Mass Customer,N,Yes,10,68,1400.8299999999997
+867,2487,Elton,Piggford,Male,92,1978-01-13,Operator,IT,Affluent Customer,N,Yes,14,43,2180.75
+868,2491,Tabbie,Turone,Male,74,1977-05-08,Clinical Specialist,Health,Mass Customer,N,No,14,44,1588.9
+869,2492,Gayelord,Lipman,Male,35,1974-02-01,Design Engineer,Manufacturing,High Net Worth,N,No,9,47,8437.43
+870,2493,Rey,Collum,Male,56,1981-08-19,Assistant Media Planner,Entertainment,Mass Customer,N,Yes,17,40,2303.0
+871,2496,Lew,Wittleton,Male,29,1980-08-26,Web Developer II,Manufacturing,Mass Customer,N,Yes,21,41,707.5600000000002
+872,2497,Gustav,Aaronsohn,Male,33,1969-04-05,Administrative Assistant IV,Property,Affluent Customer,N,No,12,52,2981.3900000000003
+873,2503,Devlin,Laneham,Male,80,1967-07-16,Budget/Accounting Analyst I,Health,Affluent Customer,N,Yes,10,54,2609.51
+874,2509,Danya,Beadles,Male,99,1971-07-07,Help Desk Technician,Financial Services,Mass Customer,N,No,7,50,3812.53
+875,2510,Nealson,Lowdham,Male,43,1973-04-10,Human Resources Manager,Manufacturing,Mass Customer,N,Yes,7,48,5681.299999999999
+876,2511,Jedidiah,Daulby,Male,20,1991-07-12,Technical Writer,Financial Services,Mass Customer,N,Yes,4,30,2152.6899999999996
+877,2513,Rustie,Ligoe,Male,55,1978-07-31,Structural Analysis Engineer,Property,Mass Customer,N,No,12,43,3831.16
+878,2514,Vincenty,Sayer,Male,25,1975-08-11,Senior Financial Analyst,Financial Services,High Net Worth,N,Yes,17,46,1853.2999999999997
+879,2519,Ryon,Dalliston,Male,76,1979-10-17,Senior Developer,Manufacturing,Mass Customer,N,Yes,5,42,456.6299999999999
+880,2520,Gabie,Skett,Male,71,1974-05-27,Accountant III,Retail,Affluent Customer,N,Yes,10,47,2283.5499999999997
+881,2524,Rustie,Kingsland,Male,84,1969-05-29,Help Desk Technician,Retail,Mass Customer,N,Yes,8,52,2222.3700000000003
+882,2525,Hans,Ison,Male,25,1992-10-03,Cost Accountant,Financial Services,Mass Customer,N,No,8,29,217.51
+883,2526,Izaak,Dopson,Male,89,1969-02-01,Software Test Engineer II,Manufacturing,Mass Customer,N,No,8,52,2467.14
+884,2528,Cassie,Toffaloni,Male,81,1978-09-23,Senior Editor,Financial Services,Affluent Customer,N,No,15,43,4870.35
+885,2529,Ben,Laidler,Male,81,1954-05-11,Quality Engineer,Manufacturing,High Net Worth,N,Yes,10,67,4083.33
+886,2531,Brendan,Verbeke,Male,48,1981-08-20,Teacher,Property,High Net Worth,N,Yes,8,40,3162.37
+887,2533,Harper,Ioannidis,Male,11,1993-07-26,Speech Pathologist,Health,Affluent Customer,N,Yes,5,28,1710.62
+888,2535,Butch,Broadnicke,Male,53,1981-08-20,Accountant III,Financial Services,Affluent Customer,N,No,13,40,3065.02
+889,2539,Tracie,Ashdown,Male,68,1967-04-22,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,Yes,12,54,2862.41
+890,2541,Cleveland,Islep,Male,17,2000-03-14,Software Engineer II,Financial Services,High Net Worth,N,Yes,2,21,1918.88
+891,2544,Ellery,Bowra,Male,73,1988-01-31,VP Marketing,Manufacturing,Mass Customer,N,Yes,16,33,3044.7999999999997
+892,2549,Mike,Geggus,Male,12,1998-08-07,Pharmacist,Health,Mass Customer,N,Yes,4,23,2211.5599999999995
+893,2550,Dionysus,Elmhurst,Male,34,1997-08-12,Pharmacist,Health,Mass Customer,N,Yes,4,24,3128.27
+894,2555,Brad,Tenman,Male,43,1976-09-19,Health Coach IV,Health,Affluent Customer,N,No,11,45,5495.54
+895,2562,Boonie,Withams,Male,98,1980-09-26,Internal Auditor,Retail,Mass Customer,N,No,13,41,3848.22
+896,2567,Tobe,Spirit,Male,97,1975-01-13,Systems Administrator IV,Financial Services,Mass Customer,N,No,22,46,1829.58
+897,2569,Sig,Sellan,Male,62,1985-05-03,VP Quality Control,Retail,Mass Customer,N,No,16,36,3935.08
+898,2570,Hirsch,Peele,Male,13,1977-09-10,Professor,Financial Services,Mass Customer,N,Yes,18,44,4420.450000000001
+899,2571,Chariot,Keefe,Male,97,1986-11-17,Internal Auditor,Health,Affluent Customer,N,Yes,7,35,2222.29
+900,2575,Hagan,Abrahmer,Male,87,1974-06-07,Business Systems Development Analyst,Financial Services,High Net Worth,N,Yes,16,47,2118.0
+901,2578,Felice,McVane,Male,49,1991-02-27,Tax Accountant,Retail,High Net Worth,N,No,3,30,1955.7800000000002
+902,2582,Harv,Pavey,Male,98,1977-08-10,Director of Sales,Health,Mass Customer,N,No,7,44,2912.8100000000004
+903,2586,Heywood,Sollett,Male,10,1979-09-12,Tax Accountant,Financial Services,Mass Customer,N,Yes,13,42,1145.04
+904,2592,Archibaldo,Argrave,Male,84,1995-06-19,Help Desk Operator,Financial Services,Mass Customer,N,Yes,1,26,6490.3
+905,2594,Sigismond,Stockow,Male,90,1997-06-23,Internal Auditor,Manufacturing,Mass Customer,N,No,2,24,4895.55
+906,2598,Lindsay,Maydway,Male,23,1980-03-26,Senior Developer,Manufacturing,Affluent Customer,N,No,9,41,3931.13
+907,2600,Darnell,Wistance,Male,55,2001-03-03,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,1,20,3233.7700000000004
+908,2604,Lewiss,Jaeggi,Male,91,1975-05-08,Account Executive,Retail,Mass Customer,N,Yes,7,46,2795.79
+909,2605,Had,Gilling,Male,50,1965-02-03,Marketing Manager,Health,High Net Worth,N,Yes,18,56,4346.57
+910,2607,Laurent,Ainslee,Male,90,1992-05-08,Registered Nurse,Health,Affluent Customer,N,Yes,7,29,1943.5099999999998
+911,2612,Bran,Sauven,Male,33,1969-04-30,Statistician I,Retail,Affluent Customer,N,No,18,52,1145.41
+912,2620,Henderson,Koubek,Male,26,1999-04-30,Civil Engineer,Manufacturing,Mass Customer,N,No,1,22,4919.55
+913,2622,Natty,Sisneros,Male,13,1979-12-10,Staff Accountant I,Financial Services,Mass Customer,N,No,16,42,3800.0299999999997
+914,2623,Zackariah,Catteroll,Male,42,1982-07-28,Media Manager III,Property,Mass Customer,N,Yes,15,39,3633.61
+915,2624,Winfield,Lampitt,Male,37,1964-07-08,Community Outreach Specialist,Retail,Mass Customer,N,Yes,11,57,2083.5600000000004
+916,2626,Gerome,Lawrenz,Male,42,1998-10-24,Account Coordinator,Property,Affluent Customer,N,Yes,4,23,2023.9499999999998
+917,2628,Giselbert,Gudyer,Male,29,2001-05-21,Assistant Media Planner,Entertainment,Affluent Customer,N,No,1,20,1808.92
+918,2631,Antonio,Brewis,Male,4,1995-05-11,Software Engineer I,Financial Services,Mass Customer,N,Yes,2,26,866.46
+919,2634,Silvester,Scowcroft,Male,85,1980-07-14,Quality Engineer,Financial Services,High Net Worth,N,No,15,41,798.28
+920,2635,Arty,Mac Geaney,Male,45,1959-01-03,Nurse,Retail,Mass Customer,N,No,14,62,5178.5599999999995
+921,2638,Moritz,Brognot,Male,1,1977-02-10,Budget/Accounting Analyst III,IT,Mass Customer,N,Yes,15,44,4047.25
+922,2644,Brooke,Alastair,Male,72,1977-09-03,VP Sales,IT,Mass Customer,N,No,12,44,1607.27
+923,2645,Ado,Yaldren,Male,20,2000-06-26,Technical Writer,IT,High Net Worth,N,Yes,1,21,1500.81
+924,2649,Merwyn,MacPhail,Male,7,1986-01-16,Dental Hygienist,Health,Affluent Customer,N,Yes,20,35,3870.96
+925,2651,Silvan,Ellison,Male,10,1978-10-20,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,10,43,6148.63
+926,2653,Aylmer,Glenwright,Male,80,1995-01-05,Food Chemist,Health,Affluent Customer,N,No,1,26,7365.4800000000005
+927,2655,York,Strongman,Male,56,1966-06-11,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,15,55,4527.9400000000005
+928,2663,Royce,Pietrowicz,Male,69,1956-08-01,Environmental Tech,Health,Mass Customer,N,Yes,19,65,2037.02
+929,2665,Seth,Murdie,Male,43,1965-03-28,Project Manager,Telecommunications,Mass Customer,N,Yes,17,56,3383.62
+930,2666,Lyle,Eager,Male,2,1971-02-16,Occupational Therapist,Health,Mass Customer,N,No,9,50,1424.8200000000002
+931,2668,Allan,Govan,Male,27,1978-07-26,Senior Quality Engineer,Health,Mass Customer,N,No,18,43,1542.41
+932,2669,Carrol,Jordin,Male,95,1995-02-18,Business Systems Development Analyst,Property,Affluent Customer,N,No,1,26,1280.07
+933,2670,Cam,MacFadyen,Male,53,1977-05-13,VP Accounting,Financial Services,High Net Worth,N,Yes,18,44,1311.3899999999999
+934,2672,Talbert,Folliss,Male,21,1986-01-16,Clinical Specialist,Health,Affluent Customer,N,No,4,35,2415.1600000000003
+935,2676,Stinky,Marlen,Male,33,1957-01-21,Product Engineer,Retail,Mass Customer,N,Yes,12,64,2943.88
+936,2678,Amble,Tandy,Male,33,1976-12-30,Sales Associate,Health,Mass Customer,N,No,11,45,2932.34
+937,2679,Padriac,Apple,Male,5,1990-06-06,Director of Sales,Financial Services,High Net Worth,N,No,10,31,3337.8700000000003
+938,2684,Erastus,Payley,Male,96,1964-03-14,Health Coach IV,Health,Mass Customer,N,Yes,12,57,6337.4
+939,2686,Cully,Takos,Male,63,1996-05-21,Automation Specialist II,Financial Services,Affluent Customer,N,No,4,25,6119.73
+940,2687,Fabe,Smallbone,Male,67,1962-01-28,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,20,59,3107.24
+941,2688,Shelden,Lorent,Male,53,1977-05-18,Database Administrator III,Property,Mass Customer,N,No,13,44,1017.75
+942,2691,Stearn,Boutton,Male,41,1975-11-03,Librarian,Entertainment,Mass Customer,N,No,18,46,3088.92
+943,2693,Abram,Phillipson,Male,91,1968-04-11,Research Assistant III,Health,High Net Worth,N,Yes,16,53,2772.31
+944,2699,Michal,Woltering,Male,93,1978-05-25,Account Representative IV,Manufacturing,Affluent Customer,N,Yes,16,43,1757.44
+945,2704,Orlando,Gniewosz,Male,6,1999-02-08,Account Representative IV,Retail,Affluent Customer,N,Yes,3,22,513.5799999999999
+946,2706,Kelly,Bilyard,Male,59,1964-07-21,Desktop Support Technician,Retail,Affluent Customer,N,No,6,57,1343.6100000000001
+947,2707,Tabb,Haberjam,Male,56,1988-12-26,Account Coordinator,Property,High Net Worth,N,Yes,5,33,1323.2199999999998
+948,2711,Steven,Keetley,Male,52,1970-08-31,Biostatistician II,Health,Affluent Customer,N,No,6,51,2814.87
+949,2713,Hadlee,Mackro,Male,55,1954-11-03,Statistician II,Retail,Affluent Customer,N,Yes,5,67,755.3000000000001
+950,2715,Umberto,Cappineer,Male,27,1962-11-14,Civil Engineer,Manufacturing,Affluent Customer,N,No,11,59,3221.8099999999995
+951,2717,Frederic,McGown,Male,31,1981-03-25,Registered Nurse,Health,Mass Customer,N,No,13,40,4465.46
+952,2719,Alleyn,Clear,Male,69,1988-08-24,Teacher,Telecommunications,Affluent Customer,N,Yes,6,33,1101.08
+953,2724,Gerome,Dutteridge,Male,92,1994-01-10,Mechanical Systems Engineer,Financial Services,Mass Customer,N,No,4,27,1980.71
+954,2726,Bradford,Monkton,Male,49,1976-03-18,Administrative Officer,Financial Services,Affluent Customer,N,No,4,45,5184.97
+955,2730,Taddeo,Karlicek,Male,15,1960-11-27,Senior Financial Analyst,Financial Services,Mass Customer,N,No,11,61,1604.23
+956,2735,Ricoriki,Burree,Male,18,1958-09-06,Associate Professor,Financial Services,High Net Worth,N,Yes,14,63,836.04
+957,2739,Alair,Cullingford,Male,48,1985-07-18,Mechanical Systems Engineer,Health,High Net Worth,N,Yes,15,36,456.42
+958,2741,Reinwald,Sinkins,Male,6,1999-02-28,Statistician II,Property,High Net Worth,N,No,4,22,2316.34
+959,2742,Osgood,Risby,Male,50,1979-04-14,Actuary,Financial Services,High Net Worth,N,Yes,15,42,2031.17
+960,2743,Carr,Muckley,Male,67,1979-05-25,Social Worker,Health,High Net Worth,N,Yes,20,42,1428.62
+961,2744,Bjorn,Isitt,Male,59,1999-01-25,Senior Financial Analyst,Financial Services,Mass Customer,N,No,3,22,1264.73
+962,2749,Cale,Cunningham,Male,3,1979-01-12,Sales Representative,Retail,Mass Customer,N,No,5,42,327.9799999999999
+963,2751,Cordell,Coxhell,Male,94,1979-07-27,Sales Associate,Retail,High Net Worth,N,Yes,12,42,3819.81
+964,2753,Bale,Ney,Male,26,1985-02-12,Nuclear Power Engineer,Manufacturing,Mass Customer,N,Yes,7,36,5203.18
+965,2754,Waring,Selwyn,Male,17,1963-06-23,Chief Design Engineer,Retail,Mass Customer,N,No,11,58,3273.01
+966,2760,Early,Saggs,Male,55,1976-04-19,Teacher,Property,Mass Customer,N,No,11,45,1617.96
+967,2768,Forest,Knowling,Male,86,1995-09-26,Executive Secretary,Manufacturing,Mass Customer,N,No,3,26,3420.58
+968,2769,Trevor,Itschakov,Male,31,1978-09-10,Product Engineer,Manufacturing,Affluent Customer,N,Yes,15,43,4177.84
+969,2770,Olvan,Loadwick,Male,24,1977-01-30,VP Quality Control,Manufacturing,High Net Worth,N,Yes,13,44,10028.8
+970,2772,Reynolds,Vreede,Male,15,1954-10-25,Quality Engineer,Property,Affluent Customer,N,Yes,13,67,2446.21
+971,2773,Page,Farthin,Male,69,1976-03-21,Structural Engineer,Manufacturing,Mass Customer,N,Yes,20,45,2293.1299999999997
+972,2778,Micheil,Pockey,Male,50,1978-08-13,Paralegal,Financial Services,Mass Customer,N,No,12,43,3348.4700000000003
+973,2780,Papageno,Beare,Male,77,1985-11-16,Actuary,Financial Services,Affluent Customer,N,Yes,16,36,3092.1200000000003
+974,2783,Antonin,Gleaves,Male,14,1978-08-24,Sales Representative,Retail,Affluent Customer,N,Yes,7,43,2757.77
+975,2784,Thurston,McKennan,Male,6,1989-08-09,Geological Engineer,Manufacturing,Mass Customer,N,No,13,32,1075.06
+976,2786,Hubie,Bottoner,Male,94,1968-01-21,Accountant III,Health,Mass Customer,N,Yes,11,53,2718.29
+977,2791,Dew,Lavrinov,Male,72,1988-04-12,Financial Advisor,Financial Services,Mass Customer,N,No,3,33,5887.66
+978,2793,Mead,Corkell,Male,77,1971-06-16,Research Nurse,Health,Affluent Customer,N,Yes,14,50,3730.38
+979,2798,Barclay,Gricks,Male,59,1965-02-19,Recruiter,Argiculture,High Net Worth,N,Yes,5,56,799.8499999999999
+980,2806,Thorndike,Glossop,Male,60,1986-05-18,Programmer Analyst II,Manufacturing,Mass Customer,N,Yes,3,35,3420.13
+981,2808,Preston,Tinkham,Male,68,2001-06-29,Actuary,Financial Services,Mass Customer,N,Yes,1,20,5190.91
+982,2814,Mandel,Hellyar,Male,42,1986-01-18,Junior Executive,Property,High Net Worth,N,Yes,18,35,3232.82
+983,2819,Clyve,Starmont,Male,63,1977-12-04,Executive Secretary,Manufacturing,Affluent Customer,N,No,14,44,2500.31
+984,2820,Tristam,Gutcher,Male,44,1979-03-01,Engineer I,Manufacturing,Affluent Customer,N,Yes,16,42,4695.9400000000005
+985,2821,Fairlie,Alasdair,Male,13,1985-01-23,Human Resources Assistant III,Property,Affluent Customer,N,No,11,36,1471.91
+986,2823,Weidar,Antognazzi,Male,98,1971-04-20,Budget/Accounting Analyst IV,Property,Mass Customer,N,No,7,50,1636.08
+987,2824,Lombard,Essame,Male,41,1995-06-11,Assistant Media Planner,Entertainment,Affluent Customer,N,No,7,26,5278.02
+988,2830,Bjorn,Simioli,Male,39,1958-12-19,Computer Systems Analyst II,Manufacturing,High Net Worth,N,No,9,63,2490.7599999999998
+989,2832,Tedmund,Plumm,Male,9,1976-09-25,Recruiter,Telecommunications,Mass Customer,N,Yes,9,45,3531.5699999999997
+990,2840,Wallie,Baitman,Male,63,1992-09-04,Recruiter,Manufacturing,Mass Customer,N,Yes,9,29,811.67
+991,2851,Ulberto,Haking,Male,36,1975-12-17,Programmer IV,Entertainment,Affluent Customer,N,Yes,16,46,4113.78
+992,2853,Clarence,Flook,Male,65,1985-10-21,Executive Secretary,Retail,High Net Worth,N,Yes,7,36,4610.6
+993,2862,Normand,Pattillo,Male,46,1987-12-23,Cost Accountant,Financial Services,Mass Customer,N,No,10,34,1870.13
+994,2863,Alisander,Fetherstone,Male,90,1965-03-26,Internal Auditor,Manufacturing,Mass Customer,N,No,16,56,167.20999999999998
+995,2871,Hubie,Keld,Male,49,1978-03-20,Assistant Media Planner,Entertainment,High Net Worth,N,Yes,15,43,2345.94
+996,2875,Keven,Leahair,Male,71,1998-10-23,Financial Analyst,Financial Services,High Net Worth,N,No,2,23,3231.91
+997,2877,Vaughan,Frank,Male,59,1967-11-01,Senior Sales Associate,Property,Affluent Customer,N,Yes,18,54,4947.27
+998,2878,Sauveur,Skeel,Male,73,1985-10-31,Analog Circuit Design manager,Property,Mass Customer,N,Yes,9,36,784.91
+999,2880,Ingra,Kelby,Male,43,1967-11-15,Legal Assistant,Health,Mass Customer,N,No,7,54,4772.56
+1000,2881,Ezra,Steffan,Male,71,1962-09-27,Associate Professor,Health,Affluent Customer,N,Yes,11,59,3646.67
+1001,2883,Ulick,Bruty,Male,84,1995-05-19,Paralegal,Financial Services,Mass Customer,N,Yes,2,26,5553.21
+1002,2887,Gardiner,Spehr,Male,42,1974-02-24,Speech Pathologist,Financial Services,High Net Worth,N,Yes,18,47,6202.900000000001
+1003,2888,Hamel,Crosser,Male,37,1962-05-23,Project Manager,IT,High Net Worth,N,Yes,16,59,5055.73
+1004,2892,Paulie,Wolffers,Male,59,1965-05-09,Junior Executive,Manufacturing,Affluent Customer,N,Yes,7,56,4015.0200000000004
+1005,2900,Cyrille,Figliovanni,Male,29,1986-05-30,Occupational Therapist,Health,Mass Customer,N,Yes,18,35,2041.2
+1006,2903,Avery,Adamov,Male,47,1977-09-20,Operator,Manufacturing,Affluent Customer,N,Yes,9,44,1370.8
+1007,2913,Padraic,Bonnar,Male,44,1955-07-11,VP Quality Control,IT,Affluent Customer,N,Yes,14,66,1548.6499999999999
+1008,2916,Lauren,Adolfson,Male,23,1969-08-03,Product Engineer,Manufacturing,Affluent Customer,N,Yes,9,52,2509.8
+1009,2922,Wallache,Tatlow,Male,34,1981-12-10,Sales Associate,Manufacturing,Affluent Customer,N,Yes,10,40,3257.52
+1010,2925,Henderson,Sloey,Male,36,1978-05-02,Business Systems Development Analyst,Financial Services,Affluent Customer,N,Yes,19,43,2770.16
+1011,2927,Yard,Spellman,Male,49,1960-09-08,VP Sales,Manufacturing,Affluent Customer,N,Yes,14,61,2440.02
+1012,2929,Winny,Cakes,Male,97,1999-07-28,Nurse,Retail,Mass Customer,N,No,2,22,6692.39
+1013,2930,Goddard,Benthall,Male,46,1997-07-25,Assistant Media Planner,Entertainment,Mass Customer,N,No,3,24,3166.93
+1014,2931,Efren,Twiddell,Male,61,1979-01-27,Executive Secretary,IT,Mass Customer,N,Yes,6,42,1700.5500000000002
+1015,2932,Bradly,Deboick,Male,4,1985-04-18,Account Representative I,IT,Mass Customer,N,No,17,36,5823.709999999999
+1016,2933,Ralf,Presidey,Male,61,1986-04-19,Administrative Officer,Retail,Affluent Customer,N,Yes,6,35,1241.68
+1017,2938,Richardo,Cocher,Male,79,2000-02-21,Assistant Manager,Argiculture,Affluent Customer,N,No,2,21,4655.53
+1018,2944,Kimball,Scutter,Male,45,1977-06-05,Environmental Specialist,Manufacturing,Affluent Customer,N,No,7,44,1458.81
+1019,2948,Yank,Scarlett,Male,23,1997-01-17,Internal Auditor,Manufacturing,Mass Customer,N,Yes,2,24,2670.13
+1020,2950,Kristos,Anthony,Male,19,1955-01-11,Software Engineer I,Financial Services,Mass Customer,N,Yes,10,66,645.99
+1021,2951,Duffy,Godbehere,Male,13,1977-09-25,Community Outreach Specialist,Financial Services,High Net Worth,N,No,12,44,4729.7300000000005
+1022,2953,Hector,Carwithan,Male,45,1972-10-26,Recruiting Manager,Health,High Net Worth,N,Yes,8,49,2881.21
+1023,2955,Stuart,Dutnell,Male,74,1990-03-19,Community Outreach Specialist,Financial Services,High Net Worth,N,No,13,31,4306.13
+1024,2956,Thedric,Bolding,Male,17,1959-12-16,Quality Control Specialist,Telecommunications,Mass Customer,N,Yes,19,62,2683.67
+1025,2957,Hurlee,Helleckas,Male,66,1969-11-21,Social Worker,Health,Affluent Customer,N,No,11,52,2844.83
+1026,2958,Regan,Botly,Male,10,1975-11-23,Health Coach II,Manufacturing,Affluent Customer,N,Yes,14,46,1850.9900000000002
+1027,2961,Merv,Barradell,Male,56,1975-03-22,Assistant Manager,Health,Mass Customer,N,Yes,12,46,6234.87
+1028,2967,Dud,Coom,Male,60,1979-09-14,Social Worker,Health,Affluent Customer,N,Yes,20,42,2466.2799999999997
+1029,2968,Lek,Viel,Male,38,1977-11-25,Human Resources Assistant III,Retail,High Net Worth,N,No,16,44,1644.2700000000002
+1030,2973,Torr,Mintram,Male,34,1972-05-12,Senior Developer,Health,High Net Worth,N,No,5,49,2016.03
+1031,2976,Lindsay,Beausang,Male,16,1964-08-07,Tax Accountant,Health,Mass Customer,N,Yes,8,57,3521.63
+1032,2978,Erasmus,Winckworth,Male,96,1974-05-07,Programmer IV,Manufacturing,Affluent Customer,N,No,10,47,827.7099999999999
+1033,2981,Benny,Jadczak,Male,26,1980-03-30,Sales Representative,Retail,High Net Worth,N,Yes,21,41,1260.26
+1034,2983,Hilario,Magrane,Male,2,1985-01-26,Human Resources Manager,Retail,Mass Customer,N,Yes,17,36,3344.1699999999996
+1035,2985,Kerby,Nesfield,Male,69,1986-10-14,Sales Representative,Retail,Affluent Customer,N,Yes,14,35,6308.16
+1036,2990,Brice,Martinuzzi,Male,65,1978-03-16,GIS Technical Architect,Argiculture,High Net Worth,N,No,8,43,2584.69
+1037,3000,Tann,McCard,Male,28,1974-05-15,Compensation Analyst,Financial Services,Affluent Customer,N,No,22,47,3354.27
+1038,3001,Gal,Waleran,Male,48,1977-07-22,Engineer IV,Argiculture,Mass Customer,N,No,20,44,3378.5699999999997
+1039,3002,Tracey,Verdun,Male,62,1956-12-06,Paralegal,Financial Services,Mass Customer,N,Yes,16,65,1784.32
+1040,3004,Waylon,Hammant,Male,82,1955-02-20,Research Assistant II,Health,Mass Customer,N,Yes,16,66,3550.04
+1041,3005,Rafaellle,Tantrum,Male,36,1969-01-05,Human Resources Manager,Property,Affluent Customer,N,Yes,8,52,2602.3099999999995
+1042,3007,Tudor,Pepper,Male,38,1973-05-22,Environmental Tech,Manufacturing,Mass Customer,N,No,16,48,4500.3
+1043,3016,Forster,Bumford,Male,25,1985-08-11,Analog Circuit Design manager,Financial Services,High Net Worth,N,No,11,36,4253.5
+1044,3017,Jason,De Lorenzo,Male,88,1955-10-05,Operator,Financial Services,Affluent Customer,N,No,7,66,3281.6699999999996
+1045,3019,Alonso,Ceyssen,Male,98,1986-02-02,Community Outreach Specialist,Manufacturing,Affluent Customer,N,Yes,14,35,1138.54
+1046,3020,Witty,McArthur,Male,13,1965-12-24,Chemical Engineer,Manufacturing,High Net Worth,N,Yes,10,56,2638.1
+1047,3025,Osgood,Stolting,Male,27,1977-04-23,Compensation Analyst,Financial Services,Mass Customer,N,Yes,9,44,1652.3
+1048,3027,Augy,Rudall,Male,83,1977-10-30,Research Nurse,Health,Mass Customer,N,Yes,5,44,1393.6599999999999
+1049,3029,Timmie,Gori,Male,85,1978-07-17,Business Systems Development Analyst,Manufacturing,Mass Customer,N,No,13,43,1922.7499999999998
+1050,3031,Diego,Bertelmot,Male,95,1996-02-02,Staff Scientist,Health,Mass Customer,N,Yes,5,25,2910.87
+1051,3032,Renado,Wonfor,Male,53,1992-08-02,Analog Circuit Design manager,Health,Affluent Customer,N,Yes,5,29,6183.3099999999995
+1052,3035,Sigfrid,Caldecot,Male,98,1980-04-15,Associate Professor,Health,High Net Worth,N,No,13,41,2429.16
+1053,3042,Barris,Trayton,Male,76,1971-03-17,Engineer II,Property,High Net Worth,N,Yes,15,50,1629.2499999999998
+1054,3044,Russell,Brittoner,Male,59,1990-04-11,Occupational Therapist,Health,Affluent Customer,N,Yes,19,31,5793.33
+1055,3045,Renato,Mungham,Male,52,1996-10-02,Cost Accountant,Financial Services,Affluent Customer,N,Yes,2,25,4393.86
+1056,3047,Eddy,Cossans,Male,20,1962-01-14,Speech Pathologist,Retail,Mass Customer,N,Yes,19,59,3909.1400000000003
+1057,3048,Kenon,Messruther,Male,38,1969-05-27,Legal Assistant,Manufacturing,Mass Customer,N,No,16,52,6996.35
+1058,3058,Hamnet,Kibblewhite,Male,67,1986-10-10,Human Resources Manager,Manufacturing,Mass Customer,N,Yes,16,35,5935.45
+1059,3060,Milton,Gorini,Male,28,1982-09-14,VP Accounting,Financial Services,Mass Customer,N,Yes,6,39,5684.7300000000005
+1060,3062,Lesley,Ruskin,Male,78,1962-11-09,Civil Engineer,Manufacturing,Mass Customer,N,No,13,59,2857.68
+1061,3063,Andrea,Wildber,Male,74,1999-11-04,VP Sales,Financial Services,Affluent Customer,N,No,2,22,263.28
+1062,3064,Zach,Billison,Male,96,1995-06-14,Product Engineer,Financial Services,Affluent Customer,N,Yes,4,26,2410.92
+1063,3072,Roma,Prettjohn,Male,87,1979-04-12,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,10,42,3373.78
+1064,3073,Hernando,Farnham,Male,16,1967-04-12,Nurse,Telecommunications,Affluent Customer,N,No,17,54,1264.3300000000004
+1065,3074,Tracie,Grishaev,Male,31,1969-02-18,VP Quality Control,Health,Mass Customer,N,Yes,12,52,4781.58
+1066,3077,Emelen,Gillopp,Male,19,2000-08-11,Information Systems Manager,Manufacturing,Affluent Customer,N,No,2,21,3672.15
+1067,3079,Yorker,McKevany,Male,34,1959-11-18,Legal Assistant,Retail,Mass Customer,N,Yes,20,62,1903.52
+1068,3080,Christoforo,Santus,Male,87,1958-10-06,Graphic Designer,Financial Services,High Net Worth,N,No,10,63,4665.71
+1069,3087,Gerry,Scatcher,Male,64,1986-04-02,Social Worker,Health,Mass Customer,N,No,9,35,3708.87
+1070,3089,Wood,Nathan,Male,27,2000-02-24,Web Developer III,Manufacturing,Affluent Customer,N,Yes,2,21,3618.44
+1071,3090,Zared,Pinchback,Male,81,1964-12-06,Operator,Manufacturing,Mass Customer,N,No,8,57,3132.29
+1072,3093,Harwilll,Crimes,Male,31,1992-04-01,Mechanical Systems Engineer,Property,High Net Worth,N,Yes,6,29,2964.6199999999994
+1073,3097,Alessandro,Casley,Male,2,1978-05-09,Actuary,Financial Services,Affluent Customer,N,Yes,19,43,2427.07
+1074,3101,Paxton,Lermit,Male,68,1987-08-27,Geological Engineer,Manufacturing,High Net Worth,N,No,12,34,470.7999999999998
+1075,3102,Paquito,Maitland,Male,37,1990-06-04,Assistant Manager,Property,Affluent Customer,N,No,2,31,2883.5099999999998
+1076,3105,Bryn,Rycraft,Male,88,1965-10-14,Teacher,Health,Mass Customer,N,No,12,56,4916.08
+1077,3108,Trip,Ahmed,Male,94,1967-10-01,Accounting Assistant III,Entertainment,Mass Customer,N,No,10,54,5916.21
+1078,3110,Fabien,Iacapucci,Male,14,1994-02-11,Community Outreach Specialist,IT,Affluent Customer,N,Yes,8,27,1429.5400000000002
+1079,3111,Maxwell,Blabber,Male,42,1997-03-11,Associate Professor,Financial Services,Mass Customer,N,Yes,4,24,1381.19
+1080,3112,Terri,Gornal,Male,41,2001-04-22,Internal Auditor,Retail,High Net Worth,N,Yes,1,20,3035.96
+1081,3114,Judah,Prime,Male,48,1974-09-05,Teacher,IT,Mass Customer,N,Yes,18,47,1942.45
+1082,3115,Rip,Spiers,Male,40,1981-02-26,Nuclear Power Engineer,Manufacturing,Mass Customer,N,No,8,40,4020.91
+1083,3118,Cleveland,Coxon,Male,54,1993-01-22,Occupational Therapist,Health,High Net Worth,N,No,9,28,6243.82
+1084,3121,Mahmoud,Batterbee,Male,82,1959-05-11,Data Coordiator,Manufacturing,Mass Customer,N,No,19,62,3164.13
+1085,3126,Bondon,Deeley,Male,7,1986-10-16,Statistician IV,Financial Services,High Net Worth,N,No,12,35,4916.639999999999
+1086,3127,Tucker,Lewsley,Male,39,1971-01-31,Research Nurse,Health,Mass Customer,N,No,10,50,3898.4999999999995
+1087,3132,Nicko,Artois,Male,33,1975-04-15,Sales Representative,Retail,Mass Customer,N,Yes,7,46,3426.5400000000004
+1088,3135,Titus,Worsall,Male,83,1962-01-14,Staff Scientist,Financial Services,Mass Customer,N,No,16,59,3983.97
+1089,3136,Leonardo,Brennon,Male,60,1998-08-25,Marketing Manager,Retail,Mass Customer,N,Yes,3,23,1210.21
+1090,3138,Wait,Pardey,Male,34,1971-02-19,Paralegal,Financial Services,Mass Customer,N,Yes,6,50,3168.15
+1091,3139,Pail,De Blasi,Male,65,1973-06-13,Paralegal,Financial Services,High Net Worth,N,Yes,17,48,1783.7999999999997
+1092,3142,Hubert,Kliner,Male,98,1992-08-04,Electrical Engineer,Manufacturing,Mass Customer,N,No,6,29,900.0
+1093,3144,Ringo,Everson,Male,94,1978-10-29,Programmer Analyst III,Manufacturing,Mass Customer,N,Yes,8,43,665.1700000000001
+1094,3145,Gar,Barnewille,Male,17,1978-06-17,Paralegal,Financial Services,High Net Worth,N,Yes,7,43,4067.6400000000003
+1095,3158,Korey,Lansbury,Male,27,1970-05-02,VP Quality Control,Telecommunications,Mass Customer,N,Yes,12,51,2532.4
+1096,3160,Eadmund,Braycotton,Male,87,1978-07-03,Mechanical Systems Engineer,IT,Mass Customer,N,No,21,43,2307.21
+1097,3163,Irvine,Mc Mechan,Male,38,1968-06-01,Environmental Specialist,Argiculture,Affluent Customer,N,No,19,53,1496.78
+1098,3166,Bronson,Plowman,Male,96,1955-05-11,Social Worker,Health,Mass Customer,N,No,20,66,5155.63
+1099,3167,Vernor,Stedall,Male,36,1995-01-20,Web Designer IV,Property,Mass Customer,N,No,5,26,2208.52
+1100,3168,Johan,Dudderidge,Male,89,1976-02-16,Assistant Manager,Health,Affluent Customer,N,No,22,45,5170.509999999999
+1101,3169,Maxim,Chavrin,Male,96,1964-01-12,Payment Adjustment Coordinator,IT,Mass Customer,N,Yes,19,57,4539.950000000001
+1102,3175,Alphard,Cradduck,Male,82,1984-12-30,Operator,Health,Mass Customer,N,No,16,37,1801.14
+1103,3178,Gan,Marrion,Male,21,1971-09-28,VP Quality Control,Retail,Mass Customer,N,Yes,9,50,4339.76
+1104,3179,Jarid,Redwood,Male,87,1979-11-04,Assistant Media Planner,Entertainment,Affluent Customer,N,Yes,17,42,459.46000000000015
+1105,3181,Ferd,Chominski,Male,39,1976-09-29,Senior Editor,Financial Services,High Net Worth,N,No,6,45,5001.0
+1106,3183,Craig,Phethean,Male,64,1974-06-19,Junior Executive,Health,Mass Customer,N,No,14,47,2059.05
+1107,3185,Duky,Crichley,Male,25,1956-01-18,Senior Financial Analyst,Financial Services,Mass Customer,N,No,10,65,1939.7599999999998
+1108,3187,Samuele,Roycroft,Male,75,1974-05-12,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,14,47,1034.6999999999998
+1109,3189,Abbott,Knaggs,Male,40,1963-03-01,Environmental Specialist,Financial Services,Mass Customer,N,No,11,58,50.17999999999998
+1110,3194,Hakeem,Bernardinelli,Male,38,1978-03-11,Physical Therapy Assistant,Manufacturing,Mass Customer,N,No,11,43,2310.75
+1111,3197,Stern,Ilyenko,Male,83,1976-02-18,Environmental Specialist,Health,High Net Worth,N,No,14,45,2762.3199999999997
+1112,3198,Dur,Knappen,Male,66,1997-08-02,Media Manager III,Manufacturing,Mass Customer,N,Yes,1,24,3989.3499999999995
+1113,3201,Zed,Blanckley,Male,61,2000-03-31,Assistant Professor,Financial Services,Mass Customer,N,Yes,1,21,5655.87
+1114,3202,Garry,Gadson,Male,74,1994-09-10,Office Assistant IV,Financial Services,Mass Customer,N,Yes,2,27,4083.3599999999997
+1115,3216,Edgar,Ordish,Male,59,1998-05-08,Database Administrator III,Manufacturing,Mass Customer,N,Yes,1,23,1236.19
+1116,3220,Hunt,Linn,Male,53,1972-07-26,Research Assistant IV,Manufacturing,Affluent Customer,N,No,11,49,4304.219999999999
+1117,3225,Durante,Reddan,Male,19,1980-06-19,Chief Design Engineer,Health,Mass Customer,N,Yes,4,41,4805.02
+1118,3233,Xever,Feeley,Male,7,1959-01-06,Tax Accountant,Financial Services,Mass Customer,N,Yes,17,62,781.4599999999998
+1119,3234,Mata,Hoggan,Male,35,1987-04-15,Safety Technician II,Manufacturing,Mass Customer,N,Yes,19,34,943.2
+1120,3235,Leif,Woolfall,Male,88,1965-05-15,Business Systems Development Analyst,Property,Affluent Customer,N,Yes,12,56,574.6200000000001
+1121,3238,Sauveur,Edmands,Male,23,1977-07-20,Executive Secretary,Retail,Mass Customer,N,No,14,44,2076.8900000000003
+1122,3241,Milt,Erett,Male,34,1979-10-29,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,N,Yes,16,42,3695.15
+1123,3243,Tim,Besset,Male,24,1973-05-19,Media Manager I,Health,Mass Customer,N,No,7,48,1202.8700000000001
+1124,3245,Wainwright,Succamore,Male,86,1959-03-27,Graphic Designer,IT,High Net Worth,N,No,7,62,1935.5100000000002
+1125,3262,Maynord,L'Episcopi,Male,65,1959-10-14,Product Engineer,Entertainment,Mass Customer,N,No,12,62,4290.81
+1126,3265,Isaak,Higounet,Male,64,1967-06-02,Clinical Specialist,Health,High Net Worth,N,No,11,54,741.1299999999998
+1127,3270,Tracey,Redsull,Male,47,1957-04-12,Administrative Officer,Financial Services,Mass Customer,N,Yes,5,64,2201.06
+1128,3278,Marcel,Eddolls,Male,66,1982-06-22,VP Product Management,Financial Services,Affluent Customer,N,No,9,39,3216.13
+1129,3279,Morgun,Razoux,Male,55,1959-02-18,Staff Scientist,Financial Services,Mass Customer,N,No,14,62,690.49
+1130,3285,Mendie,Teresi,Male,51,1986-12-30,Recruiter,Health,Affluent Customer,N,Yes,9,35,3092.1400000000003
+1131,3286,Kent,Hatter,Male,23,1961-06-02,Assistant Media Planner,Entertainment,Mass Customer,N,No,20,60,5817.4400000000005
+1132,3289,Frederico,Spearman,Male,43,1978-01-04,Assistant Manager,Property,Mass Customer,N,No,12,43,3476.2299999999996
+1133,3292,Hamlen,Slograve,Male,71,1973-04-09,Web Designer I,Retail,Affluent Customer,N,Yes,3,48,15.080000000000005
+1134,3295,Cleavland,Karchowski,Male,14,1964-05-26,Human Resources Assistant III,Retail,High Net Worth,N,Yes,9,57,5246.61
+1135,3297,Addy,Moukes,Male,39,1975-04-26,Product Engineer,Manufacturing,Mass Customer,N,No,13,46,1521.43
+1136,3300,Quintus,Gouldthorpe,Male,47,1961-05-22,Executive Secretary,Retail,Mass Customer,N,No,14,60,3936.4399999999996
+1137,3302,Faulkner,McKiernan,Male,17,1956-10-30,Compensation Analyst,Financial Services,Affluent Customer,N,No,19,65,1428.2199999999998
+1138,3303,Ced,Cuell,Male,51,1967-02-02,Structural Engineer,Telecommunications,Affluent Customer,N,Yes,11,54,2547.0099999999998
+1139,3305,Neddy,La Grange,Male,25,1977-02-16,Senior Developer,Health,Mass Customer,N,Yes,11,44,124.78999999999999
+1140,3306,Iggy,Whorton,Male,50,1991-05-17,Compensation Analyst,Financial Services,Mass Customer,N,No,7,30,3473.13
+1141,3317,Ric,Kondrachenko,Male,35,1970-07-08,Actuary,Financial Services,Mass Customer,N,Yes,11,51,1213.31
+1142,3323,Cortie,Hamshar,Male,99,1973-03-01,Account Representative I,Health,High Net Worth,N,No,8,48,1142.75
+1143,3326,Wes,Crotch,Male,83,1975-04-13,Nurse,Manufacturing,High Net Worth,N,Yes,22,46,10422.04
+1144,3327,Roma,Le Gallo,Male,84,1973-02-02,Teacher,Manufacturing,Mass Customer,N,No,15,48,3615.5800000000004
+1145,3335,Damian,Dutt,Male,47,1979-12-15,Editor,Health,Mass Customer,N,No,16,42,2679.58
+1146,3336,Konstantine,Terne,Male,47,1979-01-10,Research Assistant IV,Manufacturing,Mass Customer,N,Yes,8,42,5824.48
+1147,3339,Andrea,Rand,Male,76,1986-05-08,Programmer Analyst III,Health,Mass Customer,N,No,21,35,1119.95
+1148,3349,Byram,Lamberts,Male,11,1981-01-22,Director of Sales,Argiculture,Affluent Customer,N,No,9,40,2496.51
+1149,3350,Tam,Prestner,Male,53,1975-05-29,Analog Circuit Design manager,Manufacturing,Affluent Customer,N,No,6,46,5796.16
+1150,3352,Fredek,Lobley,Male,14,1994-12-28,Human Resources Assistant IV,Manufacturing,Affluent Customer,N,No,1,27,2788.69
+1151,3356,Dill,Bampford,Male,47,1959-03-23,Safety Technician II,Financial Services,Mass Customer,N,Yes,6,62,2799.7000000000003
+1152,3357,Georgie,Henze,Male,25,1999-02-01,Design Engineer,Manufacturing,Affluent Customer,N,No,4,22,1441.0
+1153,3358,Fairlie,McGavin,Male,30,1973-09-17,Engineer I,Manufacturing,Affluent Customer,N,Yes,11,48,4447.21
+1154,3362,Piotr,Saladin,Male,60,1971-06-24,VP Accounting,Financial Services,Affluent Customer,N,No,13,50,558.49
+1155,3363,Orson,Tythacott,Male,25,2000-03-08,Electrical Engineer,Manufacturing,High Net Worth,N,Yes,3,21,1800.7199999999998
+1156,3366,Rickey,Gregolotti,Male,98,1975-02-26,Technical Writer,Manufacturing,Mass Customer,N,Yes,14,46,2264.1000000000004
+1157,3375,Thorsten,Gregon,Male,37,1993-03-21,Accounting Assistant I,Financial Services,High Net Worth,N,Yes,6,28,4285.9400000000005
+1158,3380,Abe,Ealam,Male,41,1955-01-09,Speech Pathologist,Manufacturing,High Net Worth,N,Yes,14,66,2793.81
+1159,3383,Dane,Swansbury,Male,47,1982-04-05,Financial Analyst,Financial Services,Affluent Customer,N,Yes,10,39,4177.32
+1160,3386,Cliff,Nolin,Male,24,1999-07-28,Structural Engineer,IT,High Net Worth,N,Yes,2,22,2522.69
+1161,3388,Urbanus,Pichan,Male,81,1986-10-25,VP Marketing,Retail,Mass Customer,N,No,7,35,3318.4900000000002
+1162,3392,Brock,Ride,Male,41,1976-12-12,Tax Accountant,Financial Services,Mass Customer,N,No,10,45,114.93
+1163,3394,Barde,Spoward,Male,39,1974-06-26,Environmental Specialist,Health,Mass Customer,N,No,22,47,4073.2
+1164,3396,Arin,Nappin,Male,18,1960-06-28,Research Assistant I,Manufacturing,Mass Customer,N,Yes,9,61,119.73
+1165,3399,Hillyer,Biddulph,Male,95,1996-05-10,VP Accounting,Financial Services,Mass Customer,N,No,2,25,3084.76
+1166,3407,Marven,Ditts,Male,53,1961-10-08,Cost Accountant,Financial Services,High Net Worth,N,Yes,19,60,3471.07
+1167,3415,Alberik,Kelsey,Male,43,1963-01-17,Quality Engineer,Property,High Net Worth,N,Yes,11,58,4593.820000000001
+1168,3420,Norby,Elion,Male,96,1980-09-10,Financial Advisor,Financial Services,Mass Customer,N,Yes,19,41,6808.18
+1169,3425,Alister,De la Yglesia,Male,32,1986-04-05,GIS Technical Architect,Manufacturing,Mass Customer,N,Yes,12,35,3350.14
+1170,3426,Ron,Dilon,Male,40,1959-04-18,Assistant Media Planner,Entertainment,Mass Customer,N,No,17,62,3713.5199999999995
+1171,3427,Mace,Edington,Male,67,1981-05-19,Help Desk Operator,Financial Services,Mass Customer,N,Yes,17,40,3921.0
+1172,3430,Augustus,Pickin,Male,77,1964-02-29,Research Nurse,Health,Affluent Customer,N,Yes,9,57,1653.02
+1173,3431,York,Calbreath,Male,97,1996-08-10,Community Outreach Specialist,Property,Affluent Customer,N,No,5,25,6022.12
+1174,3437,Penny,Wellington,Male,79,1963-10-20,VP Marketing,Retail,High Net Worth,N,No,12,58,2340.7199999999993
+1175,3438,Gaylor,Carbry,Male,11,1996-02-16,Project Manager,Manufacturing,Mass Customer,N,No,2,25,3180.64
+1176,3446,Gard,Tidy,Male,8,1967-01-30,Structural Engineer,Manufacturing,Mass Customer,N,No,14,54,308.78000000000003
+1177,3448,Roderich,Mixer,Male,26,1977-02-16,Software Consultant,Financial Services,High Net Worth,N,No,9,44,2616.7999999999997
+1178,3458,Alejandro,Shakelade,Male,35,1977-12-01,Web Developer III,Manufacturing,High Net Worth,N,Yes,19,44,1740.37
+1179,3460,Reinhold,Barthrup,Male,22,1999-10-10,Actuary,Financial Services,Mass Customer,N,No,2,22,8321.81
+1180,3461,Nigel,Izard,Male,28,1962-11-30,Environmental Specialist,Manufacturing,Affluent Customer,N,Yes,17,59,4233.2
+1181,3463,Fletch,Durrett,Male,7,1984-06-15,Compensation Analyst,Financial Services,Affluent Customer,N,No,2,37,993.9200000000001
+1182,3466,Victor,Zaple,Male,65,1979-09-28,Marketing Assistant,IT,Mass Customer,N,No,18,42,272.7900000000002
+1183,3467,Killy,Spaducci,Male,31,1980-05-20,VP Quality Control,IT,Mass Customer,N,No,21,41,5135.0
+1184,3472,Dionysus,McCarlie,Male,10,1977-06-27,VP Marketing,Retail,Affluent Customer,N,Yes,18,44,2779.58
+1185,3474,Justinian,Crowhurst,Male,93,1979-11-06,Assistant Manager,Manufacturing,Mass Customer,N,No,14,42,2358.99
+1186,3478,Hartwell,Schach,Male,54,1986-08-08,Quality Control Specialist,Health,Mass Customer,N,No,17,35,4297.85
+1187,3481,Haley,Dessent,Male,37,1997-10-12,Systems Administrator IV,Manufacturing,High Net Worth,N,No,4,24,2438.4500000000003
+1188,3483,Emlyn,Burnel,Male,19,1956-10-02,Senior Sales Associate,Health,High Net Worth,N,Yes,15,65,2193.04
+1189,3486,Reece,Crewther,Male,67,1956-07-25,Business Systems Development Analyst,Manufacturing,Mass Customer,N,No,18,65,2972.3399999999997
+1190,3488,Cristobal,Whitrod,Male,63,1975-08-07,Speech Pathologist,Manufacturing,Mass Customer,N,Yes,9,46,815.9499999999999
+1191,3490,Taylor,Dutchburn,Male,45,1980-06-21,VP Product Management,Financial Services,High Net Worth,N,No,14,41,2379.5699999999997
+1192,3492,Urbanus,Redding,Male,83,1966-01-27,Civil Engineer,Manufacturing,Mass Customer,N,No,19,55,2193.81
+1193,3493,Jeffie,Eakly,Male,30,1964-02-29,Research Assistant I,Health,High Net Worth,N,No,18,57,3728.88
+1194,3494,Robers,Richen,Male,72,1998-12-24,Account Representative IV,Argiculture,High Net Worth,N,No,1,23,2755.1099999999997
+1195,3496,Danya,Burnyeat,Male,99,1986-04-25,Editor,Manufacturing,Mass Customer,N,Yes,19,35,2045.8400000000001

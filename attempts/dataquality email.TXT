@@ -1,0 +1,21 @@
+customer demographic gender :
+column has multiple unique symbols('F', 'Male', 'Female', 'U', 'Femal', 'M')
+#nan values>last_name 125 > DOB 87> job_title 506>> job_industry_category 656> tenure 87> default 302
+default column>non understandable values
+our recomndation: 
+1-gender >> (f,femal) will be considered as Female , (M) will be cosiderd as Male , (U) will be considerd as Unknown
+2-droping all the rows with nan values
+3-drop default column 
+
+transactios:
+nan values>online_order 360 > (brand,product_line,product_class,product_size,standard_cost,product_first_sold_date)
+our recomndation> droping all nan values
+
+newcustomerlist:
+nan values> last_name29 > DOB17 > job_title 106 >job_industry_category 165
+our recomendation>drop all the nan values
+
+customer address:
+diffrent symbols for the same state['New South Wales' 'QLD' 'VIC' 'NSW' 'Victoria']
+
+
